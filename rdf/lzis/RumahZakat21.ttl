@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<RumahZakat21>	a	odzis:LembagaZIS ;
+		rdfs:label	"RumahZakat21" ;
+		odzis:nama	"RumahZakat21" ;
+		odzis:alamatjalan	"Jl. Gedung Empat No.E.3 Gatot Subroto" ;
+		odzis:kota	 <http://opendatazis.com/kota#Cimahi> ;
+		odzis:telp	"022-70723062" ;
+		odzis:LZISPusat	 <http://opendatazis.com/lzis#umah_Zaka> ;
+ .
+

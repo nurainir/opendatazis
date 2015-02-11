@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/lzis/">
+  <rdf:Description rdf:about="LembagaAmilZakatPersaudaraanHajiIndonesia">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatPersaudaraanHajiIndonesia">
+    <rdfs:label>LembagaAmilZakatPersaudaraanHajiIndonesia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatPersaudaraanHajiIndonesia">
+    <odzis:nama>LembagaAmilZakatPersaudaraanHajiIndonesia</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatPersaudaraanHajiIndonesia">
+    <odzis:alamatjalan>Jl. Tegalan No. 1 Matram</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatPersaudaraanHajiIndonesia">
+    <odzis:kota rdf:resource="../kota#Jakarta_timur"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatPersaudaraanHajiIndonesia">
+    <odzis:telp>021-8576645</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatPersaudaraanHajiIndonesia">
+    <odzis:fax>021-8576645</odzis:fax>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/lzis/">
+  <rdf:Description rdf:about="LembagaAmilZakatAlHijrah">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatAlHijrah">
+    <rdfs:label>LembagaAmilZakatAlHijrah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatAlHijrah">
+    <odzis:nama>LembagaAmilZakatAlHijrah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatAlHijrah">
+    <odzis:alamatjalan>Jl. Pasundan 18 Kec. Medan Petisah</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatAlHijrah">
+    <odzis:kota rdf:resource="../kota#Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatAlHijrah">
+    <odzis:telp>061-8224668</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatAlHijrah">
+    <odzis:fax>061-77842767</odzis:fax>
+  </rdf:Description>
+</rdf:RDF>

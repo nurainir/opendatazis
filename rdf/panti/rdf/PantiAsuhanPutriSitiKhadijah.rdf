@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/panti/">
+  <rdf:Description rdf:about="PantiAsuhanPutriSitiKhadijah">
+    <rdf:type rdf:resource="../odzis#Panti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PantiAsuhanPutriSitiKhadijah">
+    <rdfs:label>PantiAsuhanPutriSitiKhadijah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="PantiAsuhanPutriSitiKhadijah">
+    <odzis:nama>PantiAsuhanPutriSitiKhadijah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="PantiAsuhanPutriSitiKhadijah">
+    <odzis:alamatjalan>Jl. W. R. Soepratman No. 36</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="PantiAsuhanPutriSitiKhadijah">
+    <odzis:kota rdf:resource="../kota/Rantau_prapat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PantiAsuhanPutriSitiKhadijah">
+    <odzis:telp>0624 23734</odzis:telp>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/kota/">
+  <rdf:Description rdf:about="Poso">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Poso">
+    <rdfs:label>Poso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Poso">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-1.4</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Poso">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">120.783333333333</geo:long>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/lzis/">
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid8">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid8">
+    <rdfs:label>DompetPeduliUmmatDaarutTauhid8</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid8">
+    <odzis:nama>DompetPeduliUmmatDaarutTauhid8</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid8">
+    <odzis:alamatjalan>Jl. Seduduk Putih No. 005 Rt. 17/7</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid8">
+    <odzis:kota rdf:resource="../kota#Palembang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid8">
+    <odzis:telp>(0711) 739 0009</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid8">
+    <odzis:fax>(0711) 812763</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid8">
+    <odzis:LZISPusat rdf:resource="../lzis#ompet_Peduli_Ummat_Daarut_Tauhi"/>
+  </rdf:Description>
+</rdf:RDF>

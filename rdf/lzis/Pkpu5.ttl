@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<Pkpu5>	a	odzis:LembagaZIS ;
+		rdfs:label	"Pkpu5" ;
+		odzis:nama	"Pkpu5" ;
+		odzis:alamatjalan	"Jl. Sukarno hatta No.45 Desa Geuceu Menara, Kecamatan Jaya Baru" ;
+		odzis:kota	 <http://opendatazis.com/kota#Banda_aceh> ;
+		odzis:telp	"0651-43460" ;
+		odzis:LZISPusat	 <http://opendatazis.com/lzis#KP> ;
+ .
+

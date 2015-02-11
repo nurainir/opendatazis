@@ -1,0 +1,1677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/madrasah/">
+  <rdf:Description rdf:about="">
+    <dc:title>Daftar Madrasah Asuhan seluruh Indonesia</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="">
+    <dc:creator>OpenDataZis Admin</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="">
+    <dc:created>2011-09-28T11:26:40+0100</dc:created>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man1Jakarta">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man1Jakarta">
+    <rdfs:label>Man1Jakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man1Jakarta">
+    <odzis:nama>Man1Jakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man1Jakarta">
+    <odzis:alamatjalan>Jl. Rawa Bahagia Raya 28 Grogol Petamburan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man1Jakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man2Jakarta">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man2Jakarta">
+    <rdfs:label>Man2Jakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man2Jakarta">
+    <odzis:nama>Man2Jakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man2Jakarta">
+    <odzis:alamatjalan>Jl. Penganten Ali No. 112 Ciracas</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man2Jakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man3Jakarta">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man3Jakarta">
+    <rdfs:label>Man3Jakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man3Jakarta">
+    <odzis:nama>Man3Jakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man3Jakarta">
+    <odzis:alamatjalan>Jl. Rawasari Selatan Cempaka Putih</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man3Jakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man4Jakarta">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man4Jakarta">
+    <rdfs:label>Man4Jakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man4Jakarta">
+    <odzis:nama>Man4Jakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man4Jakarta">
+    <odzis:alamatjalan>Jl. Ciputat Raya Kebayoran Lama</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man4Jakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man5Jakarta">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man5Jakarta">
+    <rdfs:label>Man5Jakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man5Jakarta">
+    <odzis:nama>Man5Jakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man5Jakarta">
+    <odzis:alamatjalan>Jl. Marunda Baru No. 28 Cilincing</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man5Jakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man6Jakarta">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man6Jakarta">
+    <rdfs:label>Man6Jakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man6Jakarta">
+    <odzis:nama>Man6Jakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man6Jakarta">
+    <odzis:alamatjalan>Kampung Dukuh RT. 010/04 Kramat Jati</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man6Jakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man7Jakarta">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man7Jakarta">
+    <rdfs:label>Man7Jakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man7Jakarta">
+    <odzis:nama>Man7Jakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man7Jakarta">
+    <odzis:alamatjalan>Jl. Sukur Jagakarsa</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man7Jakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man8Jakarta">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man8Jakarta">
+    <rdfs:label>Man8Jakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man8Jakarta">
+    <odzis:nama>Man8Jakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man8Jakarta">
+    <odzis:alamatjalan>Jl. Balai Rakyat Cakung</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man8Jakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man9Jakarta">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man9Jakarta">
+    <rdfs:label>Man9Jakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man9Jakarta">
+    <odzis:nama>Man9Jakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man9Jakarta">
+    <odzis:alamatjalan>Jl. H. Dogol No. 54 Pondok Bambu Duren Sawit</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man9Jakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_timur"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man10Jakarta">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man10Jakarta">
+    <rdfs:label>Man10Jakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man10Jakarta">
+    <odzis:nama>Man10Jakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man10Jakarta">
+    <odzis:alamatjalan>Jl. Joglo Baru No.77 Kembangan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man10Jakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man11Jakarta">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man11Jakarta">
+    <rdfs:label>Man11Jakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man11Jakarta">
+    <odzis:nama>Man11Jakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man11Jakarta">
+    <odzis:alamatjalan>Jl. Haji Gandun Cilandak</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man11Jakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man12Jakarta">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man12Jakarta">
+    <rdfs:label>Man12Jakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man12Jakarta">
+    <odzis:nama>Man12Jakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man12Jakarta">
+    <odzis:alamatjalan>Jl. Raya Duri Kosambi Cengkareng</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man12Jakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man13Jakarta">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man13Jakarta">
+    <rdfs:label>Man13Jakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man13Jakarta">
+    <odzis:nama>Man13Jakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man13Jakarta">
+    <odzis:alamatjalan>Jl. Syukur Lenteng Agung Jagakarsa</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man13Jakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man14Jakarta">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man14Jakarta">
+    <rdfs:label>Man14Jakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man14Jakarta">
+    <odzis:nama>Man14Jakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man14Jakarta">
+    <odzis:alamatjalan>Jl. Madrasah Rt. 03/09 No. 80 Pasar Rebo</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man14Jakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man18Jakarta">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man18Jakarta">
+    <rdfs:label>Man18Jakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man18Jakarta">
+    <odzis:nama>Man18Jakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man18Jakarta">
+    <odzis:alamatjalan>Jl. Rawa Bahagia Pondok Kop</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Man18Jakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_timur"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_HidayatulWathon">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_HidayatulWathon">
+    <rdfs:label>Mts.HidayatulWathon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_HidayatulWathon">
+    <odzis:nama>Mts.HidayatulWathon</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_HidayatulWathon">
+    <odzis:alamatjalan>JI.Jagalan 8D/9 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_HidayatulWathon">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum">
+    <rdfs:label>Mts.MiftahulUlum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum">
+    <odzis:nama>Mts.MiftahulUlum</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum">
+    <odzis:alamatjalan>JI. Kupang Praupan Pasar 119 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MabadicKhoiriUmmah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MabadicKhoiriUmmah">
+    <rdfs:label>Mts.MabadicKhoiriUmmah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MabadicKhoiriUmmah">
+    <odzis:nama>Mts.MabadicKhoiriUmmah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MabadicKhoiriUmmah">
+    <odzis:alamatjalan>JI.Keputran 5125  3</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MabadicKhoiriUmmah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Darussalam">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Darussalam">
+    <rdfs:label>Mts.Darussalam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Darussalam">
+    <odzis:nama>Mts.Darussalam</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Darussalam">
+    <odzis:alamatjalan>JI.Jepara 1-Bll </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Darussalam">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AiIksan">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AiIksan">
+    <rdfs:label>Mts.AiIksan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AiIksan">
+    <odzis:nama>Mts.AiIksan</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AiIksan">
+    <odzis:alamatjalan>Jl.Dupak Masjid Brt.VIII/Bnt </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AiIksan">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RoudlotulUlum">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RoudlotulUlum">
+    <rdfs:label>Mts.RoudlotulUlum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RoudlotulUlum">
+    <odzis:nama>Mts.RoudlotulUlum</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RoudlotulUlum">
+    <odzis:alamatjalan>JI.Dupak Baru </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RoudlotulUlum">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda">
+    <rdfs:label>Mts.NurulHuda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda">
+    <odzis:nama>Mts.NurulHuda</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda">
+    <odzis:alamatjalan>JI.Sidoyoso IYI </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftabulUlumI">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftabulUlumI">
+    <rdfs:label>Mts.MiftabulUlumI</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftabulUlumI">
+    <odzis:nama>Mts.MiftabulUlumI</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftabulUlumI">
+    <odzis:alamatjalan>JI.Sidonipah VIIII-C</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftabulUlumI">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AdiPura">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AdiPura">
+    <rdfs:label>Mts.AdiPura</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AdiPura">
+    <odzis:nama>Mts.AdiPura</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AdiPura">
+    <odzis:alamatjalan>JI.Sombo (Komp. Rusun) </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AdiPura">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Darussalam1">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Darussalam1">
+    <rdfs:label>Mts.Darussalam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Darussalam1">
+    <odzis:nama>Mts.Darussalam</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Darussalam1">
+    <odzis:alamatjalan>JI.Tambak Madu 11155 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Darussalam1">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Kiam_Yahya">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Kiam_Yahya">
+    <rdfs:label>Mts.Kiam.Yahya</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Kiam_Yahya">
+    <odzis:nama>Mts.Kiam.Yahya</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Kiam_Yahya">
+    <odzis:alamatjalan>JI.Donokerto 11143 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Kiam_Yahya">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulHijroh">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulHijroh">
+    <rdfs:label>Mts.DarulHijroh</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulHijroh">
+    <odzis:nama>Mts.DarulHijroh</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulHijroh">
+    <odzis:alamatjalan>JI.Srengganan 111 -A </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulHijroh">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Muhammadiyah23">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Muhammadiyah23">
+    <rdfs:label>Mts.Muhammadiyah23</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Muhammadiyah23">
+    <odzis:nama>Mts.Muhammadiyah23</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Muhammadiyah23">
+    <odzis:alamatjalan>JI.Buntaran-Tandes </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Muhammadiyah23">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulUlum">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulUlum">
+    <rdfs:label>Mts.NurulUlum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulUlum">
+    <odzis:nama>Mts.NurulUlum</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulUlum">
+    <odzis:alamatjalan>JI.Buntaran Y37 B </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulUlum">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TriShakti">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TriShakti">
+    <rdfs:label>Mts.TriShakti</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TriShakti">
+    <odzis:nama>Mts.TriShakti</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TriShakti">
+    <odzis:alamatjalan>JI.Raya Tandes No.3 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TriShakti">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_WachidHa-syim">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_WachidHa-syim">
+    <rdfs:label>Mts.WachidHa-syim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_WachidHa-syim">
+    <odzis:nama>Mts.WachidHa-syim</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_WachidHa-syim">
+    <odzis:alamatjalan>JI.Balongsari Tama 3-B .</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_WachidHa-syim">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulLman">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulLman">
+    <rdfs:label>Mts.NurulLman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulLman">
+    <odzis:nama>Mts.NurulLman</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulLman">
+    <odzis:alamatjalan>JI.Manukan Mulyo LX/1 1 .</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulLman">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RoudiotulJannah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RoudiotulJannah">
+    <rdfs:label>Mts.RoudiotulJannah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RoudiotulJannah">
+    <odzis:nama>Mts.RoudiotulJannah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RoudiotulJannah">
+    <odzis:alamatjalan>JI.Wonorejo 11133 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RoudiotulJannah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlAmin">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlAmin">
+    <rdfs:label>Mts.AlAmin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlAmin">
+    <odzis:nama>Mts.AlAmin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlAmin">
+    <odzis:alamatjalan>JI.Banjarsugihan 52 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlAmin">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulUlum">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulUlum">
+    <rdfs:label>Mts.DarulUlum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulUlum">
+    <odzis:nama>Mts.DarulUlum</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulUlum">
+    <odzis:alamatjalan>JI.Manukan Kulon 98 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulUlum">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlKhoiriyah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlKhoiriyah">
+    <rdfs:label>Mts.AlKhoiriyah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlKhoiriyah">
+    <odzis:nama>Mts.AlKhoiriyah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlKhoiriyah">
+    <odzis:alamatjalan>Tubanan RT,03 RW.11 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlKhoiriyah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulHuda">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulHuda">
+    <rdfs:label>Mts.MiftahulHuda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulHuda">
+    <odzis:nama>Mts.MiftahulHuda</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulHuda">
+    <odzis:alamatjalan>JI.Gadel Utara</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulHuda">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_PangeranDiponegoro">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_PangeranDiponegoro">
+    <rdfs:label>Mts.PangeranDiponegoro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_PangeranDiponegoro">
+    <odzis:nama>Mts.PangeranDiponegoro</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_PangeranDiponegoro">
+    <odzis:alamatjalan>JI.Tmb.Mayor. 13rt.Rt7.RW4 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_PangeranDiponegoro">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Tarbiyatusibyan">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Tarbiyatusibyan">
+    <rdfs:label>Mts.Tarbiyatusibyan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Tarbiyatusibyan">
+    <odzis:nama>Mts.Tarbiyatusibyan</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Tarbiyatusibyan">
+    <odzis:alamatjalan>JI.Asemrowo Gg.Mulyo 12 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Tarbiyatusibyan">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TamanJaya">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TamanJaya">
+    <rdfs:label>Mts.TamanJaya</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TamanJaya">
+    <odzis:nama>Mts.TamanJaya</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TamanJaya">
+    <odzis:alamatjalan>JI.Greges Timur 1111 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TamanJaya">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulJannah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulJannah">
+    <rdfs:label>Mts.MiftahulJannah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulJannah">
+    <odzis:nama>Mts.MiftahulJannah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulJannah">
+    <odzis:alamatjalan>JI.Greges Barat V/2 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulJannah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MambaulUlum">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MambaulUlum">
+    <rdfs:label>Mts.MambaulUlum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MambaulUlum">
+    <odzis:nama>Mts.MambaulUlum</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MambaulUlum">
+    <odzis:alamatjalan>JI.Tambak Langon </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MambaulUlum">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlKarimah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlKarimah">
+    <rdfs:label>Mts.AlKarimah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlKarimah">
+    <odzis:nama>Mts.AlKarimah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlKarimah">
+    <odzis:alamatjalan>JI.SimoJawar </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlKarimah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_ImamSyafi’i">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_ImamSyafi’i">
+    <rdfs:label>Mts.ImamSyafi’i</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_ImamSyafi’i">
+    <odzis:nama>Mts.ImamSyafi’i</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_ImamSyafi’i">
+    <odzis:alamatjalan>JI.Babat Jerawat </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_ImamSyafi’i">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_H_hasyim">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_H_hasyim">
+    <rdfs:label>Mts.H.hasyim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_H_hasyim">
+    <odzis:nama>Mts.H.hasyim</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_H_hasyim">
+    <odzis:alamatjalan>JI.Jerawat No. </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_H_hasyim">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum1">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum1">
+    <rdfs:label>Mts.MiftahulUlum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum1">
+    <odzis:nama>Mts.MiftahulUlum</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum1">
+    <odzis:alamatjalan>JI.Jawar Tambak Dono </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum1">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_SultanAgung">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_SultanAgung">
+    <rdfs:label>Mts.SultanAgung</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_SultanAgung">
+    <odzis:nama>Mts.SultanAgung</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_SultanAgung">
+    <odzis:alamatjalan>JI.Rurmokalisari 1V41 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_SultanAgung">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_H_ali">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_H_ali">
+    <rdfs:label>Mts.H.ali</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_H_ali">
+    <odzis:nama>Mts.H.ali</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_H_ali">
+    <odzis:alamatjalan>JI.Sememi No. </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_H_ali">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_HasyimAsyari">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_HasyimAsyari">
+    <rdfs:label>Mts.HasyimAsyari</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_HasyimAsyari">
+    <odzis:nama>Mts.HasyimAsyari</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_HasyimAsyari">
+    <odzis:alamatjalan>JI.Sumber Rejo No. </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_HasyimAsyari">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Kh_a_siddiq">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Kh_a_siddiq">
+    <rdfs:label>Mts.Kh.a.siddiq</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Kh_a_siddiq">
+    <odzis:nama>Mts.Kh.a.siddiq</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Kh_a_siddiq">
+    <odzis:alamatjalan>JI.Putra Bangsa 1 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Kh_a_siddiq">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlHidayah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlHidayah">
+    <rdfs:label>Mts.AlHidayah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlHidayah">
+    <odzis:nama>Mts.AlHidayah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlHidayah">
+    <odzis:alamatjalan>JI.Bandar Sari </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlHidayah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlFatib">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlFatib">
+    <rdfs:label>Mts.AlFatib</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlFatib">
+    <odzis:nama>Mts.AlFatib</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlFatib">
+    <odzis:alamatjalan>JI.Tambak Oso Wilangun</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlFatib">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RadenRahmat">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RadenRahmat">
+    <rdfs:label>Mts.RadenRahmat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RadenRahmat">
+    <odzis:nama>Mts.RadenRahmat</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RadenRahmat">
+    <odzis:alamatjalan>JI.Tambaksari Bringin </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RadenRahmat">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Islamiyah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Islamiyah">
+    <rdfs:label>Mts.Islamiyah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Islamiyah">
+    <odzis:nama>Mts.Islamiyah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Islamiyah">
+    <odzis:alamatjalan>JI.Jeruk </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Islamiyah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtTaufiq">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtTaufiq">
+    <rdfs:label>Mts.AtTaufiq</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtTaufiq">
+    <odzis:nama>Mts.AtTaufiq</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtTaufiq">
+    <odzis:alamatjalan>JI.Lakarsantri </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtTaufiq">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Ii_thoyyib">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Ii_thoyyib">
+    <rdfs:label>Mts.Ii.thoyyib</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Ii_thoyyib">
+    <odzis:nama>Mts.Ii.thoyyib</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Ii_thoyyib">
+    <odzis:alamatjalan>JI.Lidah Kulon </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Ii_thoyyib">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AbuMansyur">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AbuMansyur">
+    <rdfs:label>Mts.AbuMansyur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AbuMansyur">
+    <odzis:nama>Mts.AbuMansyur</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AbuMansyur">
+    <odzis:alamatjalan>JI.Lidah Wetan </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AbuMansyur">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Ny_h_ashriyah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Ny_h_ashriyah">
+    <rdfs:label>Mts.Ny.h.ashriyah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Ny_h_ashriyah">
+    <odzis:nama>Mts.Ny.h.ashriyah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Ny_h_ashriyah">
+    <odzis:alamatjalan>JI.Lontar Lakarsantri </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Ny_h_ashriyah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHidayah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHidayah">
+    <rdfs:label>Mts.NurulHidayah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHidayah">
+    <odzis:nama>Mts.NurulHidayah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHidayah">
+    <odzis:alamatjalan>JI.Made</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHidayah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_HasanAlHasyim">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_HasanAlHasyim">
+    <rdfs:label>Mts.HasanAlHasyim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_HasanAlHasyim">
+    <odzis:nama>Mts.HasanAlHasyim</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_HasanAlHasyim">
+    <odzis:alamatjalan>JI.Sambi Kerep </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_HasanAlHasyim">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda(bangk_)">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda(bangk_)">
+    <rdfs:label>Mts.NurulHuda(bangk.)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda(bangk_)">
+    <odzis:nama>Mts.NurulHuda(bangk.)</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda(bangk_)">
+    <odzis:alamatjalan>JI.Raya Bangkingan </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda(bangk_)">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda(sambiS)">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda(sambiS)">
+    <rdfs:label>Mts.NurulHuda(sambiS)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda(sambiS)">
+    <odzis:nama>Mts.NurulHuda(sambiS)</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda(sambiS)">
+    <odzis:alamatjalan>JI.Sambi Sari No. </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda(sambiS)">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AnNahdiyah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AnNahdiyah">
+    <rdfs:label>Mts.AnNahdiyah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AnNahdiyah">
+    <odzis:nama>Mts.AnNahdiyah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AnNahdiyah">
+    <odzis:alamatjalan>Lontar Lakarsantri</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AnNahdiyah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlBidayah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlBidayah">
+    <rdfs:label>Mts.AlBidayah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlBidayah">
+    <odzis:nama>Mts.AlBidayah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlBidayah">
+    <odzis:alamatjalan>JI.Margorejo No. </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlBidayah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlHidayah1">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlHidayah1">
+    <rdfs:label>Mts.AlHidayah1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlHidayah1">
+    <odzis:nama>Mts.AlHidayah1</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlHidayah1">
+    <odzis:alamatjalan>JI.Bendul Merisi No. </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlHidayah1">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Min_Jambangan">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Min_Jambangan">
+    <rdfs:label>Min.Jambangan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Min_Jambangan">
+    <odzis:nama>Min.Jambangan</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Min_Jambangan">
+    <odzis:alamatjalan>Jl.Jambangan No. 147 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Min_Jambangan">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Hasanuddin">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Hasanuddin">
+    <rdfs:label>Mts.Hasanuddin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Hasanuddin">
+    <odzis:nama>Mts.Hasanuddin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Hasanuddin">
+    <odzis:alamatjalan>JI.Karah Gg.Ma@lid 6-8 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Hasanuddin">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Darussalam31">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Darussalam31">
+    <rdfs:label>Mts.Darussalam31</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Darussalam31">
+    <odzis:nama>Mts.Darussalam31</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Darussalam31">
+    <odzis:alamatjalan>Pagesangan 12 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Darussalam31">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Ittaqu">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Ittaqu">
+    <rdfs:label>Mts.Ittaqu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Ittaqu">
+    <odzis:nama>Mts.Ittaqu</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Ittaqu">
+    <odzis:alamatjalan>Jl. Moris 6 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Ittaqu">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtTauhid">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtTauhid">
+    <rdfs:label>Mts.AtTauhid</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtTauhid">
+    <odzis:nama>Mts.AtTauhid</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtTauhid">
+    <odzis:alamatjalan>JI.Sidoresmo Dalarn 11/37 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtTauhid">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Baiturrahman">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Baiturrahman">
+    <rdfs:label>Mts.Baiturrahman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Baiturrahman">
+    <odzis:nama>Mts.Baiturrahman</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Baiturrahman">
+    <odzis:alamatjalan>JI.Jagir Sidoresrno 11112.-4 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Baiturrahman">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulHuda31">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulHuda31">
+    <rdfs:label>Mts.MiftahulHuda31</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulHuda31">
+    <odzis:nama>Mts.MiftahulHuda31</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulHuda31">
+    <odzis:alamatjalan>Krukah Utara 78 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulHuda31">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Pers_Min">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Pers_Min">
+    <rdfs:label>Mts.Pers.Min</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Pers_Min">
+    <odzis:nama>Mts.Pers.Min</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Pers_Min">
+    <odzis:alamatjalan>JI.Pulo Wonokromo Wtn 1153</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Pers_Min">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Bahagia">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Bahagia">
+    <rdfs:label>Mts.Bahagia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Bahagia">
+    <odzis:nama>Mts.Bahagia</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Bahagia">
+    <odzis:alamatjalan>JI.Gunungsari 1 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Bahagia">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Yapisthon">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Yapisthon">
+    <rdfs:label>Mts.Yapisthon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Yapisthon">
+    <odzis:nama>Mts.Yapisthon</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Yapisthon">
+    <odzis:alamatjalan>JI.Pulo Wonokromo 67 Shy</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Yapisthon">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Aisyah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Aisyah">
+    <rdfs:label>Mts.Aisyah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Aisyah">
+    <odzis:nama>Mts.Aisyah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Aisyah">
+    <odzis:alamatjalan>JI.Pulo Wonokromo 140-C</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Aisyah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RadenRahmat1">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RadenRahmat1">
+    <rdfs:label>Mts.RadenRahmat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RadenRahmat1">
+    <odzis:nama>Mts.RadenRahmat</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RadenRahmat1">
+    <odzis:alamatjalan>JI.Karang Rejo IXII </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RadenRahmat1">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlFurqon">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlFurqon">
+    <rdfs:label>Mts.AlFurqon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlFurqon">
+    <odzis:nama>Mts.AlFurqon</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlFurqon">
+    <odzis:alamatjalan>JI.Wonokrorno IV/23 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlFurqon">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlMidayah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlMidayah">
+    <rdfs:label>Mts.AlMidayah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlMidayah">
+    <odzis:nama>Mts.AlMidayah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlMidayah">
+    <odzis:alamatjalan>JI.Petemon 111193 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlMidayah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtMidayah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtMidayah">
+    <rdfs:label>Mts.AtMidayah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtMidayah">
+    <odzis:nama>Mts.AtMidayah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtMidayah">
+    <odzis:alamatjalan>JI.Kebraon 11115 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtMidayah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum31_">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum31_">
+    <rdfs:label>Mts.MiftahulUlum31.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum31_">
+    <odzis:nama>Mts.MiftahulUlum31.</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum31_">
+    <odzis:alamatjalan>Warugunung </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum31_">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda1">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda1">
+    <rdfs:label>Mts.NurulHuda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda1">
+    <odzis:nama>Mts.NurulHuda</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda1">
+    <odzis:alamatjalan>JI.Kedurus 111/Maasjid </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHuda1">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_BabrulUlum">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_BabrulUlum">
+    <rdfs:label>Mts.BabrulUlum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_BabrulUlum">
+    <odzis:nama>Mts.BabrulUlum</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_BabrulUlum">
+    <odzis:alamatjalan>JI.Wiyung Karangpilang </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_BabrulUlum">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulArqom">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulArqom">
+    <rdfs:label>Mts.DarulArqom</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulArqom">
+    <odzis:nama>Mts.DarulArqom</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulArqom">
+    <odzis:alamatjalan>Raya Griya Babadan Indah 35 1 7</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulArqom">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MtsBadrusSalam">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MtsBadrusSalam">
+    <rdfs:label>MtsBadrusSalam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MtsBadrusSalam">
+    <odzis:nama>MtsBadrusSalam</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MtsBadrusSalam">
+    <odzis:alamatjalan>Jl. Pradah Kalikendal 18</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MtsBadrusSalam">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtAziez">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtAziez">
+    <rdfs:label>Mts.AtAziez</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtAziez">
+    <odzis:nama>Mts.AtAziez</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtAziez">
+    <odzis:alamatjalan>Jl.Semut IVII 5-17 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AtAziez">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulQomar">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulQomar">
+    <rdfs:label>Mts.NurulQomar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulQomar">
+    <odzis:nama>Mts.NurulQomar</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulQomar">
+    <odzis:alamatjalan>JI.Dapuan Baru 35 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulQomar">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Multdah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Multdah">
+    <rdfs:label>Mts.Multdah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Multdah">
+    <odzis:nama>Mts.Multdah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Multdah">
+    <odzis:alamatjalan>JI.Kalimas Baru V8 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Multdah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum2">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum2">
+    <rdfs:label>Mts.MiftahulUlum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum2">
+    <odzis:nama>Mts.MiftahulUlum</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum2">
+    <odzis:alamatjalan>JI.Panggung LX/42 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MiftahulUlum2">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlAmin1">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlAmin1">
+    <rdfs:label>Mts.AlAmin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlAmin1">
+    <odzis:nama>Mts.AlAmin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlAmin1">
+    <odzis:alamatjalan>JI.Kalimas Baru 111115  19</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlAmin1">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlGhozaliIi">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlGhozaliIi">
+    <rdfs:label>Mts.AlGhozaliIi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlGhozaliIi">
+    <odzis:nama>Mts.AlGhozaliIi</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlGhozaliIi">
+    <odzis:alamatjalan>JI.Hangtuah VV53 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlGhozaliIi">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlGhozaliIi">
+    <odzis:telp>031-3293603</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulBarokah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulBarokah">
+    <rdfs:label>Mts.DarulBarokah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulBarokah">
+    <odzis:nama>Mts.DarulBarokah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulBarokah">
+    <odzis:alamatjalan>JI.Jatipurwo IV/14-A </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulBarokah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulBarokah">
+    <odzis:telp>031-3297014</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulUlum1">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulUlum1">
+    <rdfs:label>Mts.DarulUlum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulUlum1">
+    <odzis:nama>Mts.DarulUlum</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulUlum1">
+    <odzis:alamatjalan>JI.Wonokusumo Tengah 36 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarulUlum1">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NahdhatulAtfal">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NahdhatulAtfal">
+    <rdfs:label>Mts.NahdhatulAtfal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NahdhatulAtfal">
+    <odzis:nama>Mts.NahdhatulAtfal</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NahdhatulAtfal">
+    <odzis:alamatjalan>Jl. Bulak Jaya lIV39</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NahdhatulAtfal">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NahdhatulAtfal">
+    <odzis:telp>031- 3721223</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Islamiyah1">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Islamiyah1">
+    <rdfs:label>Mts.Islamiyah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Islamiyah1">
+    <odzis:nama>Mts.Islamiyah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Islamiyah1">
+    <odzis:alamatjalan>JI.Wonokusumo Wet.V/21 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Islamiyah1">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Islamiyah1">
+    <odzis:telp>031-3769604</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_LifWathon">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_LifWathon">
+    <rdfs:label>Mts.LifWathon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_LifWathon">
+    <odzis:nama>Mts.LifWathon</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_LifWathon">
+    <odzis:alamatjalan>Jl. Won. Tengah 53</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_LifWathon">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_LifWathon">
+    <odzis:telp>031–3724317</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TambakDeres">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TambakDeres">
+    <rdfs:label>Mts.TambakDeres</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TambakDeres">
+    <odzis:nama>Mts.TambakDeres</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TambakDeres">
+    <odzis:alamatjalan>JI.Bulak BogarAmi 111129 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TambakDeres">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHidayah1">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHidayah1">
+    <rdfs:label>Mts.NurulHidayah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHidayah1">
+    <odzis:nama>Mts.NurulHidayah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHidayah1">
+    <odzis:alamatjalan>Jl.Pogot 1115-1? </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulHidayah1">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlMustofa">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlMustofa">
+    <rdfs:label>Mts.AlMustofa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlMustofa">
+    <odzis:nama>Mts.AlMustofa</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlMustofa">
+    <odzis:alamatjalan>JI.Tamabk Deres IV </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlMustofa">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Muhammadiyah25">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Muhammadiyah25">
+    <rdfs:label>Mts.Muhammadiyah25</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Muhammadiyah25">
+    <odzis:nama>Mts.Muhammadiyah25</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Muhammadiyah25">
+    <odzis:alamatjalan>JL..Sidotopo Wetan I Dalam 18</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Muhammadiyah25">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulYaqin">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulYaqin">
+    <rdfs:label>Mts.NurulYaqin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulYaqin">
+    <odzis:nama>Mts.NurulYaqin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulYaqin">
+    <odzis:alamatjalan>JI.Kedung Cowek </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulYaqin">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Kh_romlyTamim">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Kh_romlyTamim">
+    <rdfs:label>Mts.Kh.romlyTamim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Kh_romlyTamim">
+    <odzis:nama>Mts.Kh.romlyTamim</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Kh_romlyTamim">
+    <odzis:alamatjalan>JI.Kenjeran Pantai </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_Kh_romlyTamim">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_UswatunHasanah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_UswatunHasanah">
+    <rdfs:label>Mts.UswatunHasanah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_UswatunHasanah">
+    <odzis:nama>Mts.UswatunHasanah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_UswatunHasanah">
+    <odzis:alamatjalan>JI.Suropati IV/ </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_UswatunHasanah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlMutmainah">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlMutmainah">
+    <rdfs:label>Mts.AlMutmainah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlMutmainah">
+    <odzis:nama>Mts.AlMutmainah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlMutmainah">
+    <odzis:alamatjalan>JI.Cumpat GG.TPI </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_AlMutmainah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RoudhotulUlum">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RoudhotulUlum">
+    <rdfs:label>Mts.RoudhotulUlum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RoudhotulUlum">
+    <odzis:nama>Mts.RoudhotulUlum</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RoudhotulUlum">
+    <odzis:alamatjalan>JI.Bulak Banteng Baru Kamboja</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_RoudhotulUlum">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MuslimatNu_">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MuslimatNu_">
+    <rdfs:label>Mts.MuslimatNu.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MuslimatNu_">
+    <odzis:nama>Mts.MuslimatNu.</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MuslimatNu_">
+    <odzis:alamatjalan>JI.Bulak Banteng </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_MuslimatNu_">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarutTauhid">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarutTauhid">
+    <rdfs:label>Mts.DarutTauhid</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarutTauhid">
+    <odzis:nama>Mts.DarutTauhid</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarutTauhid">
+    <odzis:alamatjalan>Jl. Dukuh Bulak Banteng 1111</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarutTauhid">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TahsinulAkhlaqB_u">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TahsinulAkhlaqB_u">
+    <rdfs:label>Mts.TahsinulAkhlaqB.u</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TahsinulAkhlaqB_u">
+    <odzis:nama>Mts.TahsinulAkhlaqB.u</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TahsinulAkhlaqB_u">
+    <odzis:alamatjalan>Kedinding Tengah Baru IV/</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_TahsinulAkhlaqB_u">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_IhyaulUlum">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_IhyaulUlum">
+    <rdfs:label>Mts.IhyaulUlum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_IhyaulUlum">
+    <odzis:nama>Mts.IhyaulUlum</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_IhyaulUlum">
+    <odzis:alamatjalan>Bulak Banteng Bheneka VIIII</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_IhyaulUlum">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarusSalam">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarusSalam">
+    <rdfs:label>Mts.DarusSalam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarusSalam">
+    <odzis:nama>Mts.DarusSalam</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarusSalam">
+    <odzis:alamatjalan>Bulak Banteng Kidul IV/7</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_DarusSalam">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/masjid/">
+  <rdf:Description rdf:about="MasjidAlMa_ruf">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMa_ruf">
+    <rdfs:label>MasjidAlMa'ruf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMa_ruf">
+    <odzis:nama>MasjidAlMa'ruf</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMa_ruf">
+    <odzis:alamatjalan>Jl Aluminium Gatot Subroto Kompl BI 23 20362</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMa_ruf">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMa_ruf">
+    <odzis:telp>061-8441687</odzis:telp>
+  </rdf:Description>
+</rdf:RDF>

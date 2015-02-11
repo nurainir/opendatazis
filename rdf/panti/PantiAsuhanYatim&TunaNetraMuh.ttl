@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<PantiAsuhanYatim&TunaNetraMuh>	a	odzis:Panti ;
+		rdfs:label	"PantiAsuhanYatim&TunaNetraMuh" ;
+		odzis:nama	"PantiAsuhanYatim&TunaNetraMuh" ;
+		odzis:alamatjalan	"Cab. Purworejo Jl. Plaosan V/382" ;
+		odzis:kota	 <http://opendatazis.com/kota/Purworejo> ;
+		odzis:telp	"0275 21506" ;
+ .
+

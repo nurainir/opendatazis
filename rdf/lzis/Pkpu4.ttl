@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<Pkpu4>	a	odzis:LembagaZIS ;
+		rdfs:label	"Pkpu4" ;
+		odzis:nama	"Pkpu4" ;
+		odzis:alamatjalan	"Jl. Ngagel Madya no.83" ;
+		odzis:kota	 <http://opendatazis.com/kota#Surabaya> ;
+		odzis:telp	"031-5039285" ;
+		odzis:fax	"031-5039285" ;
+		odzis:LZISPusat	 <http://opendatazis.com/lzis#KP> ;
+ .
+

@@ -1,0 +1,2535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/masjid/">
+  <rdf:Description rdf:about="">
+    <dc:title>Daftar Masjid seluruh Indonesia</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="">
+    <dc:creator>OpenDataZis Admin</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="">
+    <dc:created>2011-09-28T11:39:54+0100</dc:created>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSalman">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSalman">
+    <rdfs:label>MasjidSalman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSalman">
+    <odzis:nama>MasjidSalman</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSalman">
+    <odzis:alamatjalan>Kampus Institut Teknologi Bandung</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSalman">
+    <odzis:kota rdf:resource="../kota/Bandung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlAmin">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlAmin">
+    <rdfs:label>MasjidAlAmin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlAmin">
+    <odzis:nama>MasjidAlAmin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlAmin">
+    <odzis:alamatjalan>Jl Prof Dr HM Yamin SH 482 20233</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlAmin">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlAmin">
+    <odzis:telp>061-4579023</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFath">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFath">
+    <rdfs:label>MasjidAlFath</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFath">
+    <odzis:nama>MasjidAlFath</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFath">
+    <odzis:alamatjalan>Jl KH Wahid Hasyim 105 20119</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFath">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFath">
+    <odzis:telp>061-4572650</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHakim">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHakim">
+    <rdfs:label>MasjidAlHakim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHakim">
+    <odzis:nama>MasjidAlHakim</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHakim">
+    <odzis:alamatjalan>Jl Rahayu Tmr Ujung 4 20224</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHakim">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHakim">
+    <odzis:telp>061-6854404</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHidayah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHidayah">
+    <rdfs:label>MasjidAlHidayah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHidayah">
+    <odzis:nama>MasjidAlHidayah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHidayah">
+    <odzis:alamatjalan>Jl Menteng Indah VI H VI H 20228</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHidayah">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHidayah">
+    <odzis:telp>061-7876768</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHuda">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHuda">
+    <rdfs:label>MasjidAlHuda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHuda">
+    <odzis:nama>MasjidAlHuda</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHuda">
+    <odzis:alamatjalan>Jl Balai Ds 23 20148</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHuda">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHuda">
+    <odzis:telp>061-8441163</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIkhlasTaqwa">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIkhlasTaqwa">
+    <rdfs:label>MasjidAlIkhlasTaqwa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIkhlasTaqwa">
+    <odzis:nama>MasjidAlIkhlasTaqwa</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIkhlasTaqwa">
+    <odzis:alamatjalan>Jl Medan Area Slt 129 20216</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIkhlasTaqwa">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIkhlasTaqwa">
+    <odzis:telp>061-7365605</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlJunaid">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlJunaid">
+    <rdfs:label>MasjidAlJunaid</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlJunaid">
+    <odzis:nama>MasjidAlJunaid</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlJunaid">
+    <odzis:alamatjalan>Jl Buluh Perindu Gg Mutiara 32 20224</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlJunaid">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlJunaid">
+    <odzis:telp>061-7323009</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlManar">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlManar">
+    <rdfs:label>MasjidAlManar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlManar">
+    <odzis:nama>MasjidAlManar</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlManar">
+    <odzis:alamatjalan>Jl Laksana 47 20215</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlManar">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlManar">
+    <odzis:telp>061-7365519</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMa_ruf">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMa_ruf">
+    <rdfs:label>MasjidAlMa'ruf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMa_ruf">
+    <odzis:nama>MasjidAlMa'ruf</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMa_ruf">
+    <odzis:alamatjalan>Jl Aluminium Gatot Subroto Kompl BI 23 20362</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMa_ruf">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMa_ruf">
+    <odzis:telp>061-8441687</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin">
+    <rdfs:label>MasjidAlMuhajirin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin">
+    <odzis:nama>MasjidAlMuhajirin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin">
+    <odzis:alamatjalan>Jl Denai Gg Padi 1</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin">
+    <odzis:telp> 061-77819012</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMukhlisin">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMukhlisin">
+    <rdfs:label>MasjidAlMukhlisin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMukhlisin">
+    <odzis:nama>MasjidAlMukhlisin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMukhlisin">
+    <odzis:alamatjalan>Jl GB Yosua 8 20234</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMukhlisin">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMukhlisin">
+    <odzis:telp>061-4554847</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAl-hidayah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAl-hidayah">
+    <rdfs:label>MasjidAl-hidayah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAl-hidayah">
+    <odzis:nama>MasjidAl-hidayah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAl-hidayah">
+    <odzis:alamatjalan>Jl Jawa </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAl-hidayah">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAl-hidayah">
+    <odzis:telp>061-4530431</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAljihadMedanBaru">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAljihadMedanBaru">
+    <rdfs:label>MasjidAljihadMedanBaru</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAljihadMedanBaru">
+    <odzis:nama>MasjidAljihadMedanBaru</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAljihadMedanBaru">
+    <odzis:alamatjalan>Jl Abdullah Lubis 38 20154</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAljihadMedanBaru">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAljihadMedanBaru">
+    <odzis:telp>061-4572027</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAmalBakti">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAmalBakti">
+    <rdfs:label>MasjidAmalBakti</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAmalBakti">
+    <odzis:nama>MasjidAmalBakti</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAmalBakti">
+    <odzis:alamatjalan>Jl Gaperta 261 20124</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAmalBakti">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAmalBakti">
+    <odzis:telp>061-8471277</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAmalMuslimin">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAmalMuslimin">
+    <rdfs:label>MasjidAmalMuslimin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAmalMuslimin">
+    <odzis:nama>MasjidAmalMuslimin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAmalMuslimin">
+    <odzis:alamatjalan>Jl Menteng VII 20228</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAmalMuslimin">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAmalMuslimin">
+    <odzis:telp>061-7877281</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidArRahman">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidArRahman">
+    <rdfs:label>MasjidArRahman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidArRahman">
+    <odzis:nama>MasjidArRahman</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidArRahman">
+    <odzis:alamatjalan>Jl Gaperta 15 D 20126</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidArRahman">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidArRahman">
+    <odzis:telp>061-8460288</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAshShidah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAshShidah">
+    <rdfs:label>MasjidAshShidah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAshShidah">
+    <odzis:nama>MasjidAshShidah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAshShidah">
+    <odzis:alamatjalan>Jl Sei Blutu I 21-C 20158</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAshShidah">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAshShidah">
+    <odzis:telp>061-4571116</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAttaubah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAttaubah">
+    <rdfs:label>MasjidAttaubah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAttaubah">
+    <odzis:nama>MasjidAttaubah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAttaubah">
+    <odzis:alamatjalan>Jl Putri Hijau 6 20111</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAttaubah">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAttaubah">
+    <odzis:telp>061-4563739</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaituRachman">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaituRachman">
+    <rdfs:label>MasjidBaituRachman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaituRachman">
+    <odzis:nama>MasjidBaituRachman</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaituRachman">
+    <odzis:alamatjalan>Kompl Johor Indah Permai I Bl R 5/17 20144</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaituRachman">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaituRachman">
+    <odzis:telp>061-7877717</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDarulIkhsan">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDarulIkhsan">
+    <rdfs:label>MasjidDarulIkhsan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDarulIkhsan">
+    <odzis:nama>MasjidDarulIkhsan</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDarulIkhsan">
+    <odzis:alamatjalan>Jl Stasiun Gg Situmeang 64-D 20361</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDarulIkhsan">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDarulIkhsan">
+    <odzis:telp>061-7879638</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDaurunNur">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDaurunNur">
+    <rdfs:label>MasjidDaurunNur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDaurunNur">
+    <odzis:nama>MasjidDaurunNur</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDaurunNur">
+    <odzis:alamatjalan>Jl Suka Eka 31-A 20146</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDaurunNur">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDaurunNur">
+    <odzis:telp>061-7866281</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidFajarRamadhan">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidFajarRamadhan">
+    <rdfs:label>MasjidFajarRamadhan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidFajarRamadhan">
+    <odzis:nama>MasjidFajarRamadhan</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidFajarRamadhan">
+    <odzis:alamatjalan>Kompl JIP II Bl A/50</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidFajarRamadhan">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidFajarRamadhan">
+    <odzis:telp>061-7850895</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMualimmin">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMualimmin">
+    <rdfs:label>MasjidMualimmin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMualimmin">
+    <odzis:nama>MasjidMualimmin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMualimmin">
+    <odzis:alamatjalan>Jl Sisingamangaraja Gg Keluarga 33 20215</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMualimmin">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMualimmin">
+    <odzis:telp>061-7344833</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMubarak">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMubarak">
+    <rdfs:label>MasjidMubarak</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMubarak">
+    <odzis:nama>MasjidMubarak</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMubarak">
+    <odzis:alamatjalan>Jl Pasar III 5 20238</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMubarak">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMubarak">
+    <odzis:telp>061-6638635</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMufarridiyah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMufarridiyah">
+    <rdfs:label>MasjidMufarridiyah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMufarridiyah">
+    <odzis:nama>MasjidMufarridiyah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMufarridiyah">
+    <odzis:alamatjalan>Jl Arif Rahman Hakim Gg Amaliah 2 20236</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMufarridiyah">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMufarridiyah">
+    <odzis:telp>061-7322953</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMuslimTeladan">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMuslimTeladan">
+    <rdfs:label>MasjidMuslimTeladan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMuslimTeladan">
+    <odzis:nama>MasjidMuslimTeladan</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMuslimTeladan">
+    <odzis:alamatjalan>Jl Turi 20 20217</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMuslimTeladan">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMuslimTeladan">
+    <odzis:telp>061-7344320</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda">
+    <rdfs:label>MasjidNurulHuda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda">
+    <odzis:nama>MasjidNurulHuda</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda">
+    <odzis:alamatjalan>Jl Garuda 29 20227</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda">
+    <odzis:telp>061-8460178</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaAlMashun">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaAlMashun">
+    <rdfs:label>MasjidRayaAlMashun</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaAlMashun">
+    <odzis:nama>MasjidRayaAlMashun</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaAlMashun">
+    <odzis:alamatjalan>Jl Sisingamangaraja 20218</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaAlMashun">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaAlMashun">
+    <odzis:telp>061-7368578</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaAlmuhajirin">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaAlmuhajirin">
+    <rdfs:label>MasjidRayaAlmuhajirin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaAlmuhajirin">
+    <odzis:nama>MasjidRayaAlmuhajirin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaAlmuhajirin">
+    <odzis:alamatjalan>Jl Garuda II 20227</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaAlmuhajirin">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaAlmuhajirin">
+    <odzis:telp>061-7361889</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaPusatPasar">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaPusatPasar">
+    <rdfs:label>MasjidRayaPusatPasar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaPusatPasar">
+    <odzis:nama>MasjidRayaPusatPasar</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaPusatPasar">
+    <odzis:alamatjalan>Jl Pusat Psr Lt IV 20212</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaPusatPasar">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaPusatPasar">
+    <odzis:telp>061-4561586</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa">
+    <rdfs:label>MasjidTaqwa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa">
+    <odzis:nama>MasjidTaqwa</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa">
+    <odzis:alamatjalan>Jl Tangkul 128-A 20222</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa">
+    <odzis:telp>061-6696235</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa1">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa1">
+    <rdfs:label>MasjidTaqwa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa1">
+    <odzis:nama>MasjidTaqwa</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa1">
+    <odzis:alamatjalan>Jl Mandala By Pass 140 20223</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa1">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa1">
+    <odzis:telp>061-7324786</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa2">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa2">
+    <rdfs:label>MasjidTaqwa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa2">
+    <odzis:nama>MasjidTaqwa</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa2">
+    <odzis:alamatjalan>Jl Karya Sehati 6 20143</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa2">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa2">
+    <odzis:telp>061-7875554</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwaMawarMelati">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwaMawarMelati">
+    <rdfs:label>MasjidTaqwaMawarMelati</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwaMawarMelati">
+    <odzis:nama>MasjidTaqwaMawarMelati</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwaMawarMelati">
+    <odzis:alamatjalan>Jl Batu Putih 28 20233</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwaMawarMelati">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwaMawarMelati">
+    <odzis:telp>061-4558290</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwaMuhammadiyah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwaMuhammadiyah">
+    <rdfs:label>MasjidTaqwaMuhammadiyah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwaMuhammadiyah">
+    <odzis:nama>MasjidTaqwaMuhammadiyah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwaMuhammadiyah">
+    <odzis:alamatjalan>Jl Demak 3 20214</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwaMuhammadiyah">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwaMuhammadiyah">
+    <odzis:telp>061-7344741</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushallaAisyiyah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushallaAisyiyah">
+    <rdfs:label>MushallaAisyiyah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushallaAisyiyah">
+    <odzis:nama>MushallaAisyiyah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushallaAisyiyah">
+    <odzis:alamatjalan>Jl Sei Batang Serangan 56/37 20119</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushallaAisyiyah">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushallaAisyiyah">
+    <odzis:telp>061-4155233</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAhishlah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAhishlah">
+    <rdfs:label>MushollaAhishlah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAhishlah">
+    <odzis:nama>MushollaAhishlah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAhishlah">
+    <odzis:alamatjalan>Jl Amaliun Gg Pardamean 15 20352</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAhishlah">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAhishlah">
+    <odzis:telp>061-7324359</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollahBalerongBayur">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollahBalerongBayur">
+    <rdfs:label>MushollahBalerongBayur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollahBalerongBayur">
+    <odzis:nama>MushollahBalerongBayur</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollahBalerongBayur">
+    <odzis:alamatjalan>Jl Utama 135 71 20215</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollahBalerongBayur">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollahBalerongBayur">
+    <odzis:telp>061-7346344</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNasionalAlAkbar">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNasionalAlAkbar">
+    <rdfs:label>MasjidNasionalAlAkbar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNasionalAlAkbar">
+    <odzis:nama>MasjidNasionalAlAkbar</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNasionalAlAkbar">
+    <odzis:alamatjalan>Jl. Masjid Al-Akbar</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNasionalAlAkbar">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNasionalAlAkbar">
+    <odzis:telp>031- 8289755</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda1">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda1">
+    <rdfs:label>MasjidNurulHuda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda1">
+    <odzis:nama>MasjidNurulHuda</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda1">
+    <odzis:alamatjalan>Jl. Said Parintah</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda1">
+    <odzis:kota rdf:resource="../kota/Ambon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidIstiqlal">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidIstiqlal">
+    <rdfs:label>MasjidIstiqlal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidIstiqlal">
+    <odzis:nama>MasjidIstiqlal</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidIstiqlal">
+    <odzis:alamatjalan>Jl. Taman Wijaya Kusuma</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidIstiqlal">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidIstiqlal">
+    <odzis:telp>021- 3503287</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAttaubah1">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAttaubah1">
+    <rdfs:label>MasjidAttaubah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAttaubah1">
+    <odzis:nama>MasjidAttaubah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAttaubah1">
+    <odzis:alamatjalan>Jl. Kebon Nanas Selatan 3 No. 18  Jatinegara</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAttaubah1">
+    <odzis:kota rdf:resource="../kota/Jakarta_timur"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlBahri">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlBahri">
+    <rdfs:label>MasjidAlBahri</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlBahri">
+    <odzis:nama>MasjidAlBahri</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlBahri">
+    <odzis:alamatjalan>Jl. Mayjen DI Panjaitan Jatinegara</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlBahri">
+    <odzis:kota rdf:resource="../kota/Jakarta_timur"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJamiAtTaufiq">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJamiAtTaufiq">
+    <rdfs:label>MasjidJamiAtTaufiq</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJamiAtTaufiq">
+    <odzis:nama>MasjidJamiAtTaufiq</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJamiAtTaufiq">
+    <odzis:alamatjalan>Perumahan Taman Sentosa Blok J Sukaresmi Cikarang Selatan 17550</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJamiAtTaufiq">
+    <odzis:kota rdf:resource="../kota/Bekasi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJamiAtTaufiq">
+    <odzis:telp>021-89905698</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungJami">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungJami">
+    <rdfs:label>MasjidAgungJami</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungJami">
+    <odzis:nama>MasjidAgungJami</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungJami">
+    <odzis:alamatjalan>Jalan Merdeka Barat No 3 </odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungJami">
+    <odzis:kota rdf:resource="../kota/Malang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungJami">
+    <odzis:telp>0341 – 321365 </odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungJami">
+    <odzis:website rdf:resource="http://masjidjami.com/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraMlangi">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraMlangi">
+    <rdfs:label>MasjidPathokNegaraMlangi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraMlangi">
+    <odzis:nama>MasjidPathokNegaraMlangi</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraMlangi">
+    <odzis:alamatjalan>Dusun Mlangi Nogotirto Gamping</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraMlangi">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraTaqwaWonokromo">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraTaqwaWonokromo">
+    <rdfs:label>MasjidPathokNegaraTaqwaWonokromo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraTaqwaWonokromo">
+    <odzis:nama>MasjidPathokNegaraTaqwaWonokromo</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraTaqwaWonokromo">
+    <odzis:alamatjalan>Wonokromo, Pleret</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraTaqwaWonokromo">
+    <odzis:kota rdf:resource="../kota/Bantul"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraSulthoniPlosokuning">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraSulthoniPlosokuning">
+    <rdfs:label>MasjidPathokNegaraSulthoniPlosokuning</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraSulthoniPlosokuning">
+    <odzis:nama>MasjidPathokNegaraSulthoniPlosokuning</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraSulthoniPlosokuning">
+    <odzis:alamatjalan>Jl. Plosokuning Raya No. 99 Minomartani Ngaglik</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraSulthoniPlosokuning">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraAd-darojatBabadan">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraAd-darojatBabadan">
+    <rdfs:label>MasjidPathokNegaraAd-darojatBabadan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraAd-darojatBabadan">
+    <odzis:nama>MasjidPathokNegaraAd-darojatBabadan</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraAd-darojatBabadan">
+    <odzis:alamatjalan>Babadan Gedongkuning Banguntapan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidPathokNegaraAd-darojatBabadan">
+    <odzis:kota rdf:resource="../kota/Bantul"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidArRoyan">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidArRoyan">
+    <rdfs:label>MasjidArRoyan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidArRoyan">
+    <odzis:nama>MasjidArRoyan</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidArRoyan">
+    <odzis:alamatjalan>Perum Galaxy Blok N</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidArRoyan">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitusSyakur">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitusSyakur">
+    <rdfs:label>MasjidBaitusSyakur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitusSyakur">
+    <odzis:nama>MasjidBaitusSyakur</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitusSyakur">
+    <odzis:alamatjalan>Perum Bulog Jatim</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitusSyakur">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSabilillah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSabilillah">
+    <rdfs:label>MasjidSabilillah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSabilillah">
+    <odzis:nama>MasjidSabilillah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSabilillah">
+    <odzis:alamatjalan>Jl. Jend A Yani 15</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSabilillah">
+    <odzis:kota rdf:resource="../kota/Malang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSabilillah">
+    <odzis:website rdf:resource="http://www.sabilillahmalang.org/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaUkhuwwah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaUkhuwwah">
+    <rdfs:label>MasjidRayaUkhuwwah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaUkhuwwah">
+    <odzis:nama>MasjidRayaUkhuwwah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaUkhuwwah">
+    <odzis:alamatjalan>Jalan Kalimantan No. 19</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaUkhuwwah">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungSudirman">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungSudirman">
+    <rdfs:label>MasjidAgungSudirman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungSudirman">
+    <odzis:nama>MasjidAgungSudirman</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungSudirman">
+    <odzis:alamatjalan>Jl. Slamet Riyadi</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungSudirman">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFalaq">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFalaq">
+    <rdfs:label>MasjidAlFalaq</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFalaq">
+    <odzis:nama>MasjidAlFalaq</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFalaq">
+    <odzis:alamatjalan>Jl. M.T. Haryono II No. 14</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFalaq">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFurqon">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFurqon">
+    <rdfs:label>MasjidAlFurqon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFurqon">
+    <odzis:nama>MasjidAlFurqon</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFurqon">
+    <odzis:alamatjalan>Jl. Jenderal Sudirman</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFurqon">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah">
+    <rdfs:label>MasjidAlHikmah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah">
+    <odzis:nama>MasjidAlHikmah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah">
+    <odzis:alamatjalan>Jl. Soka No. 18, Kesiman Kertalangu</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIkhlas">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIkhlas">
+    <rdfs:label>MasjidAlIkhlas</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIkhlas">
+    <odzis:nama>MasjidAlIkhlas</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIkhlas">
+    <odzis:alamatjalan>Jl. Gunung Batukaru No. 92 B, Tegal Kertha</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIkhlas">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin1">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin1">
+    <rdfs:label>MasjidAlMuhajirin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin1">
+    <odzis:nama>MasjidAlMuhajirin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin1">
+    <odzis:alamatjalan>Jl. Raya Pemogan, Gang Masjid, Kampung Islam Kepaon, Pemogan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin1">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAnNur">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAnNur">
+    <rdfs:label>MasjidAnNur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAnNur">
+    <odzis:nama>MasjidAnNur</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAnNur">
+    <odzis:alamatjalan>Jl. Diponegoro No. 167, Sanglah</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAnNur">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAtTaqwaPoldaBali">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAtTaqwaPoldaBali">
+    <rdfs:label>MasjidAtTaqwaPoldaBali</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAtTaqwaPoldaBali">
+    <odzis:nama>MasjidAtTaqwaPoldaBali</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAtTaqwaPoldaBali">
+    <odzis:alamatjalan>Jl. W.R. Supratman</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAtTaqwaPoldaBali">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAtTaufiq">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAtTaufiq">
+    <rdfs:label>MasjidAtTaufiq</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAtTaufiq">
+    <odzis:nama>MasjidAtTaufiq</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAtTaufiq">
+    <odzis:alamatjalan>Kompleks Asrama Brimob Tohpati</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAtTaufiq">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitulMakmur">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitulMakmur">
+    <rdfs:label>MasjidBaitulMakmur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitulMakmur">
+    <odzis:nama>MasjidBaitulMakmur</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitulMakmur">
+    <odzis:alamatjalan>Jl. Gunung Merbuk No. 4, Perumahan Monang Maning</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitulMakmur">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturrahmah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturrahmah">
+    <rdfs:label>MasjidBaiturrahmah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturrahmah">
+    <odzis:nama>MasjidBaiturrahmah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturrahmah">
+    <odzis:alamatjalan>Jl. Ahmad Yani, Gang II, Dusun Wanasari</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturrahmah">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidChandraAsri">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidChandraAsri">
+    <rdfs:label>MasjidChandraAsri</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidChandraAsri">
+    <odzis:nama>MasjidChandraAsri</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidChandraAsri">
+    <odzis:alamatjalan>Jl. By Pass Prof. Dr. Ida Bagus Mantra, Perumahan Puri Chandra Asri</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidChandraAsri">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDarulHuda">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDarulHuda">
+    <rdfs:label>MasjidDarulHuda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDarulHuda">
+    <odzis:nama>MasjidDarulHuda</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDarulHuda">
+    <odzis:alamatjalan>Jl. Letda Ngurah Putra No. 11, Dangin Puri Kelod</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDarulHuda">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDarussalam">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDarussalam">
+    <rdfs:label>MasjidDarussalam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDarussalam">
+    <odzis:nama>MasjidDarussalam</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDarussalam">
+    <odzis:alamatjalan>Jl. HOS Cokroaminoto No. 155, Ubung</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidDarussalam">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurutTaqwa">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurutTaqwa">
+    <rdfs:label>MasjidNurutTaqwa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurutTaqwa">
+    <odzis:nama>MasjidNurutTaqwa</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurutTaqwa">
+    <odzis:alamatjalan>Jl. Kapten Japa</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurutTaqwa">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaUkhuwwah1">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaUkhuwwah1">
+    <rdfs:label>MasjidRayaUkhuwwah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaUkhuwwah1">
+    <odzis:nama>MasjidRayaUkhuwwah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaUkhuwwah1">
+    <odzis:alamatjalan>Jl. Kalimantan No. 19</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaUkhuwwah1">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSadar">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSadar">
+    <rdfs:label>MasjidSadar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSadar">
+    <odzis:nama>MasjidSadar</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSadar">
+    <odzis:alamatjalan>Jl. Tegalwangi Gang Kenanga No. 13, Sesetan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSadar">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSuci">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSuci">
+    <rdfs:label>MasjidSuci</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSuci">
+    <odzis:nama>MasjidSuci</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSuci">
+    <odzis:alamatjalan>Jl. Pulau Buru No. 56</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSuci">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlAmanah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlAmanah">
+    <rdfs:label>MushollaAlAmanah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlAmanah">
+    <odzis:nama>MushollaAlAmanah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlAmanah">
+    <odzis:alamatjalan>Kompleks Gedung Keuangan Negara - Jl. dr. Kusuma Atmaja, Renon</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlAmanah">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlFalah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlFalah">
+    <rdfs:label>MushollaAlFalah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlFalah">
+    <odzis:nama>MushollaAlFalah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlFalah">
+    <odzis:alamatjalan>Jl. Kerta Rahayu, Sidakarya</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlFalah">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlFitrah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlFitrah">
+    <rdfs:label>MushollaAlFitrah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlFitrah">
+    <odzis:nama>MushollaAlFitrah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlFitrah">
+    <odzis:alamatjalan>Jl. Gunung Mangu No. 3, Perumahan Monang-Maning</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlFitrah">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlGhuroba">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlGhuroba">
+    <rdfs:label>MushollaAlGhuroba</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlGhuroba">
+    <odzis:nama>MushollaAlGhuroba</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlGhuroba">
+    <odzis:alamatjalan>Jl. Pulau Ceningan No. 4</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlGhuroba">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas">
+    <rdfs:label>MushollaAlIkhlas</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas">
+    <odzis:nama>MushollaAlIkhlas</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas">
+    <odzis:alamatjalan>Jl. Diponegoro Gang V A, Pesanggaran</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas1">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas1">
+    <rdfs:label>MushollaAlIkhlas</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas1">
+    <odzis:nama>MushollaAlIkhlas</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas1">
+    <odzis:alamatjalan>Kompleks Gedung Keuangan Negara (GKN) II - Jl. Kapten Tantular No. 4</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas1">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas2">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas2">
+    <rdfs:label>MushollaAlIkhlas</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas2">
+    <odzis:nama>MushollaAlIkhlas</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas2">
+    <odzis:alamatjalan>Jl. Pulau Misol Gang IV A No. 2, Dauh Puri Kauh</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas2">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlMuawwanatulKhoiriyah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlMuawwanatulKhoiriyah">
+    <rdfs:label>MushollaAlMuawwanatulKhoiriyah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlMuawwanatulKhoiriyah">
+    <odzis:nama>MushollaAlMuawwanatulKhoiriyah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlMuawwanatulKhoiriyah">
+    <odzis:alamatjalan>Jl. Suwung Batan Kendal, Kampung Bugis, Sesetan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlMuawwanatulKhoiriyah">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlMuhajirin">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlMuhajirin">
+    <rdfs:label>MushollaAlMuhajirin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlMuhajirin">
+    <odzis:nama>MushollaAlMuhajirin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlMuhajirin">
+    <odzis:alamatjalan>Jl. Gunung Sari No. 25, Perumahan Monang Maning</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlMuhajirin">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlMuhtadin">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlMuhtadin">
+    <rdfs:label>MushollaAlMuhtadin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlMuhtadin">
+    <odzis:nama>MushollaAlMuhtadin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlMuhtadin">
+    <odzis:alamatjalan>Jl. Surapati Gang IV No. 22 A</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlMuhtadin">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlQomar">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlQomar">
+    <rdfs:label>MushollaAlQomar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlQomar">
+    <odzis:nama>MushollaAlQomar</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlQomar">
+    <odzis:alamatjalan>Jl. Pura Demak, Teuku Umar Barat, Pemecutan Kelod</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlQomar">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAnNajah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAnNajah">
+    <rdfs:label>MushollaAnNajah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAnNajah">
+    <odzis:nama>MushollaAnNajah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAnNajah">
+    <odzis:alamatjalan>Jl. Dewi Madri IX No. 6, Tanjung Bungkak</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAnNajah">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAnNur">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAnNur">
+    <rdfs:label>MushollaAnNur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAnNur">
+    <odzis:nama>MushollaAnNur</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAnNur">
+    <odzis:alamatjalan>Jl. Pulau Selayar No. 41</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAnNur">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaArRahman">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaArRahman">
+    <rdfs:label>MushollaArRahman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaArRahman">
+    <odzis:nama>MushollaArRahman</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaArRahman">
+    <odzis:alamatjalan>Jl. Puputan IV Gang I</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaArRahman">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAtTawwabin">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAtTawwabin">
+    <rdfs:label>MushollaAtTawwabin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAtTawwabin">
+    <odzis:nama>MushollaAtTawwabin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAtTawwabin">
+    <odzis:alamatjalan>Jl. Pulau Misol Gang XX No. 17</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAtTawwabin">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaBaitulMu_minin">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaBaitulMu_minin">
+    <rdfs:label>MushollaBaitulMu'minin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaBaitulMu_minin">
+    <odzis:nama>MushollaBaitulMu'minin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaBaitulMu_minin">
+    <odzis:alamatjalan>Jl. Tukad Pakerisan Gang XV A, Panjer</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaBaitulMu_minin">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaMargaUtama">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaMargaUtama">
+    <rdfs:label>MushollaMargaUtama</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaMargaUtama">
+    <odzis:nama>MushollaMargaUtama</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaMargaUtama">
+    <odzis:alamatjalan>Jl. Dewi Kunti No. 5, Tanjung Bungkak</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaMargaUtama">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaNurulIman">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaNurulIman">
+    <rdfs:label>MushollaNurulIman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaNurulIman">
+    <odzis:nama>MushollaNurulIman</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaNurulIman">
+    <odzis:alamatjalan>Jl. Taman Pancing, Kampung Islam Kepaon, Pemogan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaNurulIman">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMujahidin">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMujahidin">
+    <rdfs:label>MasjidAlMujahidin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMujahidin">
+    <odzis:nama>MasjidAlMujahidin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMujahidin">
+    <odzis:alamatjalan>Jl. Raya Kuta, Gang Rai Yasa</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMujahidin">
+    <odzis:kota rdf:resource="../kota/Kuta"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidArRahmat">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidArRahmat">
+    <rdfs:label>MasjidArRahmat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidArRahmat">
+    <odzis:nama>MasjidArRahmat</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidArRahmat">
+    <odzis:alamatjalan>Jl. Raya Kuta No. 75</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidArRahmat">
+    <odzis:kota rdf:resource="../kota/Kuta"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAsasutTaqwa">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAsasutTaqwa">
+    <rdfs:label>MasjidAsasutTaqwa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAsasutTaqwa">
+    <odzis:nama>MasjidAsasutTaqwa</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAsasutTaqwa">
+    <odzis:alamatjalan>Jl. I Gusti Ngurah Rai, Kampung Bugis, Tuban, Kec. Kuta</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAsasutTaqwa">
+    <odzis:kota rdf:resource="../kota/Kab._badung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitutTaubah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitutTaubah">
+    <rdfs:label>MasjidBaitutTaubah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitutTaubah">
+    <odzis:nama>MasjidBaitutTaubah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitutTaubah">
+    <odzis:alamatjalan>Jl. I Gusti Ngurah Rai, Kampung Bugis, Tuban, Kec. Kuta</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitutTaubah">
+    <odzis:kota rdf:resource="../kota/Kab._badung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda2">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda2">
+    <rdfs:label>MasjidNurulHuda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda2">
+    <odzis:nama>MasjidNurulHuda</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda2">
+    <odzis:alamatjalan>Jl. Sentani No. 3, Bandara Ngurah Rai, Tuban, Kec. Kuta</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda2">
+    <odzis:kota rdf:resource="../kota/Kab._badung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaIstiqomah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaIstiqomah">
+    <rdfs:label>MasjidRayaIstiqomah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaIstiqomah">
+    <odzis:nama>MasjidRayaIstiqomah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaIstiqomah">
+    <odzis:alamatjalan>Jl. Kuta Permai II No. 22, Perumahan Kuta Permai</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidRayaIstiqomah">
+    <odzis:kota rdf:resource="../kota/Kuta"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlAmin">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlAmin">
+    <rdfs:label>MushollaAlAmin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlAmin">
+    <odzis:nama>MushollaAlAmin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlAmin">
+    <odzis:alamatjalan>Jl. Raya Kuta, Kompleks Kompi Senapan A Yonif 900, Tuban, Kec. Kuta</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlAmin">
+    <odzis:kota rdf:resource="../kota/Kab._badung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas3">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas3">
+    <rdfs:label>MushollaAlIkhlas</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas3">
+    <odzis:nama>MushollaAlIkhlas</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas3">
+    <odzis:alamatjalan>Jl. Baucau No. 7 A, Kompleks Perumahan Angkasa Pura, Tuban, Kec. Kuta</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlIkhlas3">
+    <odzis:kota rdf:resource="../kota/Kab._badung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaMinhajulAthfal">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaMinhajulAthfal">
+    <rdfs:label>MushollaMinhajulAthfal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaMinhajulAthfal">
+    <odzis:nama>MushollaMinhajulAthfal</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaMinhajulAthfal">
+    <odzis:alamatjalan>Jl. Kediri No. 17, Tuban, Kec. Kuta</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaMinhajulAthfal">
+    <odzis:kota rdf:resource="../kota/Kab._badung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlHidayah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlHidayah">
+    <rdfs:label>MushollaAlHidayah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlHidayah">
+    <odzis:nama>MushollaAlHidayah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlHidayah">
+    <odzis:alamatjalan>Jl. Goa Gong No. 5, Ungasan, Kec. Kuta Selatan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaAlHidayah">
+    <odzis:kota rdf:resource="../kota/Kab._badung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaPusatKegiatanUmatIslamPuriGadingJimbaran">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaPusatKegiatanUmatIslamPuriGadingJimbaran">
+    <rdfs:label>MushollaPusatKegiatanUmatIslamPuriGadingJimbaran</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaPusatKegiatanUmatIslamPuriGadingJimbaran">
+    <odzis:nama>MushollaPusatKegiatanUmatIslamPuriGadingJimbaran</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaPusatKegiatanUmatIslamPuriGadingJimbaran">
+    <odzis:alamatjalan>Jl. Raya Puri Gading Blok B 1 No. 10, Perumahan Puri Gading</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaPusatKegiatanUmatIslamPuriGadingJimbaran">
+    <odzis:kota rdf:resource="../kota/Jimbaran"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIhsaan">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIhsaan">
+    <rdfs:label>MasjidAlIhsaan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIhsaan">
+    <odzis:nama>MasjidAlIhsaan</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIhsaan">
+    <odzis:alamatjalan>Jl. Hang Tuah, Kompleks Inna Grand Bali Beach Hotel, Sanur</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIhsaan">
+    <odzis:kota rdf:resource="../kota/Denpasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAsSyuhada">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAsSyuhada">
+    <rdfs:label>MasjidAsSyuhada</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAsSyuhada">
+    <odzis:nama>MasjidAsSyuhada</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAsSyuhada">
+    <odzis:alamatjalan>Kampung Bugis, Kelurahan Serangan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAsSyuhada">
+    <odzis:kota rdf:resource="../kota/Pulau_serangan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFattah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFattah">
+    <rdfs:label>MasjidAlFattah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFattah">
+    <odzis:nama>MasjidAlFattah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFattah">
+    <odzis:alamatjalan>Jl. Danau Bratan Timur No. 5, Perumahan Taman Griya</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFattah">
+    <odzis:kota rdf:resource="../kota/Jimbaran"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidIbnuBatutah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidIbnuBatutah">
+    <rdfs:label>MasjidIbnuBatutah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidIbnuBatutah">
+    <odzis:nama>MasjidIbnuBatutah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidIbnuBatutah">
+    <odzis:alamatjalan>Jl. Darmawangsa, Kampial</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidIbnuBatutah">
+    <odzis:kota rdf:resource="../kota/Nusa_dua"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJami_Mujahidin">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJami_Mujahidin">
+    <rdfs:label>MasjidJami'Mujahidin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJami_Mujahidin">
+    <odzis:nama>MasjidJami'Mujahidin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJami_Mujahidin">
+    <odzis:alamatjalan>Jl. Segara Lor, Tanjung Benoa, Kec. Kuta Selatan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJami_Mujahidin">
+    <odzis:kota rdf:resource="../kota/Kab._badung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFalah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFalah">
+    <rdfs:label>MasjidAlFalah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFalah">
+    <odzis:nama>MasjidAlFalah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFalah">
+    <odzis:alamatjalan>Jl. Raya Denpasar - Singaraja, Desa Pancasari, Kecamatan Sukasada</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFalah">
+    <odzis:kota rdf:resource="../kota/Kabupaten_buleleng"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMiftahulMubin">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMiftahulMubin">
+    <rdfs:label>MasjidMiftahulMubin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMiftahulMubin">
+    <odzis:nama>MasjidMiftahulMubin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMiftahulMubin">
+    <odzis:alamatjalan>Jl. Raya Kebun Raya Bedugul, Desa Candi Kuning, Kecamatan Baturiti</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMiftahulMubin">
+    <odzis:kota rdf:resource="../kota/Kabupaten_tabanan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFalah1">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFalah1">
+    <rdfs:label>MasjidAlFalah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFalah1">
+    <odzis:nama>MasjidAlFalah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFalah1">
+    <odzis:alamatjalan>Raya Denpasar - Singaraja, Desa Pancasari, Kecamatan Sukasada</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlFalah1">
+    <odzis:kota rdf:resource="../kota/Kabupaten_buleleng"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin2">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin2">
+    <rdfs:label>MasjidAlMuhajirin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin2">
+    <odzis:nama>MasjidAlMuhajirin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin2">
+    <odzis:alamatjalan>Desa Kintamani, Kecamatan Kintamani</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin2">
+    <odzis:kota rdf:resource="../kota/Kabupaten_bangli"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungTabanan">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungTabanan">
+    <rdfs:label>MasjidAgungTabanan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungTabanan">
+    <odzis:nama>MasjidAgungTabanan</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungTabanan">
+    <odzis:alamatjalan>Jl. Kamboja No. 14</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungTabanan">
+    <odzis:kota rdf:resource="../kota/Tabanan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin3">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin3">
+    <rdfs:label>MasjidAlMuhajirin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin3">
+    <odzis:nama>MasjidAlMuhajirin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin3">
+    <odzis:alamatjalan>Jl. Tukad Aung No. 2, Perumahan Bukit Sanggulan Indah</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuhajirin3">
+    <odzis:kota rdf:resource="../kota/Tabanan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHamzah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHamzah">
+    <rdfs:label>MasjidAlHamzah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHamzah">
+    <odzis:nama>MasjidAlHamzah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHamzah">
+    <odzis:alamatjalan>Desa Senganan, Kecamatan Baturiti</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHamzah">
+    <odzis:kota rdf:resource="../kota/Kabupaten_tabanan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHuda1">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHuda1">
+    <rdfs:label>MasjidAlHuda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHuda1">
+    <odzis:nama>MasjidAlHuda</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHuda1">
+    <odzis:alamatjalan>Jl. Ahmad Yani No. 29, Kediri</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHuda1">
+    <odzis:kota rdf:resource="../kota/Tabanan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuttaqien">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuttaqien">
+    <rdfs:label>MasjidAlMuttaqien</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuttaqien">
+    <odzis:nama>MasjidAlMuttaqien</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuttaqien">
+    <odzis:alamatjalan>Jl. Raya Pupuan - Seririt, Desa Pupuan, Kec. Pupuan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMuttaqien">
+    <odzis:kota rdf:resource="../kota/Kab._tabanan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMiskatulHuda">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMiskatulHuda">
+    <rdfs:label>MasjidMiskatulHuda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMiskatulHuda">
+    <odzis:nama>MasjidMiskatulHuda</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMiskatulHuda">
+    <odzis:alamatjalan>Jl. Raya Denpasar - Gilimanuk, Desa Bajera, Kec. Selemadeg Barat</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMiskatulHuda">
+    <odzis:kota rdf:resource="../kota/Kab._tabanan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda3">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda3">
+    <rdfs:label>MasjidNurulHuda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda3">
+    <odzis:nama>MasjidNurulHuda</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda3">
+    <odzis:alamatjalan>Jl. Perkutut No. 1, Dajan Peken</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda3">
+    <odzis:kota rdf:resource="../kota/Tabanan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungAlA_la">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungAlA_la">
+    <rdfs:label>MasjidAgungAlA'la</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungAlA_la">
+    <odzis:nama>MasjidAgungAlA'la</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungAlA_la">
+    <odzis:alamatjalan>Jl. Kesatrian</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungAlA_la">
+    <odzis:kota rdf:resource="../kota/Gianyar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHidayah1">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHidayah1">
+    <rdfs:label>MasjidAlHidayah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHidayah1">
+    <odzis:nama>MasjidAlHidayah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHidayah1">
+    <odzis:alamatjalan>Jl. Raya Lettu Lila No. 5</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHidayah1">
+    <odzis:kota rdf:resource="../kota/Bangli"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungAlFatah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungAlFatah">
+    <rdfs:label>MasjidAgungAlFatah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungAlFatah">
+    <odzis:nama>MasjidAgungAlFatah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungAlFatah">
+    <odzis:alamatjalan>Jl. Teratai, Semarapura</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungAlFatah">
+    <odzis:kota rdf:resource="../kota/Klungkung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah1">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah1">
+    <rdfs:label>MasjidAlHikmah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah1">
+    <odzis:nama>MasjidAlHikmah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah1">
+    <odzis:alamatjalan>Jl. Diponegoro, Semarapura</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah1">
+    <odzis:kota rdf:resource="../kota/Klungkung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungAlMahdi">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungAlMahdi">
+    <rdfs:label>MasjidAgungAlMahdi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungAlMahdi">
+    <odzis:nama>MasjidAgungAlMahdi</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungAlMahdi">
+    <odzis:alamatjalan>Kampung Islam Kusamba, Kecamatan Kusamba</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungAlMahdi">
+    <odzis:kota rdf:resource="../kota/Kabupaten_klungkung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungJami_">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungJami_">
+    <rdfs:label>MasjidAgungJami'</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungJami_">
+    <odzis:nama>MasjidAgungJami'</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungJami_">
+    <odzis:alamatjalan>Jl. Imam Bonjol No. 65</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungJami_">
+    <odzis:kota rdf:resource="../kota/Singaraja"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIkhlas1">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIkhlas1">
+    <rdfs:label>MasjidAlIkhlas</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIkhlas1">
+    <odzis:nama>MasjidAlIkhlas</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIkhlas1">
+    <odzis:alamatjalan>Jl. Raya Singaraja - Gilimanuk, Desa Labuhan Haji, Temukus</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlIkhlas1">
+    <odzis:kota rdf:resource="../kota/Kab._buleleng"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMujahidin1">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMujahidin1">
+    <rdfs:label>MasjidAlMujahidin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMujahidin1">
+    <odzis:nama>MasjidAlMujahidin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMujahidin1">
+    <odzis:alamatjalan>Jl. Ahmad Yani, Gang Jalak Putih No. 25</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlMujahidin1">
+    <odzis:kota rdf:resource="../kota/Singaraja"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturrahim">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturrahim">
+    <rdfs:label>MasjidBaiturrahim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturrahim">
+    <odzis:nama>MasjidBaiturrahim</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturrahim">
+    <odzis:alamatjalan>Jl. Dewi Sartika Utara No. 58</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturrahim">
+    <odzis:kota rdf:resource="../kota/Singaraja"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJamikSafinatussalam">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJamikSafinatussalam">
+    <rdfs:label>MasjidJamikSafinatussalam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJamikSafinatussalam">
+    <odzis:nama>MasjidJamikSafinatussalam</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJamikSafinatussalam">
+    <odzis:alamatjalan>Desa Pegayaman, Kec. Sukasada</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJamikSafinatussalam">
+    <odzis:kota rdf:resource="../kota/Kab._buleleng"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNur">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNur">
+    <rdfs:label>MasjidNur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNur">
+    <odzis:nama>MasjidNur</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNur">
+    <odzis:alamatjalan>Jl. Erlangga</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNur">
+    <odzis:kota rdf:resource="../kota/Singaraja"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulIman">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulIman">
+    <rdfs:label>MasjidNurulIman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulIman">
+    <odzis:nama>MasjidNurulIman</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulIman">
+    <odzis:alamatjalan>Jl. Raya Singaraja - Seririt Km 5,6, Desa Pemaron</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulIman">
+    <odzis:kota rdf:resource="../kota/Kab._buleleng"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa3">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa3">
+    <rdfs:label>MasjidTaqwa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa3">
+    <odzis:nama>MasjidTaqwa</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa3">
+    <odzis:alamatjalan>Jl. Pattimura</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidTaqwa3">
+    <odzis:kota rdf:resource="../kota/Singaraja"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidUkhwatulIslam">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidUkhwatulIslam">
+    <rdfs:label>MasjidUkhwatulIslam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidUkhwatulIslam">
+    <odzis:nama>MasjidUkhwatulIslam</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidUkhwatulIslam">
+    <odzis:alamatjalan>Jl. Raya Singaraja - Gilimanuk, Desa Kaliasem, Lovina</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidUkhwatulIslam">
+    <odzis:kota rdf:resource="../kota/Kab._buleleng"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaBabussalam">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaBabussalam">
+    <rdfs:label>MushollaBabussalam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaBabussalam">
+    <odzis:nama>MushollaBabussalam</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaBabussalam">
+    <odzis:alamatjalan>Jl. Pulau Selayar</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaBabussalam">
+    <odzis:kota rdf:resource="../kota/Singaraja"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah2">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah2">
+    <rdfs:label>MasjidAlHikmah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah2">
+    <odzis:nama>MasjidAlHikmah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah2">
+    <odzis:alamatjalan>Kampung Buitan, Kecamatan Manggis</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah2">
+    <odzis:kota rdf:resource="../kota/Kabupaten_karangasem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAnNur1">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAnNur1">
+    <rdfs:label>MasjidAnNur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAnNur1">
+    <odzis:nama>MasjidAnNur</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAnNur1">
+    <odzis:alamatjalan>Jl. Diponegoro</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAnNur1">
+    <odzis:kota rdf:resource="../kota/Amlapura"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAtTaqwa">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAtTaqwa">
+    <rdfs:label>MasjidAtTaqwa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAtTaqwa">
+    <odzis:nama>MasjidAtTaqwa</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAtTaqwa">
+    <odzis:alamatjalan>Jl. Jend. Sudirman, Subagan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAtTaqwa">
+    <odzis:kota rdf:resource="../kota/Amlapura"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturRahman">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturRahman">
+    <rdfs:label>MasjidBaiturRahman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturRahman">
+    <odzis:nama>MasjidBaiturRahman</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturRahman">
+    <odzis:alamatjalan>Jl. Diponegoro, Karang Langko</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturRahman">
+    <odzis:kota rdf:resource="../kota/Amlapura"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturRahman1">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturRahman1">
+    <rdfs:label>MasjidBaiturRahman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturRahman1">
+    <odzis:nama>MasjidBaiturRahman</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturRahman1">
+    <odzis:alamatjalan>Desa Tumbu, Kecamatan Karangasem</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturRahman1">
+    <odzis:kota rdf:resource="../kota/Kabupaten_karangasem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJami_AlMukhlisin">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJami_AlMukhlisin">
+    <rdfs:label>MasjidJami'AlMukhlisin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJami_AlMukhlisin">
+    <odzis:nama>MasjidJami'AlMukhlisin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJami_AlMukhlisin">
+    <odzis:alamatjalan>Jl. H. Samanhudi,Subagan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJami_AlMukhlisin">
+    <odzis:kota rdf:resource="../kota/Amlapura"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMarhaban">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMarhaban">
+    <rdfs:label>MasjidMarhaban</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMarhaban">
+    <odzis:nama>MasjidMarhaban</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMarhaban">
+    <odzis:alamatjalan>Jl.Bhayangkara No.9,Kompleks Polres Karangasem</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMarhaban">
+    <odzis:kota rdf:resource="../kota/Amlapura"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAth-thoyyibah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAth-thoyyibah">
+    <rdfs:label>MasjidAth-thoyyibah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAth-thoyyibah">
+    <odzis:nama>MasjidAth-thoyyibah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAth-thoyyibah">
+    <odzis:alamatjalan> Belakang Perumahan Bumi Marina Mas, Keputih</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAth-thoyyibah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidIbrahimBinMuhammad">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidIbrahimBinMuhammad">
+    <rdfs:label>MasjidIbrahimBinMuhammad</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidIbrahimBinMuhammad">
+    <odzis:nama>MasjidIbrahimBinMuhammad</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidIbrahimBinMuhammad">
+    <odzis:alamatjalan> Kompleks Rumdis TNI-AL Semolowaru Bahari, Jl. Semolowaru Bahari II/9</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidIbrahimBinMuhammad">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidUntag">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidUntag">
+    <rdfs:label>MasjidUntag</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidUntag">
+    <odzis:nama>MasjidUntag</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidUntag">
+    <odzis:alamatjalan>Kampus UNTAG, Jl. Nginden Semolo</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidUntag">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAn-nurStikom">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAn-nurStikom">
+    <rdfs:label>MasjidAn-nurStikom</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAn-nurStikom">
+    <odzis:nama>MasjidAn-nurStikom</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAn-nurStikom">
+    <odzis:alamatjalan> Kampus STIKOM, Jl. Raya Kedung Baruk 98</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAn-nurStikom">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMujahidin">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMujahidin">
+    <rdfs:label>MasjidMujahidin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMujahidin">
+    <odzis:nama>MasjidMujahidin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMujahidin">
+    <odzis:alamatjalan> Jl. Undaan Kulon, masuk jalan/gang Klimbungan Gang I (Depan Apotik Metro Farma)</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidMujahidin">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaElektroIts">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaElektroIts">
+    <rdfs:label>MushollaElektroIts</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaElektroIts">
+    <odzis:nama>MushollaElektroIts</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaElektroIts">
+    <odzis:alamatjalan> Daerah Kampus ITS Sukolilo</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushollaElektroIts">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidA_Yani">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidA_Yani">
+    <rdfs:label>MasjidA.Yani</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidA_Yani">
+    <odzis:nama>MasjidA.Yani</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidA_Yani">
+    <odzis:alamatjalan> Jl. Tegal Mulyorejo Baru no. 80 (Depan PolTek ITS)</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidA_Yani">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitunNur,Pln">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitunNur,Pln">
+    <rdfs:label>MasjidBaitunNur,Pln</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitunNur,Pln">
+    <odzis:nama>MasjidBaitunNur,Pln</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitunNur,Pln">
+    <odzis:alamatjalan> Masjid kantor PLN Ketintang, Jl. Ketintang Baru no. 9 (Sebelah PJB Ketintang)</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaitunNur,Pln">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlAmin(sby)">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlAmin(sby)">
+    <rdfs:label>MasjidAlAmin(sby)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlAmin(sby)">
+    <odzis:nama>MasjidAlAmin(sby)</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlAmin(sby)">
+    <odzis:alamatjalan> Jl. Semampir Tengah 3A/25</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlAmin(sby)">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturrohman">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturrohman">
+    <rdfs:label>MasjidBaiturrohman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturrohman">
+    <odzis:nama>MasjidBaiturrohman</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturrohman">
+    <odzis:alamatjalan> Jl. Sidosermo Indah 3/13</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidBaiturrohman">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulFalah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulFalah">
+    <rdfs:label>MasjidNurulFalah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulFalah">
+    <odzis:nama>MasjidNurulFalah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulFalah">
+    <odzis:alamatjalan> Jl. Semolowaru Tengah VIII</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulFalah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAnNur2">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAnNur2">
+    <rdfs:label>MasjidAnNur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAnNur2">
+    <odzis:nama>MasjidAnNur</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAnNur2">
+    <odzis:alamatjalan>Kampus Universitas Muhammadiyah Sidoarjo</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAnNur2">
+    <odzis:kota rdf:resource="../kota/Sidoarjo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda4">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda4">
+    <rdfs:label>MasjidNurulHuda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda4">
+    <odzis:nama>MasjidNurulHuda</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda4">
+    <odzis:alamatjalan>Perumahan Sidokare Indah, Blok AU</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidNurulHuda4">
+    <odzis:kota rdf:resource="../kota/Sidoarjo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJami’Makkah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJami’Makkah">
+    <rdfs:label>MasjidJami’Makkah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJami’Makkah">
+    <odzis:nama>MasjidJami’Makkah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJami’Makkah">
+    <odzis:alamatjalan> Jl. Bendul Merisi Tengah</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidJami’Makkah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulRahim">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulRahim">
+    <rdfs:label>BaitulRahim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulRahim">
+    <odzis:nama>BaitulRahim</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulRahim">
+    <odzis:alamatjalan>Perumahan Puri Artha Sentosa, Blok F Desa Waringin Jaya, Kec. Bojong Gede</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulRahim">
+    <odzis:kota rdf:resource="../kota/Bogor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kiblatulmustaqim">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kiblatulmustaqim">
+    <rdfs:label>Kiblatulmustaqim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kiblatulmustaqim">
+    <odzis:nama>Kiblatulmustaqim</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kiblatulmustaqim">
+    <odzis:alamatjalan>Desa Lenek Pesiraman, Kec. Aikmel</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kiblatulmustaqim">
+    <odzis:kota rdf:resource="../kota/Lombok_timur"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MuliaAmilYatim">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MuliaAmilYatim">
+    <rdfs:label>MuliaAmilYatim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MuliaAmilYatim">
+    <odzis:nama>MuliaAmilYatim</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MuliaAmilYatim">
+    <odzis:alamatjalan>Yayasan Amal Saleh Dane Dharma, Desa Lenek Ramban Biaq, Kec. Aikmel</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MuliaAmilYatim">
+    <odzis:kota rdf:resource="../kota/Lombok_timur"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushallaAmanah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushallaAmanah">
+    <rdfs:label>MushallaAmanah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushallaAmanah">
+    <odzis:nama>MushallaAmanah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushallaAmanah">
+    <odzis:alamatjalan>Jalan Raya ITS</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushallaAmanah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MushallaAmanah">
+    <odzis:website rdf:resource="http://mushalla-amanah.net"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidManarulIlmi">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidManarulIlmi">
+    <rdfs:label>MasjidManarulIlmi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidManarulIlmi">
+    <odzis:nama>MasjidManarulIlmi</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidManarulIlmi">
+    <odzis:alamatjalan>Jalan Raya ITS</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidManarulIlmi">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidManarulIlmi">
+    <odzis:website rdf:resource="http://www.masjid.its.ac.id/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungKotaKediri">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungKotaKediri">
+    <rdfs:label>MasjidAgungKotaKediri</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungKotaKediri">
+    <odzis:nama>MasjidAgungKotaKediri</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungKotaKediri">
+    <odzis:alamatjalan>Jl. Panglima Sudirman 1</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAgungKotaKediri">
+    <odzis:kota rdf:resource="../kota/Kediri"/>
+  </rdf:Description>
+</rdf:RDF>

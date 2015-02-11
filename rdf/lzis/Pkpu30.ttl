@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<Pkpu30>	a	odzis:LembagaZIS ;
+		rdfs:label	"Pkpu30" ;
+		odzis:nama	"Pkpu30" ;
+		odzis:alamatjalan	"Jl Pogidon Raya No 110, Gedung RSI Sitti Maryam Lt III, Kelurahan Tuminting, Kecamatan Tuminting" ;
+		odzis:kota	 <http://opendatazis.com/kota#Manado> ;
+		odzis:telp	"0431-3631345" ;
+		odzis:LZISPusat	 <http://opendatazis.com/lzis#KP> ;
+ .
+

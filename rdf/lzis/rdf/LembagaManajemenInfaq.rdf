@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/lzis/">
+  <rdf:Description rdf:about="LembagaManajemenInfaq">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaManajemenInfaq">
+    <rdfs:label>LembagaManajemenInfaq</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaManajemenInfaq">
+    <odzis:nama>LembagaManajemenInfaq</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaManajemenInfaq">
+    <odzis:alamatjalan>Komplek Ruko Taman Intan Nginden Jl. Nginden Intan Raya N0 12</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaManajemenInfaq">
+    <odzis:kota rdf:resource="../kota#Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaManajemenInfaq">
+    <odzis:telp>031-5621212</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaManajemenInfaq">
+    <odzis:fax>031-5920299</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaManajemenInfaq">
+    <odzis:website rdf:resource="http://www.lmi-amilzakat.com"/>
+  </rdf:Description>
+</rdf:RDF>

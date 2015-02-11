@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/lzis/">
+  <rdf:Description rdf:about="RumahZakat11">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat11">
+    <rdfs:label>RumahZakat11</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat11">
+    <odzis:nama>RumahZakat11</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat11">
+    <odzis:alamatjalan>Rukan Mitra Matraman, Jl. Matraman Raya No.148 Blok A1 No.5</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat11">
+    <odzis:kota rdf:resource="../kota#Jakarta_timur"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat11">
+    <odzis:telp>021-85918021</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat11">
+    <odzis:fax>021-85918020</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat11">
+    <odzis:LZISPusat rdf:resource="../lzis#umah_Zaka"/>
+  </rdf:Description>
+</rdf:RDF>

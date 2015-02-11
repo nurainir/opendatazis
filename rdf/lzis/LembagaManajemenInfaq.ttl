@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<LembagaManajemenInfaq>	a	odzis:LembagaZIS ;
+		rdfs:label	"LembagaManajemenInfaq" ;
+		odzis:nama	"LembagaManajemenInfaq" ;
+		odzis:alamatjalan	"Komplek Ruko Taman Intan Nginden Jl. Nginden Intan Raya N0 12" ;
+		odzis:kota	 <http://opendatazis.com/kota#Surabaya> ;
+		odzis:telp	"031-5621212" ;
+		odzis:fax	"031-5920299" ;
+		odzis:website	<http://www.lmi-amilzakat.com> ;
+ .
+

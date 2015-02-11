@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<YayasanBaitulMaalBri>	a	odzis:LembagaZIS ;
+		rdfs:label	"YayasanBaitulMaalBri" ;
+		odzis:nama	"YayasanBaitulMaalBri" ;
+		odzis:alamatjalan	"Gedung Olah Raga BRI Lt. 2 Jl. Jend Sudirman Kav. 44-46" ;
+		odzis:kota	 <http://opendatazis.com/kota#Jakarta_barat> ;
+		odzis:telp	"(021) 57932809" ;
+		odzis:fax	"(021) 5752724/26" ;
+		odzis:website	<http://www.ybm-bri.or.id> ;
+ .
+

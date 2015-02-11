@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<Pppa3>	a	odzis:LembagaZIS ;
+		rdfs:label	"Pppa3" ;
+		odzis:nama	"Pppa3" ;
+		odzis:alamatjalan	"Jl. Bend. Sigura-gura Barat Raya 16E Sumber Sari Kec. Lowokwaru" ;
+		odzis:kota	 <http://opendatazis.com/kota#Malang.> ;
+		odzis:telp	"0341-553 644" ;
+		odzis:fax	"0341-553 645" ;
+		odzis:LZISPusat	 <http://opendatazis.com/lzis#PP> ;
+ .
+

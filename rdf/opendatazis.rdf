@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vann="http://purl.org/vocab/vann/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xml:base="http://opendatazis.com/">
+  <rdf:Description rdf:about="odzis">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis">
+    <dc:title>Open Data Zakat Infaq dan Shodaqoh Ontology</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis">
+    <dc:description>Ontology untuk Open Data Islam pada umumnya dan Zakat Infaq Shodaqoh pada umumnya</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis">
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-09-26</dc:modified>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis">
+    <vann:preferredNamespacePrefix>odzis</vann:preferredNamespacePrefix>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis">
+    <foaf:page rdf:resource="http://opendatazis.com"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis">
+    <dc:creator rdf:resource="odzis#nuraini"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#nuraini">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#nuraini">
+    <foaf:name>Nur Aini Rakhmawati</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#nuraini">
+    <foaf:homepage rdf:resource="http://ai23.wordpress.com/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#nuraini">
+    <foaf:mbox rdf:resource="mailto:nur.aini@kluwek.linux.or.id"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Organisasi">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#nama">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#nama">
+    <rdfs:domain rdf:resource="odzis#Organisasi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#nama">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#nama">
+    <rdfs:comment>Nama Organisasi</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#ketua">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#ketua">
+    <rdfs:domain rdf:resource="odzis#Organisasi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#ketua">
+    <rdfs:range rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#ketua">
+    <rdfs:comment>Nama ketua/kepala sekolah/takmir masjid</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#alamatjalan">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#alamatjalan">
+    <rdfs:domain rdf:resource="odzis#Organisasi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#alamatjalan">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#alamatjalan">
+    <rdfs:comment>Alamat Jalan</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#kota">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#kota">
+    <rdfs:range rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#kota">
+    <rdfs:domain rdf:resource="odzis#Organisasi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#telp">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#telp">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#telp">
+    <rdfs:domain rdf:resource="odzis#Organisasi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#telp">
+    <owl:disjointWith rdf:resource="odzis#fax"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#fax">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#fax">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#fax">
+    <rdfs:domain rdf:resource="odzis#Organisasi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#fax">
+    <owl:disjointWith rdf:resource="odzis#telp"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#website">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#website">
+    <rdfs:domain rdf:resource="odzis#Organisasi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#website">
+    <rdfs:range rdf:resource="http://xmlns.com/foaf/0.1/homepage"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#website">
+    <rdfs:comment>Alamat Website</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#website">
+    <owl:disjointWith rdf:resource="odzis#telp"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#website">
+    <owl:disjointWith rdf:resource="odzis#fax"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#website">
+    <owl:disjointWith rdf:resource="odzis#alamatjalan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Amil">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Amil">
+    <rdfs:subClassOf rdf:resource="odzis#Organisasi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Amil">
+    <owl:disjointWith rdf:resource="odzis#Panti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Amil">
+    <owl:disjointWith rdf:resource="odzis#LembagaPendidikan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#punyaLaporanZIS">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#punyaLaporanZIS">
+    <rdfs:range rdf:resource="odzis#LapZis"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#punyaLaporanZIS">
+    <rdfs:domain rdf:resource="odzis#Amil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#punyaLaporanKurban">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#punyaLaporanKurban">
+    <rdfs:range rdf:resource="odzis#Kurban"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#punyaLaporanKurban">
+    <rdfs:domain rdf:resource="odzis#Amil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LembagaZIS">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LembagaZIS">
+    <rdfs:subClassOf rdf:resource="odzis#Amil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LZISPusat">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LZISPusat">
+    <rdfs:range rdf:resource="odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LZISPusat">
+    <rdfs:domain rdf:resource="odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Masjid">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Masjid">
+    <rdfs:subClassOf rdf:resource="odzis#Organisasi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Masjid">
+    <owl:disjointWith rdf:resource="odzis#Panti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Masjid">
+    <owl:disjointWith rdf:resource="odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Masjid">
+    <owl:disjointWith rdf:resource="odzis#LembagaPendidikan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Panti">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Panti">
+    <rdfs:subClassOf rdf:resource="odzis#Organisasi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Panti">
+    <owl:disjointWith rdf:resource="odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LapPenghuni">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LapPenghuni">
+    <rdfs:range rdf:resource="odzis#LapJmlOrg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LapPenghuni">
+    <rdfs:domain rdf:resource="odzis#Panti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LembagaPendidikan">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LembagaPendidikan">
+    <rdfs:subClassOf rdf:resource="odzis#Organisasi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LembagaPendidikan">
+    <owl:disjointWith rdf:resource="odzis#Panti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LembagaPendidikan">
+    <owl:disjointWith rdf:resource="odzis#Amil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LembagaPendidikan">
+    <owl:disjointWith rdf:resource="odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LapSiswa">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LapSiswa">
+    <rdfs:range rdf:resource="odzis#LapJmlOrg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LapSiswa">
+    <rdfs:domain rdf:resource="odzis#LembagaPendidikan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Madrasah">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Madrasah">
+    <rdfs:subClassOf rdf:resource="odzis#LembagaPendidikan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Madrasah">
+    <owl:disjointWith rdf:resource="odzis#Pesantren"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Pesantren">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Pesantren">
+    <rdfs:subClassOf rdf:resource="odzis#LembagaPendidikan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Pesantren">
+    <owl:disjointWith rdf:resource="odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LapZis">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LapZis">
+    <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahZakat">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahZakat">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahZakat">
+    <rdfs:domain rdf:resource="odzis#LapZis"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahZakat">
+    <owl:disjointWith rdf:resource="odzis#JumlahInfaq"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahZakat">
+    <owl:disjointWith rdf:resource="odzis#JumlahShodaqoh"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahInfaq">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahInfaq">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahInfaq">
+    <rdfs:domain rdf:resource="odzis#LapZis"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahInfaq">
+    <owl:disjointWith rdf:resource="odzis#JumlahZakat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahInfaq">
+    <owl:disjointWith rdf:resource="odzis#JumlahShodaqoh"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahShodaqoh">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahShodaqoh">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahShodaqoh">
+    <rdfs:domain rdf:resource="odzis#LapZis"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahShodaqoh">
+    <owl:disjointWith rdf:resource="odzis#JumlahZakat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahShodaqoh">
+    <owl:disjointWith rdf:resource="odzis#JumlahInfaq"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LapKurban">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LapKurban">
+    <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahSapi">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahSapi">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahSapi">
+    <rdfs:domain rdf:resource="odzis#LapKurban"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahSapi">
+    <owl:disjointWith rdf:resource="odzis#JumlahKambing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahKambing">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahKambing">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahKambing">
+    <rdfs:domain rdf:resource="odzis#LapKurban"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahKambing">
+    <owl:disjointWith rdf:resource="odzis#JumlahSapi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LapJmlOrg">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#LapJmlOrg">
+    <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahPutra">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahPutra">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahPutra">
+    <rdfs:domain rdf:resource="odzis#LapJmlOrg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahPutra">
+    <owl:disjointWith rdf:resource="odzis#JumlahPutri"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahPutri">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahPutri">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahPutri">
+    <rdfs:domain rdf:resource="odzis#LapJmlOrg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#JumlahPutra">
+    <owl:disjointWith rdf:resource="odzis#JumlahPutra"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Tahun">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Tahun">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Tahun">
+    <rdfs:domain rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Bulan">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Bulan">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="odzis#Bulan">
+    <rdfs:domain rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+</rdf:RDF>

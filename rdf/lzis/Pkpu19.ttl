@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<Pkpu19>	a	odzis:LembagaZIS ;
+		rdfs:label	"Pkpu19" ;
+		odzis:nama	"Pkpu19" ;
+		odzis:alamatjalan	"Jl. Soekarno Hatta No. 182B Simpang Pancuran Koto Nan IV" ;
+		odzis:kota	 <http://opendatazis.com/kota#Payakumbuh> ;
+		odzis:LZISPusat	 <http://opendatazis.com/lzis#KP> ;
+ .
+

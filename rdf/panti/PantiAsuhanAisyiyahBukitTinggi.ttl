@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<PantiAsuhanAisyiyahBukitTinggi>	a	odzis:Panti ;
+		rdfs:label	"PantiAsuhanAisyiyahBukitTinggi" ;
+		odzis:nama	"PantiAsuhanAisyiyahBukitTinggi" ;
+		odzis:alamatjalan	"Jl. Perintis Kemerdekaan No. 28" ;
+		odzis:kota	 <http://opendatazis.com/kota/Bukit_tinggi> ;
+		odzis:telp	22993 ;
+ .
+

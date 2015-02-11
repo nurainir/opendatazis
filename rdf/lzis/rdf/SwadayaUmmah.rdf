@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/lzis/">
+  <rdf:Description rdf:about="SwadayaUmmah">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="SwadayaUmmah">
+    <rdfs:label>SwadayaUmmah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="SwadayaUmmah">
+    <odzis:nama>SwadayaUmmah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="SwadayaUmmah">
+    <odzis:alamatjalan>Gedung Bank Zakat Jl. HR Soebrantas No. 21</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="SwadayaUmmah">
+    <odzis:kota rdf:resource="../kota#Panam"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="SwadayaUmmah">
+    <odzis:telp>0761-589100</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="SwadayaUmmah">
+    <odzis:fax>0761-589200</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="SwadayaUmmah">
+    <odzis:website rdf:resource="http://www.swadayaummah.or.id"/>
+  </rdf:Description>
+</rdf:RDF>

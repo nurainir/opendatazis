@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/lzis/">
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <rdfs:label>DompetPeduliUmmatDaarutTauhid2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <odzis:nama>DompetPeduliUmmatDaarutTauhid2</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <odzis:alamatjalan>Jl. Ir. H. R. Juanda No. 50 Ciputat</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <odzis:kota rdf:resource="../kota#Jakarta_selatan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <odzis:telp>(021) 7401460</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <odzis:fax>(021) 7401351</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <odzis:LZISPusat rdf:resource="../lzis#ompet_Peduli_Ummat_Daarut_Tauhi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <odzis:website rdf:resource="http://www.dtjakarta.or.id/"/>
+  </rdf:Description>
+</rdf:RDF>

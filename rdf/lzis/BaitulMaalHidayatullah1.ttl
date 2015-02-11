@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<BaitulMaalHidayatullah1>	a	odzis:LembagaZIS ;
+		rdfs:label	"BaitulMaalHidayatullah" ;
+		odzis:nama	"BaitulMaalHidayatullah" ;
+		odzis:alamatjalan	"Jl. H. Samali No. 79B Pejaten Barat Pasar Minggu" ;
+		odzis:kota	 <http://opendatazis.com/kota#Jakarta_selatan> ;
+		odzis:telp	"021-797 5770" ;
+		odzis:fax	"021-797 5614" ;
+		odzis:website	<http://www.bmh.or.id> ;
+ .
+

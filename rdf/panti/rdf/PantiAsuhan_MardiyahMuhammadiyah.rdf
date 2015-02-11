@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/panti/">
+  <rdf:Description rdf:about="PantiAsuhan_MardiyahMuhammadiyah">
+    <rdf:type rdf:resource="../odzis#Panti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PantiAsuhan_MardiyahMuhammadiyah">
+    <rdfs:label>PantiAsuhan.MardiyahMuhammadiyah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="PantiAsuhan_MardiyahMuhammadiyah">
+    <odzis:nama>PantiAsuhan.MardiyahMuhammadiyah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="PantiAsuhan_MardiyahMuhammadiyah">
+    <odzis:alamatjalan>Jl. Tinumbu Lr. 142/132 No. 57</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="PantiAsuhan_MardiyahMuhammadiyah">
+    <odzis:kota rdf:resource="../kota/Layang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PantiAsuhan_MardiyahMuhammadiyah">
+    <odzis:telp rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">310018</odzis:telp>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/panti/">
+  <rdf:Description rdf:about="PantiAsuhanYatimMattoanging">
+    <rdf:type rdf:resource="../odzis#Panti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PantiAsuhanYatimMattoanging">
+    <rdfs:label>PantiAsuhanYatimMattoanging</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="PantiAsuhanYatimMattoanging">
+    <odzis:nama>PantiAsuhanYatimMattoanging</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="PantiAsuhanYatimMattoanging">
+    <odzis:alamatjalan>Jl. Penghibur</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="PantiAsuhanYatimMattoanging">
+    <odzis:kota rdf:resource="../kota/Pangkep"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PantiAsuhanYatimMattoanging">
+    <odzis:telp>0410 21154</odzis:telp>
+  </rdf:Description>
+</rdf:RDF>

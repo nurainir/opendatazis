@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<DompetPeduliUmmatDaarutTauhid4>	a	odzis:LembagaZIS ;
+		rdfs:label	"DompetPeduliUmmatDaarutTauhid4" ;
+		odzis:nama	"DompetPeduliUmmatDaarutTauhid4" ;
+		odzis:alamatjalan	"Jl. Jabaru IV No.7, Rt.04/05, Kelurahan Pasir Kuda Kecamatan Ciomas" ;
+		odzis:kota	 <http://opendatazis.com/kota#Bogor> ;
+		odzis:telp	"(0251) 8631126" ;
+		odzis:fax	"(0251) 8631126" ;
+		odzis:LZISPusat	 <http://opendatazis.com/lzis#ompet_Peduli_Ummat_Daarut_Tauhi> ;
+ .
+

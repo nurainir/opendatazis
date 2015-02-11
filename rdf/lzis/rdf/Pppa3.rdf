@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/lzis/">
+  <rdf:Description rdf:about="Pppa3">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa3">
+    <rdfs:label>Pppa3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa3">
+    <odzis:nama>Pppa3</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa3">
+    <odzis:alamatjalan>Jl. Bend. Sigura-gura Barat Raya 16E Sumber Sari Kec. Lowokwaru</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa3">
+    <odzis:kota rdf:resource="../kota#Malang."/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa3">
+    <odzis:telp>0341-553 644</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa3">
+    <odzis:fax>0341-553 645</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa3">
+    <odzis:LZISPusat rdf:resource="../lzis#PP"/>
+  </rdf:Description>
+</rdf:RDF>

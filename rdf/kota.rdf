@@ -1,0 +1,3948 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/kota/">
+  <rdf:Description rdf:about="">
+    <dc:title>Daftar Kota seluruh Indonesia</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="">
+    <dc:creator>OpenDataZis Admin</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="">
+    <dc:created>2011-09-27T12:00:33+0100</dc:created>
+  </rdf:Description>
+  <rdf:Description rdf:about="Aceh">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Aceh">
+    <rdfs:label>Aceh</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Aceh">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.58333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Aceh">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">95.3333333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Alahan_panjang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Alahan_panjang">
+    <rdfs:label>Alahan panjang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Alahan_panjang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-1.06666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Alahan_panjang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.783333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amboina">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amboina">
+    <rdfs:label>Amboina</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amboina">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.7</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amboina">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">128.15</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ambon">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ambon">
+    <rdfs:label>Ambon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ambon">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.7</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ambon">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">128.796666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amuntai">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amuntai">
+    <rdfs:label>Amuntai</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amuntai">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.4</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amuntai">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115.3</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Anyer">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Anyer">
+    <rdfs:label>Anyer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Anyer">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.05</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Anyer">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">105.933333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Arosbaya">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Arosbaya">
+    <rdfs:label>Arosbaya</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Arosbaya">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.93333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Arosbaya">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.866666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baitul_musthofa">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baitul_musthofa">
+    <rdfs:label>Baitul musthofa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baitul_musthofa">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.47583333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baitul_musthofa">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.893611111111</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baliage">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baliage">
+    <rdfs:label>Baliage</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baliage">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.35</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baliage">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">99.0333333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Balikpapan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Balikpapan">
+    <rdfs:label>Balikpapan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Balikpapan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-1.21666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Balikpapan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">116.85</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banda_aceh">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banda_aceh">
+    <rdfs:label>Banda aceh</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banda_aceh">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.58333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banda_aceh">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">95.3333333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bandar_lampung">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bandar_lampung">
+    <rdfs:label>Bandar lampung</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bandar_lampung">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.43333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bandar_lampung">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">105.233333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bandung">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bandung">
+    <rdfs:label>Bandung</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bandung">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.95</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bandung">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">107.616666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banggai">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banggai">
+    <rdfs:label>Banggai</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banggai">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-1.56666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banggai">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">123.566666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bangka">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bangka">
+    <rdfs:label>Bangka</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bangka">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-2</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bangka">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">106</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bangkalan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bangkalan">
+    <rdfs:label>Bangkalan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bangkalan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.05</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bangkalan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.766666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bangkinan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bangkinan">
+    <rdfs:label>Bangkinan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bangkinan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.366666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bangkinan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">101.033333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bangko">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bangko">
+    <rdfs:label>Bangko</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bangko">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.11666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bangko">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">102.416666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banjar">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banjar">
+    <rdfs:label>Banjar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banjar">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.38333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banjar">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">108.533333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banjarmasin">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banjarmasin">
+    <rdfs:label>Banjarmasin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banjarmasin">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.36666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banjarmasin">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">114.666666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banjarnegara">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banjarnegara">
+    <rdfs:label>Banjarnegara</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banjarnegara">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.43333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banjarnegara">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">109.666666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banten">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banten">
+    <rdfs:label>Banten</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banten">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.05</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banten">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.133333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bantul">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bantul">
+    <rdfs:label>Bantul</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bantul">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.93333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bantul">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.333333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banyumas">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banyumas">
+    <rdfs:label>Banyumas</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banyumas">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.41666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banyumas">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">114.383333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banyuwangi">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banyuwangi">
+    <rdfs:label>Banyuwangi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banyuwangi">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.21666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Banyuwangi">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">114.383333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Barabai">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Barabai">
+    <rdfs:label>Barabai</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Barabai">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.53333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Barabai">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115.366666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Batang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Batang">
+    <rdfs:label>Batang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Batang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.93333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Batang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">109.716666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baturaja">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baturaja">
+    <rdfs:label>Baturaja</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baturaja">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-4.11666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baturaja">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">104.2</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Batusangkar">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Batusangkar">
+    <rdfs:label>Batusangkar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Batusangkar">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.45</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Batusangkar">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.566666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baubau">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baubau">
+    <rdfs:label>Baubau</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baubau">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.5</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baubau">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">122.65</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bekasi">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bekasi">
+    <rdfs:label>Bekasi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bekasi">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.31666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bekasi">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">107</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bengkalis">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bengkalis">
+    <rdfs:label>Bengkalis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bengkalis">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.51666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bengkalis">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">102.133333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bengkulu">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bengkulu">
+    <rdfs:label>Bengkulu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bengkulu">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.8</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bengkulu">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">102.25</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bima">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bima">
+    <rdfs:label>Bima</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bima">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.45</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bima">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">118.75</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Binjai">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Binjai">
+    <rdfs:label>Binjai</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Binjai">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">9.65</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Binjai">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">98.45</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bireun">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bireun">
+    <rdfs:label>Bireun</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bireun">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.28333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bireun">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">96.6833333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blangkajeren">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blangkajeren">
+    <rdfs:label>Blangkajeren</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blangkajeren">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.03333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blangkajeren">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">97.3</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blega">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blega">
+    <rdfs:label>Blega</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blega">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.1</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blega">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.116666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blitar">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blitar">
+    <rdfs:label>Blitar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blitar">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.1</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blitar">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.15</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blora">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blora">
+    <rdfs:label>Blora</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blora">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.96666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blora">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.416666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bogor">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bogor">
+    <rdfs:label>Bogor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bogor">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.61666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bogor">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.8</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bojonegoro">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bojonegoro">
+    <rdfs:label>Bojonegoro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bojonegoro">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.16666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bojonegoro">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.883333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bondowoso">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bondowoso">
+    <rdfs:label>Bondowoso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bondowoso">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.91666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bondowoso">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.833333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bontang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bontang">
+    <rdfs:label>Bontang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bontang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.0666666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bontang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117.5</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bonthain">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bonthain">
+    <rdfs:label>Bonthain</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bonthain">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.56666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bonthain">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.95</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Boyolali">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Boyolali">
+    <rdfs:label>Boyolali</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Boyolali">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.55</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Boyolali">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.583333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Brebes">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Brebes">
+    <rdfs:label>Brebes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Brebes">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.9</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Brebes">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">109.033333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bukittinggi">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bukittinggi">
+    <rdfs:label>Bukittinggi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bukittinggi">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.3</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bukittinggi">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.366666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bulukumba">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bulukumba">
+    <rdfs:label>Bulukumba</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bulukumba">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.55</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bulukumba">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">120.2</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bungah">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bungah">
+    <rdfs:label>Bungah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bungah">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.05411666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bungah">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.569166666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Buntok">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Buntok">
+    <rdfs:label>Buntok</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Buntok">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-1.66666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Buntok">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">114.883333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Calang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Calang">
+    <rdfs:label>Calang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Calang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-4.68333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Calang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">95.6</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cepu">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cepu">
+    <rdfs:label>Cepu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cepu">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.16666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cepu">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.583333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ciamis">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ciamis">
+    <rdfs:label>Ciamis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ciamis">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.35</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ciamis">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">108.45</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cianjur">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cianjur">
+    <rdfs:label>Cianjur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cianjur">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.85</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cianjur">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">107.133333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cibinong">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cibinong">
+    <rdfs:label>Cibinong</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cibinong">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.48333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cibinong">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.85</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cijulang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cijulang">
+    <rdfs:label>Cijulang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cijulang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.33333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cijulang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">108.55</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cikajang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cikajang">
+    <rdfs:label>Cikajang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cikajang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.33333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cikajang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">107.8</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cilacap">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cilacap">
+    <rdfs:label>Cilacap</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cilacap">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.75</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cilacap">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">109.033333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cilegon">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cilegon">
+    <rdfs:label>Cilegon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cilegon">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.03333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cilegon">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.083333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cimahi">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cimahi">
+    <rdfs:label>Cimahi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cimahi">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.93333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cimahi">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">107.5</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cirebon">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cirebon">
+    <rdfs:label>Cirebon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cirebon">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.75</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cirebon">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">108.55</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Curup">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Curup">
+    <rdfs:label>Curup</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Curup">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.41666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Curup">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">102.5</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Demak">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Demak">
+    <rdfs:label>Demak</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Demak">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.9</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Demak">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.616666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Denpasar">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Denpasar">
+    <rdfs:label>Denpasar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Denpasar">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.61666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Denpasar">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115.216666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dilli">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dilli">
+    <rdfs:label>Dilli</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dilli">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.63333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dilli">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">125.583333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dobo">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dobo">
+    <rdfs:label>Dobo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dobo">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.78333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dobo">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">134.25</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dompu">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dompu">
+    <rdfs:label>Dompu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dompu">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.5</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dompu">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">118.466666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Donggala">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Donggala">
+    <rdfs:label>Donggala</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Donggala">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.7</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Donggala">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.75</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dumai">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dumai">
+    <rdfs:label>Dumai</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dumai">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.76666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dumai">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">101.366666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Durjan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Durjan">
+    <rdfs:label>Durjan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Durjan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-7</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Durjan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.166666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Endeh">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Endeh">
+    <rdfs:label>Endeh</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Endeh">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.83333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Endeh">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">121.666666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Enrekang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Enrekang">
+    <rdfs:label>Enrekang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Enrekang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.58333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Enrekang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.783333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fakfak">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fakfak">
+    <rdfs:label>Fakfak</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fakfak">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.86666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fakfak">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">132.333333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Garut">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Garut">
+    <rdfs:label>Garut</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Garut">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.21666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Garut">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">107.9</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gebang_arosbaya">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gebang_arosbaya">
+    <rdfs:label>Gebang arosbaya</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gebang_arosbaya">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.98908333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gebang_arosbaya">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.789638888889</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gebang_bangkalan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gebang_bangkalan">
+    <rdfs:label>Gebang bangkalan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gebang_bangkalan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.98558333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gebang_bangkalan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.786833333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Glagah">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Glagah">
+    <rdfs:label>Glagah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Glagah">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.08027777777778</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Glagah">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.492777777778</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Glagah_lamongan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Glagah_lamongan">
+    <rdfs:label>Glagah lamongan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Glagah_lamongan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.08027777777778</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Glagah_lamongan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.492777777778</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gombong">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gombong">
+    <rdfs:label>Gombong</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gombong">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.58333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gombong">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">109.516666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gorontalo">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gorontalo">
+    <rdfs:label>Gorontalo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gorontalo">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.566666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gorontalo">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">123.083333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Grajakan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Grajakan">
+    <rdfs:label>Grajakan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Grajakan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.58333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Grajakan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">114.216666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gresik_condrodipo">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gresik_condrodipo">
+    <rdfs:label>Gresik condrodipo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gresik_condrodipo">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.16975</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gresik_condrodipo">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.617361111111</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gresik">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gresik">
+    <rdfs:label>Gresik</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gresik">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.16666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gresik">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.666666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gunung_sitoli">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gunung_sitoli">
+    <rdfs:label>Gunung sitoli</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gunung_sitoli">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.31666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gunung_sitoli">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">97.6</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Idi">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Idi">
+    <rdfs:label>Idi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Idi">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.96666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Idi">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">97.7666666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Indramayu">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Indramayu">
+    <rdfs:label>Indramayu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Indramayu">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.33333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Indramayu">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">108.3</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jakarta">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jakarta">
+    <rdfs:label>Jakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jakarta">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.16666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jakarta">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.816666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jambi">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jambi">
+    <rdfs:label>Jambi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jambi">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-1.6</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jambi">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">103.883333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jampea">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jampea">
+    <rdfs:label>Jampea</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jampea">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.1</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jampea">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">120.683333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jatinegara">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jatinegara">
+    <rdfs:label>Jatinegara</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jatinegara">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.25</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jatinegara">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.866666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jayapura">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jayapura">
+    <rdfs:label>Jayapura</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jayapura">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2.46666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jayapura">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">140.633333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jember">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jember">
+    <rdfs:label>Jember</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jember">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.16666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jember">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.7</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jeneponto">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jeneponto">
+    <rdfs:label>Jeneponto</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jeneponto">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.68333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jeneponto">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.716666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jepara">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jepara">
+    <rdfs:label>Jepara</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jepara">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.6</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jepara">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.65</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jombang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jombang">
+    <rdfs:label>Jombang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jombang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.53333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jombang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.216666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kabanjahe">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kabanjahe">
+    <rdfs:label>Kabanjahe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kabanjahe">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.11666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kabanjahe">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">98.4666666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kadungdung">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kadungdung">
+    <rdfs:label>Kadungdung</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kadungdung">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.1</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kadungdung">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.316666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kalabahi">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kalabahi">
+    <rdfs:label>Kalabahi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kalabahi">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.2</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kalabahi">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">124.533333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kalianda">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kalianda">
+    <rdfs:label>Kalianda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kalianda">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.78333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kalianda">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">105.566666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kandangan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kandangan">
+    <rdfs:label>Kandangan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kandangan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.78333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kandangan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115.333333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kangean">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kangean">
+    <rdfs:label>Kangean</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kangean">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.83333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kangean">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115.416666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Karang_nunggal">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Karang_nunggal">
+    <rdfs:label>Karang nunggal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Karang_nunggal">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.63333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Karang_nunggal">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">108.133333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Karanganyar">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Karanganyar">
+    <rdfs:label>Karanganyar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Karanganyar">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.58333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Karanganyar">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.95</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Karawang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Karawang">
+    <rdfs:label>Karawang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Karawang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.3</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Karawang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">107.3</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kayuagung">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kayuagung">
+    <rdfs:label>Kayuagung</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kayuagung">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.4</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kayuagung">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">104.883333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kebayoran">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kebayoran">
+    <rdfs:label>Kebayoran</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kebayoran">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.23333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kebayoran">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.8</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kebumen">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kebumen">
+    <rdfs:label>Kebumen</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kebumen">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.7</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kebumen">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">109.65</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kediri">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kediri">
+    <rdfs:label>Kediri</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kediri">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.81666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kediri">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kefamenanu">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kefamenanu">
+    <rdfs:label>Kefamenanu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kefamenanu">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-9.41666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kefamenanu">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">124.5</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kendal">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kendal">
+    <rdfs:label>Kendal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kendal">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.95</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kendal">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.183333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kendari">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kendari">
+    <rdfs:label>Kendari</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kendari">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.95</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kendari">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">122.583333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ketapang_kalimantan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ketapang_kalimantan">
+    <rdfs:label>Ketapang kalimantan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ketapang_kalimantan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-1.85</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ketapang_kalimantan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">109.966666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ketapang_madura">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ketapang_madura">
+    <rdfs:label>Ketapang madura</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ketapang_madura">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.88333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ketapang_madura">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.283333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Klaten">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Klaten">
+    <rdfs:label>Klaten</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Klaten">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.73333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Klaten">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.583333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kolaka">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kolaka">
+    <rdfs:label>Kolaka</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kolaka">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-4.03333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kolaka">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">121.616666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kotabaru">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kotabaru">
+    <rdfs:label>Kotabaru</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kotabaru">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.28333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kotabaru">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">116.216666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kotabumi">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kotabumi">
+    <rdfs:label>Kotabumi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kotabumi">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-4.85</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kotabumi">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">104.85</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kotamobago">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kotamobago">
+    <rdfs:label>Kotamobago</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kotamobago">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.8</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kotamobago">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">124.35</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kraksan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kraksan">
+    <rdfs:label>Kraksan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kraksan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.76666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kraksan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.45</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Krui">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Krui">
+    <rdfs:label>Krui</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Krui">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.16666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Krui">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">103.95</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuala_kapuas">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuala_kapuas">
+    <rdfs:label>Kuala kapuas</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuala_kapuas">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-3</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuala_kapuas">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">114.433333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuala_simpang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuala_simpang">
+    <rdfs:label>Kuala simpang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuala_simpang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.31666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuala_simpang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">98.05</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuala_tungkal">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuala_tungkal">
+    <rdfs:label>Kuala tungkal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuala_tungkal">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.833333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuala_tungkal">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">103.416666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kudus">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kudus">
+    <rdfs:label>Kudus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kudus">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.83333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kudus">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.833333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuningan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuningan">
+    <rdfs:label>Kuningan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuningan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.96666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuningan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">108.466666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kupang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kupang">
+    <rdfs:label>Kupang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kupang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-10.2</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kupang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">123.583333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kutacane">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kutacane">
+    <rdfs:label>Kutacane</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kutacane">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.5</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kutacane">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">97.85</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kutai">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kutai">
+    <rdfs:label>Kutai</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kutai">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.5</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kutai">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">117</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Labuha">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Labuha">
+    <rdfs:label>Labuha</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Labuha">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.5</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Labuha">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">127.483333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Labuhan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Labuhan">
+    <rdfs:label>Labuhan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Labuhan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.4</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Labuhan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">105.816666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lahat">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lahat">
+    <rdfs:label>Lahat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lahat">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.78333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lahat">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">103.533333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lamongan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lamongan">
+    <rdfs:label>Lamongan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lamongan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.13333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lamongan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.416666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Langsa">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Langsa">
+    <rdfs:label>Langsa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Langsa">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8.51666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Langsa">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">97.9666666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Larantuka">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Larantuka">
+    <rdfs:label>Larantuka</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Larantuka">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.25</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Larantuka">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">123</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lhokseimawe">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lhokseimawe">
+    <rdfs:label>Lhokseimawe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lhokseimawe">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.25</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lhokseimawe">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">97.1166666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lhoktukon">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lhoktukon">
+    <rdfs:label>Lhoktukon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lhoktukon">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.11666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lhoktukon">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">97.3166666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lubuk_linggau">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lubuk_linggau">
+    <rdfs:label>Lubuk linggau</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lubuk_linggau">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.28333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lubuk_linggau">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">102.9</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lubuk_sikaping">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lubuk_sikaping">
+    <rdfs:label>Lubuk sikaping</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lubuk_sikaping">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.0833333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lubuk_sikaping">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.166666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lumajang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lumajang">
+    <rdfs:label>Lumajang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lumajang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.13333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lumajang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.233333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Luwuk">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Luwuk">
+    <rdfs:label>Luwuk</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Luwuk">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.916666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Luwuk">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">122.816666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Madiun">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Madiun">
+    <rdfs:label>Madiun</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Madiun">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.61666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Madiun">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.533333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Magetan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Magetan">
+    <rdfs:label>Magetan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Magetan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.63333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Magetan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.35</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Majalengka">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Majalengka">
+    <rdfs:label>Majalengka</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Majalengka">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.83333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Majalengka">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">108.2</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Majene">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Majene">
+    <rdfs:label>Majene</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Majene">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.55</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Majene">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">118.983333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Makale">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Makale">
+    <rdfs:label>Makale</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Makale">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.13333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Makale">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.85</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Malang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Malang">
+    <rdfs:label>Malang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Malang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.98333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Malang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.6</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Malingping">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Malingping">
+    <rdfs:label>Malingping</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Malingping">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.78333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Malingping">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.016666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mamuju">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mamuju">
+    <rdfs:label>Mamuju</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mamuju">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.71666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mamuju">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">118.9</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Manado">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Manado">
+    <rdfs:label>Manado</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Manado">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.55</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Manado">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">124.883333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Maninjau">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Maninjau">
+    <rdfs:label>Maninjau</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Maninjau">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.283333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Maninjau">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.216666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Manokwari">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Manokwari">
+    <rdfs:label>Manokwari</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Manokwari">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-1</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Manokwari">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">134.083333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Manyar">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Manyar">
+    <rdfs:label>Manyar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Manyar">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.11875</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Manyar">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.603583333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Marabahan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Marabahan">
+    <rdfs:label>Marabahan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Marabahan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.03333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Marabahan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">114.733333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Maros">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Maros">
+    <rdfs:label>Maros</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Maros">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-5</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Maros">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.583333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Martapura">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Martapura">
+    <rdfs:label>Martapura</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Martapura">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.38333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Martapura">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">114.866666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mataram">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mataram">
+    <rdfs:label>Mataram</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mataram">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.6</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mataram">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">116.133333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Maumere">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Maumere">
+    <rdfs:label>Maumere</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Maumere">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.5</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Maumere">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">122.133333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Medan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Medan">
+    <rdfs:label>Medan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Medan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.63333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Medan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">98.6333333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Menado">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Menado">
+    <rdfs:label>Menado</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Menado">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.48333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Menado">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">124.866666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Merak">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Merak">
+    <rdfs:label>Merak</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Merak">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.93333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Merak">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">106</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Merauke">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Merauke">
+    <rdfs:label>Merauke</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Merauke">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.5</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Merauke">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">140.45</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Metro">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Metro">
+    <rdfs:label>Metro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Metro">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.11666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Metro">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">105.266666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Meulaboh">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Meulaboh">
+    <rdfs:label>Meulaboh</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Meulaboh">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.18333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Meulaboh">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">96.1166666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Meureudeu">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Meureudeu">
+    <rdfs:label>Meureudeu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Meureudeu">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.25</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Meureudeu">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">96.25</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mojokerto">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mojokerto">
+    <rdfs:label>Mojokerto</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mojokerto">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.46666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mojokerto">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.433333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Morotai">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Morotai">
+    <rdfs:label>Morotai</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Morotai">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2.16666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Morotai">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">128.166666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_bulian">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_bulian">
+    <rdfs:label>Muara bulian</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_bulian">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-1.75</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_bulian">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">103.25</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_bungo">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_bungo">
+    <rdfs:label>Muara bungo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_bungo">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-1.5</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_bungo">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">102.116666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_enim">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_enim">
+    <rdfs:label>Muara enim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_enim">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.63333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_enim">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">103.783333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_labuh">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_labuh">
+    <rdfs:label>Muara labuh</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_labuh">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-1.48333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_labuh">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">101.033333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_tewe">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_tewe">
+    <rdfs:label>Muara tewe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_tewe">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.516666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Muara_tewe">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">114.883333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mukomuko">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mukomuko">
+    <rdfs:label>Mukomuko</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mukomuko">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.55</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mukomuko">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">101.083333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nabire">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nabire">
+    <rdfs:label>Nabire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nabire">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.3</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nabire">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">135.55</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Negara_bali">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Negara_bali">
+    <rdfs:label>Negara bali</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Negara_bali">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.38333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Negara_bali">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">114.583333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Negara_kalsel">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Negara_kalsel">
+    <rdfs:label>Negara kalsel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Negara_kalsel">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.7</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Negara_kalsel">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115.083333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nganjuk">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nganjuk">
+    <rdfs:label>Nganjuk</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nganjuk">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.63333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nganjuk">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.883333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ngawi">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ngawi">
+    <rdfs:label>Ngawi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ngawi">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.43333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ngawi">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.433333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nunukan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nunukan">
+    <rdfs:label>Nunukan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nunukan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.1</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nunukan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117.666666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pacitan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pacitan">
+    <rdfs:label>Pacitan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pacitan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.2</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pacitan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.1</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Padang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Padang">
+    <rdfs:label>Padang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Padang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.95</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Padang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.35</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Padang_panjang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Padang_panjang">
+    <rdfs:label>Padang panjang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Padang_panjang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.45</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Padang_panjang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.383333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Padang_sidampuan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Padang_sidampuan">
+    <rdfs:label>Padang sidampuan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Padang_sidampuan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.41666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Padang_sidampuan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">99.2333333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Padang_sidempuan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Padang_sidempuan">
+    <rdfs:label>Padang sidempuan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Padang_sidempuan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.41666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Padang_sidempuan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">99.2333333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pagantenan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pagantenan">
+    <rdfs:label>Pagantenan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pagantenan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.03333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pagantenan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.55</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Painan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Painan">
+    <rdfs:label>Painan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Painan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-1.33333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Painan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.55</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pakan_baru">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pakan_baru">
+    <rdfs:label>Pakan baru</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pakan_baru">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.5</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pakan_baru">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">101.466666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Palangkaraya">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Palangkaraya">
+    <rdfs:label>Palangkaraya</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Palangkaraya">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.26666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Palangkaraya">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.933333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Palembang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Palembang">
+    <rdfs:label>Palembang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Palembang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.98333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Palembang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">104.783333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Palopo">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Palopo">
+    <rdfs:label>Palopo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Palopo">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.01666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Palopo">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">120.216666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Palu">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Palu">
+    <rdfs:label>Palu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Palu">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.833333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Palu">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.9</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pamanukan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pamanukan">
+    <rdfs:label>Pamanukan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pamanukan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.3</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pamanukan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">107.833333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pamekasan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pamekasan">
+    <rdfs:label>Pamekasan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pamekasan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.15</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pamekasan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.5</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pameungpeuk">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pameungpeuk">
+    <rdfs:label>Pameungpeuk</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pameungpeuk">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.63333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pameungpeuk">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">107.7</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pandegelang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pandegelang">
+    <rdfs:label>Pandegelang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pandegelang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.31666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pandegelang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.1</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pangkajene">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pangkajene">
+    <rdfs:label>Pangkajene</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pangkajene">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-4.83333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pangkajene">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.566666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pangkal_pinang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pangkal_pinang">
+    <rdfs:label>Pangkal pinang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pangkal_pinang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.11666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pangkal_pinang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.166666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pangkalan_bun">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pangkalan_bun">
+    <rdfs:label>Pangkalan bun</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pangkalan_bun">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.66666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pangkalan_bun">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.75</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Parepare">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Parepare">
+    <rdfs:label>Parepare</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Parepare">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-4.01666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Parepare">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.666666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pariaman">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pariaman">
+    <rdfs:label>Pariaman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pariaman">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.616666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pariaman">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.116666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pasir_pangarayan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pasir_pangarayan">
+    <rdfs:label>Pasir pangarayan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pasir_pangarayan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.883333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pasir_pangarayan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.283333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pasuruan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pasuruan">
+    <rdfs:label>Pasuruan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pasuruan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.66666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pasuruan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.916666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pati">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pati">
+    <rdfs:label>Pati</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pati">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.63333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pati">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.05</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Payakumbuh">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Payakumbuh">
+    <rdfs:label>Payakumbuh</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Payakumbuh">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.216666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Payakumbuh">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.616666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pekalongan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pekalongan">
+    <rdfs:label>Pekalongan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pekalongan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.91666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pekalongan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">109.683333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pekanbaru">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pekanbaru">
+    <rdfs:label>Pekanbaru</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pekanbaru">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.5</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pekanbaru">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">101.466666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pelabuhan_ratu">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pelabuhan_ratu">
+    <rdfs:label>Pelabuhan ratu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pelabuhan_ratu">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.02905555555556</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pelabuhan_ratu">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.557722222222</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pemalang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pemalang">
+    <rdfs:label>Pemalang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pemalang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.91666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pemalang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">109.4</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pematang_siantar">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pematang_siantar">
+    <rdfs:label>Pematang siantar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pematang_siantar">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2.96666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pematang_siantar">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">99.0333333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pengalengan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pengalengan">
+    <rdfs:label>Pengalengan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pengalengan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.21666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pengalengan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">107.516666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pinrang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pinrang">
+    <rdfs:label>Pinrang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pinrang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.78333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pinrang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.666666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Polewali">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Polewali">
+    <rdfs:label>Polewali</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Polewali">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.41666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Polewali">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.366666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ponorogo">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ponorogo">
+    <rdfs:label>Ponorogo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ponorogo">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.88333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ponorogo">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.483333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pontianak">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pontianak">
+    <rdfs:label>Pontianak</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pontianak">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.0833333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pontianak">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">109.366666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Poso">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Poso">
+    <rdfs:label>Poso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Poso">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-1.4</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Poso">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">120.783333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ppmi_assalaam">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ppmi_assalaam">
+    <rdfs:label>Ppmi assalaam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ppmi_assalaam">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.55</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ppmi_assalaam">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.766666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Probolinggo">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Probolinggo">
+    <rdfs:label>Probolinggo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Probolinggo">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.75</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Probolinggo">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.216666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purbalingga">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purbalingga">
+    <rdfs:label>Purbalingga</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purbalingga">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.41666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purbalingga">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">109.366666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purwakarta">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purwakarta">
+    <rdfs:label>Purwakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purwakarta">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.6</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purwakarta">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">107.45</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purwodadi">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purwodadi">
+    <rdfs:label>Purwodadi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purwodadi">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.13333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purwodadi">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.9</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purwokerto">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purwokerto">
+    <rdfs:label>Purwokerto</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purwokerto">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.46666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purwokerto">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">109.216666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purworejo">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purworejo">
+    <rdfs:label>Purworejo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purworejo">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.46666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purworejo">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">109.433333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Putusibah">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Putusibah">
+    <rdfs:label>Putusibah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Putusibah">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.816666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Putusibah">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.933333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Raba">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Raba">
+    <rdfs:label>Raba</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Raba">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.5</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Raba">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">118.75</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Raha">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Raha">
+    <rdfs:label>Raha</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Raha">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-4.83333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Raha">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">122.75</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rangkasbitung">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rangkasbitung">
+    <rdfs:label>Rangkasbitung</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rangkasbitung">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.36666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rangkasbitung">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.216666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rantau">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rantau">
+    <rdfs:label>Rantau</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rantau">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.91666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rantau">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115.15</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rantau_prapat">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rantau_prapat">
+    <rdfs:label>Rantau prapat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rantau_prapat">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2.11666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rantau_prapat">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">99.8333333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rembang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rembang">
+    <rdfs:label>Rembang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rembang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.65</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rembang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.483333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rengat">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rengat">
+    <rdfs:label>Rengat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rengat">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.383333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rengat">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">102.566666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ruteng">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ruteng">
+    <rdfs:label>Ruteng</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ruteng">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.66666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ruteng">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">120.5</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sabang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sabang">
+    <rdfs:label>Sabang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sabang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.9</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sabang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">95.35</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Salatiga">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Salatiga">
+    <rdfs:label>Salatiga</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Salatiga">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.33333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Salatiga">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.483333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Samarinda">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Samarinda">
+    <rdfs:label>Samarinda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Samarinda">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.466666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Samarinda">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117.183333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sambas">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sambas">
+    <rdfs:label>Sambas</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sambas">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.3</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sambas">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">109.3</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sampang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sampang">
+    <rdfs:label>Sampang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sampang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.18333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sampang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.25</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sampit">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sampit">
+    <rdfs:label>Sampit</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sampit">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.53333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sampit">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.966666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sanggau">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sanggau">
+    <rdfs:label>Sanggau</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sanggau">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.133333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sanggau">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.716666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sawah_lunto">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sawah_lunto">
+    <rdfs:label>Sawah lunto</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sawah_lunto">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.666666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sawah_lunto">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.766666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sekayu">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sekayu">
+    <rdfs:label>Sekayu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sekayu">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.88333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sekayu">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">103.833333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Selat_panjang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Selat_panjang">
+    <rdfs:label>Selat panjang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Selat_panjang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Selat_panjang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">102.25</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Selong">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Selong">
+    <rdfs:label>Selong</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Selong">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.63333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Selong">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">116.5</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Semarang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Semarang">
+    <rdfs:label>Semarang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Semarang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-7</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Semarang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.4</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sepuluh">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sepuluh">
+    <rdfs:label>Sepuluh</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sepuluh">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.88333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sepuluh">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">113</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Serang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Serang">
+    <rdfs:label>Serang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Serang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.13333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Serang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.15</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sibolga">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sibolga">
+    <rdfs:label>Sibolga</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sibolga">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.78333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sibolga">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">98.7666666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sidenreng">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sidenreng">
+    <rdfs:label>Sidenreng</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sidenreng">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-4</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sidenreng">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.916666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sidikalang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sidikalang">
+    <rdfs:label>Sidikalang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sidikalang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.75</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sidikalang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">98.3333333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sidoarjo">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sidoarjo">
+    <rdfs:label>Sidoarjo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sidoarjo">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.48333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sidoarjo">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.716666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sigli">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sigli">
+    <rdfs:label>Sigli</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sigli">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.4</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sigli">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">95.95</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sijunjung">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sijunjung">
+    <rdfs:label>Sijunjung</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sijunjung">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.683333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sijunjung">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.966666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sinabang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sinabang">
+    <rdfs:label>Sinabang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sinabang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2.46666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sinabang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">96.3666666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sindang_barang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sindang_barang">
+    <rdfs:label>Sindang barang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sindang_barang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.43333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sindang_barang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">107.133333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Singaraja">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Singaraja">
+    <rdfs:label>Singaraja</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Singaraja">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.13333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Singaraja">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115.083333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Singkawang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Singkawang">
+    <rdfs:label>Singkawang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Singkawang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.866666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Singkawang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">109</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Singkil">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Singkil">
+    <rdfs:label>Singkil</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Singkil">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2.3</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Singkil">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">97.75</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sinjai">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sinjai">
+    <rdfs:label>Sinjai</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sinjai">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.08333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sinjai">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">120.133333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sintang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sintang">
+    <rdfs:label>Sintang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sintang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.1</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sintang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.566666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Situbondo">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Situbondo">
+    <rdfs:label>Situbondo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Situbondo">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.73333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Situbondo">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">114.016666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sleman">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sleman">
+    <rdfs:label>Sleman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sleman">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.73333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sleman">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">114.016666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Solo">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Solo">
+    <rdfs:label>Solo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Solo">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.58333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Solo">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.8</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Solok">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Solok">
+    <rdfs:label>Solok</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Solok">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.783333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Solok">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.633333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sorong">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sorong">
+    <rdfs:label>Sorong</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sorong">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.833333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sorong">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">131.25</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sragen">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sragen">
+    <rdfs:label>Sragen</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sragen">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.45</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sragen">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.016666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baitul_musthofa">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baitul_musthofa">
+    <rdfs:label>Baitul musthofa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baitul_musthofa">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.47583333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Baitul_musthofa">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.893611111111</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Subang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Subang">
+    <rdfs:label>Subang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Subang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.56666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Subang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">107.766666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sukabumi">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sukabumi">
+    <rdfs:label>Sukabumi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sukabumi">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.91666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sukabumi">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.433333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sukoharjo">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sukoharjo">
+    <rdfs:label>Sukoharjo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sukoharjo">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.7</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sukoharjo">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.833333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Suliki">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Suliki">
+    <rdfs:label>Suliki</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Suliki">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.1</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Suliki">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.45</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sumbawa_besar">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sumbawa_besar">
+    <rdfs:label>Sumbawa besar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sumbawa_besar">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.5</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sumbawa_besar">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117.416666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sumedang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sumedang">
+    <rdfs:label>Sumedang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sumedang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.88333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sumedang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">107.883333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sumenep">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sumenep">
+    <rdfs:label>Sumenep</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sumenep">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.05</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sumenep">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.883333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sunbgu_minasa">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sunbgu_minasa">
+    <rdfs:label>Sunbgu minasa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sunbgu_minasa">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.2</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sunbgu_minasa">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.5</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sungai_liat">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sungai_liat">
+    <rdfs:label>Sungai liat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sungai_liat">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-1.86666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sungai_liat">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.083333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sungai_penuh">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sungai_penuh">
+    <rdfs:label>Sungai penuh</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sungai_penuh">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.06666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sungai_penuh">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">101.4</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Surabaya">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Surabaya">
+    <rdfs:label>Surabaya</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Surabaya">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.25</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Surabaya">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.75</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Surakarta">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Surakarta">
+    <rdfs:label>Surakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Surakarta">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.53333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Surakarta">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.833333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tabanan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tabanan">
+    <rdfs:label>Tabanan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tabanan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.48333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tabanan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115.033333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tahuna">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tahuna">
+    <rdfs:label>Tahuna</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tahuna">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.6</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tahuna">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">125.5</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takalar">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takalar">
+    <rdfs:label>Takalar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takalar">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.5</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takalar">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.416666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takengeun">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takengeun">
+    <rdfs:label>Takengeun</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takengeun">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.71666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takengeun">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">96.8333333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takengon">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takengon">
+    <rdfs:label>Takengon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takengon">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.6</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takengon">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">96.8166666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Talu">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Talu">
+    <rdfs:label>Talu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Talu">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.216666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Talu">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">99.9666666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tambelangan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tambelangan">
+    <rdfs:label>Tambelangan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tambelangan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.08333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tambelangan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.2</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanah_grogot">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanah_grogot">
+    <rdfs:label>Tanah grogot</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanah_grogot">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-1.86666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanah_grogot">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">116.216666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tangerang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tangerang">
+    <rdfs:label>Tangerang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tangerang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.2</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tangerang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.633333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_balai">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_balai">
+    <rdfs:label>Tanjung balai</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_balai">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2.98333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_balai">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">99.7833333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_kalsel">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_kalsel">
+    <rdfs:label>Tanjung kalsel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_kalsel">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.13333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_kalsel">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">115.433333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_karang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_karang">
+    <rdfs:label>Tanjung karang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_karang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.41666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_karang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">105.283333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_kodok">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_kodok">
+    <rdfs:label>Tanjung kodok</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_kodok">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.86395</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_kodok">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.357722222222</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_pandan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_pandan">
+    <rdfs:label>Tanjung pandan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_pandan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-2.75</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_pandan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">107.666666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_pinang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_pinang">
+    <rdfs:label>Tanjung pinang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_pinang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.916666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_pinang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">104.483333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_priok">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_priok">
+    <rdfs:label>Tanjung priok</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_priok">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.1</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_priok">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">106.816666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_redep">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_redep">
+    <rdfs:label>Tanjung redep</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_redep">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2.13333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_redep">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117.466666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_selor">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_selor">
+    <rdfs:label>Tanjung selor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_selor">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2.76666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tanjung_selor">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">117.366666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tapak_tuan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tapak_tuan">
+    <rdfs:label>Tapak tuan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tapak_tuan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.3</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tapak_tuan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">97.1666666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tarutung">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tarutung">
+    <rdfs:label>Tarutung</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tarutung">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tarutung">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">98.95</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tasikmalaya">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tasikmalaya">
+    <rdfs:label>Tasikmalaya</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tasikmalaya">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.45</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tasikmalaya">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">108.216666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tebing_tinggi">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tebing_tinggi">
+    <rdfs:label>Tebing tinggi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tebing_tinggi">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.36666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tebing_tinggi">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">99.1166666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tegal">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tegal">
+    <rdfs:label>Tegal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tegal">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.9</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tegal">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">109.133333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Teluk_betung">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Teluk_betung">
+    <rdfs:label>Teluk betung</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Teluk_betung">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.41666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Teluk_betung">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">105.283333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Temanggung">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Temanggung">
+    <rdfs:label>Temanggung</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Temanggung">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.36666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Temanggung">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.133333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tembilahan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tembilahan">
+    <rdfs:label>Tembilahan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tembilahan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-0.316666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tembilahan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">103.116666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ternate">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ternate">
+    <rdfs:label>Ternate</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ternate">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.81666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ternate">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">127.4</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Test">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Test">
+    <rdfs:label>Test</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Test">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.11666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Test">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.666666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tobelo">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tobelo">
+    <rdfs:label>Tobelo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tobelo">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.75</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tobelo">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">128</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tolitoli">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tolitoli">
+    <rdfs:label>Tolitoli</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tolitoli">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.05</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tolitoli">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">120.833333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Torjun">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Torjun">
+    <rdfs:label>Torjun</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Torjun">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.15</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Torjun">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.25</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Trenggalek">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Trenggalek">
+    <rdfs:label>Trenggalek</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Trenggalek">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.06666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Trenggalek">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.733333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tuban">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tuban">
+    <rdfs:label>Tuban</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tuban">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.93333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tuban">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.066666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tulungagung">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tulungagung">
+    <rdfs:label>Tulungagung</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tulungagung">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-8.08333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tulungagung">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.9</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_kulon">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_kulon">
+    <rdfs:label>Ujung kulon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_kulon">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.75</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_kulon">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">105.333333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_pandan">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_pandan">
+    <rdfs:label>Ujung pandan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_pandan">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.13333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_pandan">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.45</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_pangkah">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_pangkah">
+    <rdfs:label>Ujung pangkah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_pangkah">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.9</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_pangkah">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.6</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_pangkah">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_pangkah">
+    <rdfs:label>Ujung pangkah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_pangkah">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.91150555555556</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_pangkah">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">112.531205555556</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_pandang">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_pandang">
+    <rdfs:label>Ujung_pandang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_pandang">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.15</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ujung_pandang">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.466666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Makasar">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Makasar">
+    <rdfs:label>Makasar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Makasar">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-5.15</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Makasar">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.466666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Waikabubak">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Waikabubak">
+    <rdfs:label>Waikabubak</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Waikabubak">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-9.66666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Waikabubak">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.416666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Waingapu">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Waingapu">
+    <rdfs:label>Waingapu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Waingapu">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-9.66666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Waingapu">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">120.25</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wamena">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wamena">
+    <rdfs:label>Wamena</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wamena">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-3.9</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wamena">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">138.683333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Waru">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Waru">
+    <rdfs:label>Waru</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Waru">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-6.93333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Waru">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">113.616666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Watanpone">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Watanpone">
+    <rdfs:label>Watanpone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Watanpone">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-4.56666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Watanpone">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">120.333333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Watansoppeng">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Watansoppeng">
+    <rdfs:label>Watansoppeng</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Watansoppeng">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-4.35</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Watansoppeng">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">119.916666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wates">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wates">
+    <rdfs:label>Wates</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wates">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.86666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wates">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.133333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wonogiri">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wonogiri">
+    <rdfs:label>Wonogiri</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wonogiri">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.83333333333333</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wonogiri">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.916666666667</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wonosari">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wonosari">
+    <rdfs:label>Wonosari</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wonosari">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.96666666666667</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wonosari">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.583333333333</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wonosobo">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wonosobo">
+    <rdfs:label>Wonosobo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wonosobo">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.4</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wonosobo">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">109.9</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="Yogyakarta">
+    <rdf:type rdf:resource="http://linkedgeodata.org/ontology/city"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Yogyakarta">
+    <rdfs:label>Yogyakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Yogyakarta">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">-7.8</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="Yogyakarta">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">110.4</geo:long>
+  </rdf:Description>
+</rdf:RDF>

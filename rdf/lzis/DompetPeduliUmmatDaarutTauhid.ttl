@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<DompetPeduliUmmatDaarutTauhid>	a	odzis:LembagaZIS ;
+		rdfs:label	"DompetPeduliUmmatDaarutTauhid" ;
+		odzis:nama	"DompetPeduliUmmatDaarutTauhid" ;
+		odzis:alamatjalan	"Jl. Geger Kalong Girang No. 32" ;
+		odzis:kota	 <http://opendatazis.com/kota#Bandung> ;
+		odzis:telp	"022-70775632" ;
+		odzis:fax	"022-2021862" ;
+		odzis:website	<http://www.dpu-online.com> ;
+ .
+

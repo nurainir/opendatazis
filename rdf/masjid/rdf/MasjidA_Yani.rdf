@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/masjid/">
+  <rdf:Description rdf:about="MasjidA_Yani">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidA_Yani">
+    <rdfs:label>MasjidA.Yani</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidA_Yani">
+    <odzis:nama>MasjidA.Yani</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidA_Yani">
+    <odzis:alamatjalan> Jl. Tegal Mulyorejo Baru no. 80 (Depan PolTek ITS)</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidA_Yani">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+</rdf:RDF>

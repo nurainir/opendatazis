@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<Pkpu13>	a	odzis:LembagaZIS ;
+		rdfs:label	"Pkpu13" ;
+		odzis:nama	"Pkpu13" ;
+		odzis:alamatjalan	"Griya Wikarsa Baru 18" ;
+		odzis:kota	 <http://opendatazis.com/kota#Mojokerto> ;
+		odzis:telp	"0321-330875" ;
+		odzis:LZISPusat	 <http://opendatazis.com/lzis#KP> ;
+ .
+

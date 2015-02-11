@@ -1,0 +1,9 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+<Ujung_pangkah>	a	lgdo:city ;
+		rdfs:label	"Ujung pangkah" ;
+		geo:lat	-6.91150555555556 ;
+		geo:long	112.531205555556 .

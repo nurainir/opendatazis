@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<DompetPeduliUmmatDaarutTauhid6>	a	odzis:LembagaZIS ;
+		rdfs:label	"DompetPeduliUmmatDaarutTauhid6" ;
+		odzis:nama	"DompetPeduliUmmatDaarutTauhid6" ;
+		odzis:alamatjalan	"Jl. Dr. Wachidin No. Family House G-8 Kecamatan Candi Sari" ;
+		odzis:kota	 <http://opendatazis.com/kota#Semarang> ;
+		odzis:telp	"(024) 844993" ;
+		odzis:LZISPusat	 <http://opendatazis.com/lzis#ompet_Peduli_Ummat_Daarut_Tauhi> ;
+		odzis:website	<http://www.dpudt-semarang.com/> ;
+ .
+

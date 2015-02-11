@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<RumahZakat19>	a	odzis:LembagaZIS ;
+		rdfs:label	"RumahZakat19" ;
+		odzis:nama	"RumahZakat19" ;
+		odzis:alamatjalan	"Ruko Pavilion Shop Jl. Industri Utara No. 9 Jababeka 2" ;
+		odzis:kota	 <http://opendatazis.com/kota#Cikarang> ;
+		odzis:telp	"021-89840499" ;
+		odzis:fax	"021-89840661" ;
+		odzis:LZISPusat	 <http://opendatazis.com/lzis#umah_Zaka> ;
+ .
+

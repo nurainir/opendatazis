@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<PantiAsuhanAisyiyahAmpang>	a	odzis:Panti ;
+		rdfs:label	"PantiAsuhanAisyiyahAmpang" ;
+		odzis:nama	"PantiAsuhanAisyiyahAmpang" ;
+		odzis:alamatjalan	"Jl. Ampang RW V/22 Kec. Kuranji" ;
+		odzis:kota	 <http://opendatazis.com/kota/Agam> ;
+ .
+

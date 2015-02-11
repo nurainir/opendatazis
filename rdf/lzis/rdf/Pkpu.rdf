@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/lzis/">
+  <rdf:Description rdf:about="Pkpu">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu">
+    <rdfs:label>Pkpu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu">
+    <odzis:nama>Pkpu</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu">
+    <odzis:alamatjalan>Jl. Raya Condet No. 27-G Batu Ampar</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu">
+    <odzis:kota rdf:resource="../kota#Jakarta_timur"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu">
+    <odzis:telp>0804 100 2000</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu">
+    <odzis:fax>021-87780013</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu">
+    <odzis:website rdf:resource="http://www.pkpu.or.id/"/>
+  </rdf:Description>
+</rdf:RDF>

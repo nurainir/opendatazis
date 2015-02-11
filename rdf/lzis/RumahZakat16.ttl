@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<RumahZakat16>	a	odzis:LembagaZIS ;
+		rdfs:label	"RumahZakat16" ;
+		odzis:nama	"RumahZakat16" ;
+		odzis:alamatjalan	"Komplek Lotus Garden Blok A No.8 Kel. Teluk Tering, Kec. Batam Kota" ;
+		odzis:kota	 <http://opendatazis.com/kota#Batam> ;
+		odzis:telp	"0778-468024" ;
+		odzis:fax	"0778-468024" ;
+		odzis:LZISPusat	 <http://opendatazis.com/lzis#umah_Zaka> ;
+ .
+

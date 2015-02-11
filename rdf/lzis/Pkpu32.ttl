@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<Pkpu32>	a	odzis:LembagaZIS ;
+		rdfs:label	"Pkpu32" ;
+		odzis:nama	"Pkpu32" ;
+		odzis:alamatjalan	"Klinik Al-Aqsho. Komp. BTN Bukit Manusela Blok B/5-6, Jl. Kebun Cengkeh, Kecamatan Air Kuning, Ambon 97128" ;
+		odzis:kota	 <http://opendatazis.com/kota#Ambon> ;
+		odzis:telp	"0911-312658" ;
+		odzis:fax	"0911-312658" ;
+		odzis:LZISPusat	 <http://opendatazis.com/lzis#KP> ;
+ .
+

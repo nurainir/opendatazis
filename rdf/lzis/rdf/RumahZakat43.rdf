@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/lzis/">
+  <rdf:Description rdf:about="RumahZakat43">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat43">
+    <rdfs:label>RumahZakat43</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat43">
+    <odzis:nama>RumahZakat43</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat43">
+    <odzis:alamatjalan>Gedung BIEC, JL. M. Yamin No.82 Kel. Tempaja Utara, Kec. Samarinda Utara</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat43">
+    <odzis:kota rdf:resource="../kota#Samarind"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat43">
+    <odzis:telp>0541-7766033</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat43">
+    <odzis:LZISPusat rdf:resource="../lzis#umah_Zaka"/>
+  </rdf:Description>
+</rdf:RDF>

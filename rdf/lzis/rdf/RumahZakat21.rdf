@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/lzis/">
+  <rdf:Description rdf:about="RumahZakat21">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat21">
+    <rdfs:label>RumahZakat21</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat21">
+    <odzis:nama>RumahZakat21</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat21">
+    <odzis:alamatjalan>Jl. Gedung Empat No.E.3 Gatot Subroto</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat21">
+    <odzis:kota rdf:resource="../kota#Cimahi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat21">
+    <odzis:telp>022-70723062</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat21">
+    <odzis:LZISPusat rdf:resource="../lzis#umah_Zaka"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/lzis/">
+  <rdf:Description rdf:about="BaitulMaalMuamalat">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalMuamalat">
+    <rdfs:label>BaitulMaalMuamalat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalMuamalat">
+    <odzis:nama>BaitulMaalMuamalat</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalMuamalat">
+    <odzis:alamatjalan>Ged. Dana Pensiun Telkom Lt. II Jl. Letjend S. Parman Kav. 56</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalMuamalat">
+    <odzis:kota rdf:resource="../kota#Jakarta_barat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalMuamalat">
+    <odzis:telp>(021) 5326744</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalMuamalat">
+    <odzis:fax>(021) 5326731</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalMuamalat">
+    <odzis:website rdf:resource="http://www.baitulmaal.net"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/lzis/">
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <rdfs:label>DompetPeduliUmmatDaarutTauhid5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <odzis:nama>DompetPeduliUmmatDaarutTauhid5</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <odzis:alamatjalan>Jl. KH. Agus Salim No. 56 A Notoprajan, Ngampilan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <odzis:kota rdf:resource="../kota#Yogyakarta"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <odzis:telp>(0274) 6560086</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <odzis:fax>(0274) 566171</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <odzis:LZISPusat rdf:resource="../lzis#ompet_Peduli_Ummat_Daarut_Tauhi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <odzis:website rdf:resource="http://www.dpudt-jogja.org"/>
+  </rdf:Description>
+</rdf:RDF>

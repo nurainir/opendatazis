@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/lzis/">
+  <rdf:Description rdf:about="LembagaAmilZakatDewanDakwahIndonesia">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDewanDakwahIndonesia">
+    <rdfs:label>LembagaAmilZakatDewanDakwahIndonesia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDewanDakwahIndonesia">
+    <odzis:nama>LembagaAmilZakatDewanDakwahIndonesia</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDewanDakwahIndonesia">
+    <odzis:alamatjalan>Jl. Kramat Raya 45</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDewanDakwahIndonesia">
+    <odzis:kota rdf:resource="../kota#Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDewanDakwahIndonesia">
+    <odzis:telp>(021) 31901233</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDewanDakwahIndonesia">
+    <odzis:fax>(021) 3903291</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDewanDakwahIndonesia">
+    <odzis:website rdf:resource="http://www.lazisdewandakwah.org"/>
+  </rdf:Description>
+</rdf:RDF>

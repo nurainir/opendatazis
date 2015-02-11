@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/masjid/">
+  <rdf:Description rdf:about="MasjidAlHikmah2">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah2">
+    <rdfs:label>MasjidAlHikmah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah2">
+    <odzis:nama>MasjidAlHikmah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah2">
+    <odzis:alamatjalan>Kampung Buitan, Kecamatan Manggis</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidAlHikmah2">
+    <odzis:kota rdf:resource="../kota/Kabupaten_karangasem"/>
+  </rdf:Description>
+</rdf:RDF>

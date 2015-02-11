@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/madrasah/">
+  <rdf:Description rdf:about="Mts_NurulLman">
+    <rdf:type rdf:resource="../odzis#Madrasah"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulLman">
+    <rdfs:label>Mts.NurulLman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulLman">
+    <odzis:nama>Mts.NurulLman</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulLman">
+    <odzis:alamatjalan>JI.Manukan Mulyo LX/1 1 .</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mts_NurulLman">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+</rdf:RDF>

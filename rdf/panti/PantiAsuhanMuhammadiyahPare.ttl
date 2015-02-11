@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<PantiAsuhanMuhammadiyahPare>	a	odzis:Panti ;
+		rdfs:label	"PantiAsuhanMuhammadiyahPare" ;
+		odzis:nama	"PantiAsuhanMuhammadiyahPare" ;
+		odzis:alamatjalan	"Jl. Mastrip Pandean IA Pare" ;
+		odzis:kota	 <http://opendatazis.com/kota/Kediri> ;
+		odzis:telp	"0359 391491" ;
+ .
+

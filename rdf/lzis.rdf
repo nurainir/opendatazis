@@ -1,0 +1,3189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/lzis/">
+  <rdf:Description rdf:about="">
+    <dc:title>Daftar Lembaga ZIS seluruh Indonesia</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="">
+    <dc:creator>OpenDataZis Admin</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="">
+    <dc:created>2012-01-04T12:23:06+0000</dc:created>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat">
+    <rdfs:label>RumahZakat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat">
+    <odzis:nama>RumahZakat</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat">
+    <odzis:alamatjalan>Jl. Turangga No.25 C</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat">
+    <odzis:kota rdf:resource="../kota/Bandung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat">
+    <odzis:telp>022-7332407</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat">
+    <odzis:fax>022-7332407</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat">
+    <odzis:website rdf:resource="http://rumahzakat.org"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat1">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat1">
+    <rdfs:label>RumahZakat1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat1">
+    <odzis:nama>RumahZakat1</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat1">
+    <odzis:alamatjalan>Ruko Lamlagang, Jl. Sultan Malikul Saleh, Kel. Lamlagang, Kec. Banda Raya</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat1">
+    <odzis:kota rdf:resource="../kota/Aceh."/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat1">
+    <odzis:telp>0651-7429692</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat1">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat2">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat2">
+    <rdfs:label>RumahZakat2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat2">
+    <odzis:nama>RumahZakat2</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat2">
+    <odzis:alamatjalan>Jl. Veteran No.9 Kel. Mujamuju, Kec. Umbulharjo</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat2">
+    <odzis:kota rdf:resource="../kota/Yogyakarta"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat2">
+    <odzis:telp>0274-377671</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat2">
+    <odzis:fax>0274-377671</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat2">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat3">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat3">
+    <rdfs:label>RumahZakat3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat3">
+    <odzis:nama>RumahZakat3</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat3">
+    <odzis:alamatjalan>Jl. Radio Dalam Raya No. 47</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat3">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat3">
+    <odzis:telp>021- 7396 908</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat3">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat4">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat4">
+    <rdfs:label>RumahZakat4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat4">
+    <odzis:nama>RumahZakat4</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat4">
+    <odzis:alamatjalan>Jl. Srengseng Raya Barat No.98A Kebon Jeruk</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat4">
+    <odzis:kota rdf:resource="../kota/Jakarta_barat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat4">
+    <odzis:telp>021-5858023</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat4">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat5">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat5">
+    <rdfs:label>RumahZakat5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat5">
+    <odzis:nama>RumahZakat5</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat5">
+    <odzis:alamatjalan>Jl. Terusan Boulevard Timur Raya No. 1A RT 05/02</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat5">
+    <odzis:kota rdf:resource="../kota/Jakarta_barat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat5">
+    <odzis:telp>021-46828867</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat5">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat6">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat6">
+    <rdfs:label>RumahZakat6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat6">
+    <odzis:nama>RumahZakat6</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat6">
+    <odzis:alamatjalan>Jl. Gunung Sahari I No.35</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat6">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat6">
+    <odzis:telp>021-42800754</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat6">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat7">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat7">
+    <rdfs:label>RumahZakat7</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat7">
+    <odzis:nama>RumahZakat7</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat7">
+    <odzis:alamatjalan>Basement Floor R.05, Jl. M.H Thamrin Kav. 3</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat7">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat7">
+    <odzis:telp>021-2300733</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat7">
+    <odzis:fax>021-2300733/021-95578600</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat7">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat8">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat8">
+    <rdfs:label>RumahZakat8</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat8">
+    <odzis:nama>RumahZakat8</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat8">
+    <odzis:alamatjalan>Rasuna Office Park, No.LR.02, Apartemen Taman Rasuna, Tower 8, Jl. HR. Rasuna Said Kuningan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat8">
+    <odzis:kota rdf:resource="../kota/Jakarta_selatan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat8">
+    <odzis:telp>021-94740907</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat8">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat9">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat9">
+    <rdfs:label>RumahZakat9</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat9">
+    <odzis:nama>RumahZakat9</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat9">
+    <odzis:alamatjalan>Jl. Wijaya 1 Kel. Petogogan, Kec. Kebayoran Baru</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat9">
+    <odzis:kota rdf:resource="../kota/Jakarta_selatan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat9">
+    <odzis:telp>021-7234039</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat9">
+    <odzis:fax>021-7234039</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat9">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat10">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat10">
+    <rdfs:label>RumahZakat10</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat10">
+    <odzis:nama>RumahZakat10</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat10">
+    <odzis:alamatjalan>Jl. RM. Harsono No.15A Kel. Ragunan, Kec. Pasar Minggu</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat10">
+    <odzis:kota rdf:resource="../kota/Jakarta_selatan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat10">
+    <odzis:telp>021-7884287</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat10">
+    <odzis:fax>021-78842287</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat10">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat11">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat11">
+    <rdfs:label>RumahZakat11</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat11">
+    <odzis:nama>RumahZakat11</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat11">
+    <odzis:alamatjalan>Rukan Mitra Matraman, Jl. Matraman Raya No.148 Blok A1 No.5</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat11">
+    <odzis:kota rdf:resource="../kota/Jakarta_timur"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat11">
+    <odzis:telp>021-85918021</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat11">
+    <odzis:fax>021-85918020</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat11">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat12">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat12">
+    <rdfs:label>RumahZakat12</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat12">
+    <odzis:nama>RumahZakat12</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat12">
+    <odzis:alamatjalan>Jl. Turangga No.33</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat12">
+    <odzis:kota rdf:resource="../kota/Bandung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat12">
+    <odzis:telp>022-7332451</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat12">
+    <odzis:fax>022-7317400</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat12">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat13">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat13">
+    <rdfs:label>RumahZakat13</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat13">
+    <odzis:nama>RumahZakat13</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat13">
+    <odzis:alamatjalan>Jl. Ir. Juanda No.91</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat13">
+    <odzis:kota rdf:resource="../kota/Bandung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat13">
+    <odzis:telp>022-70773297</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat13">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat14">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat14">
+    <rdfs:label>RumahZakat14</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat14">
+    <odzis:nama>RumahZakat14</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat14">
+    <odzis:alamatjalan>Jl. Terusan Jakarta No.77 Kec. Antapani</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat14">
+    <odzis:kota rdf:resource="../kota/Bandung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat14">
+    <odzis:telp>022-70739192</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat14">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat15">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat15">
+    <rdfs:label>RumahZakat15</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat15">
+    <odzis:nama>RumahZakat15</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat15">
+    <odzis:alamatjalan>Jl. Prof. Dr. Ir. Sutami No.89 Bandung</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat15">
+    <odzis:kota rdf:resource="../kota/Bandung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat15">
+    <odzis:telp>022-70474711</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat15">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat16">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat16">
+    <rdfs:label>RumahZakat16</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat16">
+    <odzis:nama>RumahZakat16</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat16">
+    <odzis:alamatjalan>Komplek Lotus Garden Blok A No.8 Kel. Teluk Tering, Kec. Batam Kota</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat16">
+    <odzis:kota rdf:resource="../kota/Batam"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat16">
+    <odzis:telp>0778-468024</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat16">
+    <odzis:fax>0778-468024</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat16">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat17">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat17">
+    <rdfs:label>RumahZakat17</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat17">
+    <odzis:nama>RumahZakat17</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat17">
+    <odzis:alamatjalan>Jl. Veteran No.110 B Bekasi Selatan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat17">
+    <odzis:kota rdf:resource="../kota/Bekasi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat17">
+    <odzis:telp>021-88851159</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat17">
+    <odzis:fax>021-88851159</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat17">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat18">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat18">
+    <rdfs:label>RumahZakat18</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat18">
+    <odzis:nama>RumahZakat18</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat18">
+    <odzis:alamatjalan>Jl. Pandawa Raya Blok IB, Komplek Indraprasta, Kel. Bantar Jati, Kec. Bogor Utara</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat18">
+    <odzis:kota rdf:resource="../kota/Bogor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat18">
+    <odzis:telp>0251-8378945</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat18">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat19">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat19">
+    <rdfs:label>RumahZakat19</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat19">
+    <odzis:nama>RumahZakat19</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat19">
+    <odzis:alamatjalan>Ruko Pavilion Shop Jl. Industri Utara No. 9 Jababeka 2</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat19">
+    <odzis:kota rdf:resource="../kota/Cikarang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat19">
+    <odzis:telp>021-89840499</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat19">
+    <odzis:fax>021-89840661</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat19">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat20">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat20">
+    <rdfs:label>RumahZakat20</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat20">
+    <odzis:nama>RumahZakat20</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat20">
+    <odzis:alamatjalan>Jl. Letjend R. Suprapto No.25G</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat20">
+    <odzis:kota rdf:resource="../kota/Cilegon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat20">
+    <odzis:telp>0254-385443</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat20">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat21">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat21">
+    <rdfs:label>RumahZakat21</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat21">
+    <odzis:nama>RumahZakat21</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat21">
+    <odzis:alamatjalan>Jl. Gedung Empat No.E.3 Gatot Subroto</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat21">
+    <odzis:kota rdf:resource="../kota/Cimahi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat21">
+    <odzis:telp>022-70723062</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat21">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat22">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat22">
+    <rdfs:label>RumahZakat22</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat22">
+    <odzis:nama>RumahZakat22</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat22">
+    <odzis:alamatjalan>Taman Rempoa Indah, Jl. Delima Jaya Ciputat Timur</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat22">
+    <odzis:kota rdf:resource="../kota/Ciputat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat22">
+    <odzis:telp>021-26329700</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat22">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat23">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat23">
+    <rdfs:label>RumahZakat23</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat23">
+    <odzis:nama>RumahZakat23</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat23">
+    <odzis:alamatjalan>Jl. Tuparev Komp. Ruko Cirebon Bisnis Centre (CBC) Blok D8</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat23">
+    <odzis:kota rdf:resource="../kota/Cirebon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat23">
+    <odzis:telp>0231-237399</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat23">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat24">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat24">
+    <rdfs:label>RumahZakat24</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat24">
+    <odzis:nama>RumahZakat24</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat24">
+    <odzis:alamatjalan>Jl, Tole Iskandar, Ruko Griya Depok Asri Blok B1 No.2C</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat24">
+    <odzis:kota rdf:resource="../kota/Depok"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat24">
+    <odzis:telp>021-77824992</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat24">
+    <odzis:fax>021-23711522</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat24">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat25">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat25">
+    <rdfs:label>RumahZakat25</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat25">
+    <odzis:nama>RumahZakat25</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat25">
+    <odzis:alamatjalan>Jl. Beringin Raya No.144C Perumnas</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat25">
+    <odzis:kota rdf:resource="../kota/Tangerang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat25">
+    <odzis:telp>021-5588811</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat25">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat26">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat26">
+    <rdfs:label>RumahZakat26</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat26">
+    <odzis:nama>RumahZakat26</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat26">
+    <odzis:alamatjalan>Jl. Dr. Sutomo No.53</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat26">
+    <odzis:kota rdf:resource="../kota/Semarang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat26">
+    <odzis:telp>024-70780960</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat26">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat27">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat27">
+    <rdfs:label>RumahZakat27</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat27">
+    <odzis:nama>RumahZakat27</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat27">
+    <odzis:alamatjalan>Jl. Kartini No.10 Kel. Pocanan, Kec. Kota</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat27">
+    <odzis:kota rdf:resource="../kota/Kediri"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat27">
+    <odzis:telp>0354-7604700</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat27">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat28">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat28">
+    <rdfs:label>RumahZakat28</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat28">
+    <odzis:nama>RumahZakat28</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat28">
+    <odzis:alamatjalan>Ruko Istana, Jl. W.R Supratman C3 Kav.19</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat28">
+    <odzis:kota rdf:resource="../kota/Malang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat28">
+    <odzis:telp>0341-351932</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat28">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat29">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat29">
+    <rdfs:label>RumahZakat29</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat29">
+    <odzis:nama>RumahZakat29</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat29">
+    <odzis:alamatjalan>Jl. Raya Nginden No.29</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat29">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat29">
+    <odzis:telp>031-5914145</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat29">
+    <odzis:fax>031-5914145</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat29">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat30">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat30">
+    <rdfs:label>RumahZakat30</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat30">
+    <odzis:nama>RumahZakat30</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat30">
+    <odzis:alamatjalan>Jl. Dukuh Kampung Barat No.329</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat30">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat30">
+    <odzis:telp>031-78458991</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat30">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat31">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat31">
+    <rdfs:label>RumahZakat31</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat31">
+    <odzis:nama>RumahZakat31</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat31">
+    <odzis:alamatjalan>Jl. Raya Menganti No. 17 B Wiyung</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat31">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat31">
+    <odzis:telp>031-78458992</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat31">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat32">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat32">
+    <rdfs:label>RumahZakat32</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat32">
+    <odzis:nama>RumahZakat32</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat32">
+    <odzis:alamatjalan>Jl. Kali Larangan No.39 Kel. Jayengan, Kec. Serengan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat32">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat32">
+    <odzis:telp>0271-7072671</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat32">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat33">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat33">
+    <rdfs:label>RumahZakat33</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat33">
+    <odzis:nama>RumahZakat33</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat33">
+    <odzis:alamatjalan>Jl. Irian No.35 Kel. Akcaya, Kec. Pontianak Selatan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat33">
+    <odzis:kota rdf:resource="../kota/Pontianak"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat33">
+    <odzis:telp>0561-736809</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat33">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat34">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat34">
+    <rdfs:label>RumahZakat34</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat34">
+    <odzis:nama>RumahZakat34</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat34">
+    <odzis:alamatjalan>Jl. MT. Haryono, Ruko Balikpapan Baru Blok D4 No.6 Kel. Damai, Kec. Balikpapan Selatan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat34">
+    <odzis:kota rdf:resource="../kota/Balikpapan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat34">
+    <odzis:telp>0542-873411</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat34">
+    <odzis:fax>0542-873411</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat34">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat35">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat35">
+    <rdfs:label>RumahZakat35</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat35">
+    <odzis:nama>RumahZakat35</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat35">
+    <odzis:alamatjalan>Jl. Jend Sudirman No.59 Kel. Rawa Laut, Kec. Tekate</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat35">
+    <odzis:kota rdf:resource="../kota/Bandar_lampung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat35">
+    <odzis:telp>0721-255813</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat35">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat36">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat36">
+    <rdfs:label>RumahZakat36</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat36">
+    <odzis:nama>RumahZakat36</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat36">
+    <odzis:alamatjalan>Jl. Perumnas I No.25 Kel. Harem, Kec. Waena</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat36">
+    <odzis:kota rdf:resource="../kota/Jayapura"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat36">
+    <odzis:telp>0967-571692</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat36">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat37">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat37">
+    <rdfs:label>RumahZakat37</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat37">
+    <odzis:nama>RumahZakat37</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat37">
+    <odzis:alamatjalan>Jl. Tuanku Tambusai No.34 D Kel. Jadirejo, Kec. Sukajadi</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat37">
+    <odzis:kota rdf:resource="../kota/Pekanbaru"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat37">
+    <odzis:telp>0761-44447</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat37">
+    <odzis:fax>0761-7097276</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat37">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat38">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat38">
+    <rdfs:label>RumahZakat38</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat38">
+    <odzis:nama>RumahZakat38</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat38">
+    <odzis:alamatjalan>Jl. Ratulangi 119</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat38">
+    <odzis:kota rdf:resource="../kota/Makasar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat38">
+    <odzis:telp>0411-2332124</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat38">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat39">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat39">
+    <rdfs:label>RumahZakat39</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat39">
+    <odzis:nama>RumahZakat39</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat39">
+    <odzis:alamatjalan>Jl. Diponegoro No.15 F</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat39">
+    <odzis:kota rdf:resource="../kota/Padang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat39">
+    <odzis:telp>0751-7873238</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat39">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat40">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat40">
+    <rdfs:label>RumahZakat40</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat40">
+    <odzis:nama>RumahZakat40</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat40">
+    <odzis:alamatjalan>Jl. Basuki Rahmat No.2 Kel. Ario Kemuning, Kec. Kemuning</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat40">
+    <odzis:kota rdf:resource="../kota/Palembang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat40">
+    <odzis:telp>0711-7005100</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat40">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat41">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat41">
+    <rdfs:label>RumahZakat41</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat41">
+    <odzis:nama>RumahZakat41</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat41">
+    <odzis:alamatjalan>Jl. Setiabudi No. 32D Medan Sunggal</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat41">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat41">
+    <odzis:telp>061-8227435</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat41">
+    <odzis:fax>061-77812344</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat41">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat42">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat42">
+    <rdfs:label>RumahZakat42</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat42">
+    <odzis:nama>RumahZakat42</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat42">
+    <odzis:alamatjalan>Pelataran parkir Hotel Inna Dharma Deli Lt.1 Jl. Balai Kota No.2</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat42">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat42">
+    <odzis:telp>061-4528638</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat42">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat43">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat43">
+    <rdfs:label>RumahZakat43</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat43">
+    <odzis:nama>RumahZakat43</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat43">
+    <odzis:alamatjalan>Gedung BIEC, JL. M. Yamin No.82 Kel. Tempaja Utara, Kec. Samarinda Utara</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat43">
+    <odzis:kota rdf:resource="../kota/Samarind"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat43">
+    <odzis:telp>0541-7766033</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat43">
+    <odzis:LZISPusat rdf:resource="umah_Zaka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu">
+    <rdfs:label>Pkpu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu">
+    <odzis:nama>Pkpu</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu">
+    <odzis:alamatjalan>Jl. Raya Condet No. 27-G Batu Ampar</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu">
+    <odzis:kota rdf:resource="../kota/Jakarta_timur"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu">
+    <odzis:telp>0804 100 2000</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu">
+    <odzis:fax>021-87780013</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu">
+    <odzis:website rdf:resource="http://www.pkpu.or.id/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu1">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu1">
+    <rdfs:label>Pkpu1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu1">
+    <odzis:nama>Pkpu1</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu1">
+    <odzis:alamatjalan>Jl. Raya Pasar Minggu, Kavling III No 49 (Depan Gedung Sucofindo) Pancoran</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu1">
+    <odzis:kota rdf:resource="../kota/Jakarta_selatan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu1">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu2">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu2">
+    <rdfs:label>Pkpu2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu2">
+    <odzis:nama>Pkpu2</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu2">
+    <odzis:alamatjalan>Jl. Setiabudi No. 70 Kelurahan Sumurboto, Kecamatan Banyumanik</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu2">
+    <odzis:kota rdf:resource="../kota/Semarang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu2">
+    <odzis:telp>024-7477405</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu2">
+    <odzis:fax>021-70787578</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu2">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu3">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu3">
+    <rdfs:label>Pkpu3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu3">
+    <odzis:nama>Pkpu3</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu3">
+    <odzis:alamatjalan>Jl. Prof DR Sardjito No.4, Kelurahan Cokrodiningratan, Kecamatan Jetis</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu3">
+    <odzis:kota rdf:resource="../kota/Yogyakarta"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu3">
+    <odzis:telp>0274-561525</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu3">
+    <odzis:fax>0274-555041</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu3">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu4">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu4">
+    <rdfs:label>Pkpu4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu4">
+    <odzis:nama>Pkpu4</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu4">
+    <odzis:alamatjalan>Jl. Ngagel Madya no.83</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu4">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu4">
+    <odzis:telp>031-5039285</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu4">
+    <odzis:fax>031-5039285</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu4">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu5">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu5">
+    <rdfs:label>Pkpu5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu5">
+    <odzis:nama>Pkpu5</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu5">
+    <odzis:alamatjalan>Jl. Sukarno hatta No.45 Desa Geuceu Menara, Kecamatan Jaya Baru</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu5">
+    <odzis:kota rdf:resource="../kota/Banda_aceh"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu5">
+    <odzis:telp>0651-43460</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu5">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu6">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu6">
+    <rdfs:label>Pkpu6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu6">
+    <odzis:nama>Pkpu6</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu6">
+    <odzis:alamatjalan>Jl. Setia Budi Komp. Business Point Blok C No.51, Kelurahan Tanjung Rejo, Kecamatan Medan Sunggal, Medan.</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu6">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu6">
+    <odzis:telp>061-8212502</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu6">
+    <odzis:fax>061-8212643</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu6">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu7">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu7">
+    <rdfs:label>Pkpu7</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu7">
+    <odzis:nama>Pkpu7</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu7">
+    <odzis:alamatjalan>Jl. Raya By Pass No. 16B Padang.</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu7">
+    <odzis:kota rdf:resource="../kota/Padang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu7">
+    <odzis:telp>0751-7054623</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu7">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu8">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu8">
+    <rdfs:label>Pkpu8</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu8">
+    <odzis:nama>Pkpu8</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu8">
+    <odzis:alamatjalan>Jl. Prof. Dr. Hamka No. 24 Gurun Panjang Bukittinggi.</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu8">
+    <odzis:kota rdf:resource="../kota/Bukittinggi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu8">
+    <odzis:telp>0752-9916263</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu8">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu9">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu9">
+    <rdfs:label>Pkpu9</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu9">
+    <odzis:nama>Pkpu9</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu9">
+    <odzis:alamatjalan>Jl. Merapi No. 92, Kelurahan Panorama, Kecamatan Gading Cempaka</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu9">
+    <odzis:kota rdf:resource="../kota/Bengkulu"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu9">
+    <odzis:telp>0736-26425</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu9">
+    <odzis:fax>0736-26425</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu9">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu10">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu10">
+    <rdfs:label>Pkpu10</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu10">
+    <odzis:nama>Pkpu10</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu10">
+    <odzis:alamatjalan>Jl. Aroeppala No. 48 Makasar.</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu10">
+    <odzis:kota rdf:resource="../kota/Makassar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu10">
+    <odzis:telp>0411-886057</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu10">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu11">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu11">
+    <rdfs:label>Pkpu11</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu11">
+    <odzis:nama>Pkpu11</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu11">
+    <odzis:alamatjalan>Jl. Jendral Gatot Subroto No. 46B</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu11">
+    <odzis:kota rdf:resource="../kota/Bandung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu11">
+    <odzis:telp>022-7310407</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu11">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu12">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu12">
+    <rdfs:label>Pkpu12</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu12">
+    <odzis:nama>Pkpu12</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu12">
+    <odzis:alamatjalan>Jl. Cikutra No. 138, Kelurahan Padasuka, Kecamatan Cibeunying Kidul</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu12">
+    <odzis:kota rdf:resource="../kota/Bandung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu12">
+    <odzis:telp>022-7100035</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu12">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu13">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu13">
+    <rdfs:label>Pkpu13</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu13">
+    <odzis:nama>Pkpu13</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu13">
+    <odzis:alamatjalan>Griya Wikarsa Baru 18</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu13">
+    <odzis:kota rdf:resource="../kota/Mojokerto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu13">
+    <odzis:telp>0321-330875</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu13">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu14">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu14">
+    <rdfs:label>Pkpu14</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu14">
+    <odzis:nama>Pkpu14</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu14">
+    <odzis:alamatjalan>Jl. Dr Soetomo Gg Kecamatan No. 8</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu14">
+    <odzis:kota rdf:resource="../kota/Jombang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu14">
+    <odzis:telp>0321-870255</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu14">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu15">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu15">
+    <rdfs:label>Pkpu15</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu15">
+    <odzis:nama>Pkpu15</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu15">
+    <odzis:alamatjalan>Jl. Raya Galuh Mas Blok XII No. A-6</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu15">
+    <odzis:kota rdf:resource="../kota/Karawang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu15">
+    <odzis:telp>0267-8456484</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu15">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu16">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu16">
+    <rdfs:label>Pkpu16</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu16">
+    <odzis:nama>Pkpu16</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu16">
+    <odzis:alamatjalan>Jl. Sutaatmaja Blok Sukahayu RT 69 RW 09</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu16">
+    <odzis:kota rdf:resource="../kota/Subang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu16">
+    <odzis:telp>0260-9141062</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu16">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu17">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu17">
+    <rdfs:label>Pkpu17</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu17">
+    <odzis:nama>Pkpu17</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu17">
+    <odzis:alamatjalan>Jl. Ciremai Raya Ruko Blok A No. 4 Harja Mukti</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu17">
+    <odzis:kota rdf:resource="../kota/Cirebon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu17">
+    <odzis:telp>0231-480965</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu17">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu18">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu18">
+    <rdfs:label>Pkpu18</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu18">
+    <odzis:nama>Pkpu18</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu18">
+    <odzis:alamatjalan>Jl. Ruhui Rahayu No. 156, Simpang 4 Lampu Merah Balikpapan Baru</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu18">
+    <odzis:kota rdf:resource="../kota/Balikpapan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu18">
+    <odzis:telp>0542-878672</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu18">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu19">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu19">
+    <rdfs:label>Pkpu19</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu19">
+    <odzis:nama>Pkpu19</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu19">
+    <odzis:alamatjalan>Jl. Soekarno Hatta No. 182B Simpang Pancuran Koto Nan IV</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu19">
+    <odzis:kota rdf:resource="../kota/Payakumbuh"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu19">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu20">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu20">
+    <rdfs:label>Pkpu20</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu20">
+    <odzis:nama>Pkpu20</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu20">
+    <odzis:alamatjalan>Jl. Letjenpol Soemarto Gg. Tampomas RT 03/RW 1 No. 149 Purwokerto.</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu20">
+    <odzis:kota rdf:resource="../kota/Purwokerto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu20">
+    <odzis:telp>0281-7958080</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu20">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu21">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu21">
+    <rdfs:label>Pkpu21</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu21">
+    <odzis:nama>Pkpu21</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu21">
+    <odzis:alamatjalan>Jl. Jepara No. 421</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu21">
+    <odzis:kota rdf:resource="../kota/Kudus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu21">
+    <odzis:telp>0291-3304337</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu21">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu22">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu22">
+    <rdfs:label>Pkpu22</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu22">
+    <odzis:nama>Pkpu22</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu22">
+    <odzis:alamatjalan>Jl. Werkudoro No. 173</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu22">
+    <odzis:kota rdf:resource="../kota/Tegal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu22">
+    <odzis:telp>(0283) 35 81 30</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu22">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu23">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu23">
+    <rdfs:label>Pkpu23</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu23">
+    <odzis:nama>Pkpu23</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu23">
+    <odzis:alamatjalan>Jl. Perintis Kemerdekaan RT 05/RW 15 Siswodipuran</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu23">
+    <odzis:kota rdf:resource="../kota/Boyolali"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu23">
+    <odzis:telp>0276-3336383</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu23">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu24">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu24">
+    <rdfs:label>Pkpu24</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu24">
+    <odzis:nama>Pkpu24</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu24">
+    <odzis:alamatjalan>Jl. Muwardi No. 21 Badranasri RT 02 / RW 12 Cangakan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu24">
+    <odzis:kota rdf:resource="../kota/Karanganyar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu24">
+    <odzis:telp>0271-6497011</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu24">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu25">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu25">
+    <rdfs:label>Pkpu25</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu25">
+    <odzis:nama>Pkpu25</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu25">
+    <odzis:alamatjalan>Jl. Sultan Agung 16, Lumajang.</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu25">
+    <odzis:kota rdf:resource="../kota/Lumajang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu25">
+    <odzis:telp>0334-879044</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu25">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu26">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu26">
+    <rdfs:label>Pkpu26</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu26">
+    <odzis:nama>Pkpu26</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu26">
+    <odzis:alamatjalan>Jl. Soekarno Hatta No 31A, Sambong Kanigoro</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu26">
+    <odzis:kota rdf:resource="../kota/Blitar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu26">
+    <odzis:telp>0342-7846868</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu26">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu27">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu27">
+    <rdfs:label>Pkpu27</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu27">
+    <odzis:nama>Pkpu27</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu27">
+    <odzis:alamatjalan>Pesona Sekar Gading AA-25, Sekardangan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu27">
+    <odzis:kota rdf:resource="../kota/Sidoarjo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu27">
+    <odzis:telp>031-8063272</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu27">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu28">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu28">
+    <rdfs:label>Pkpu28</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu28">
+    <odzis:nama>Pkpu28</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu28">
+    <odzis:alamatjalan>Jl. Rambutan No.23 Kelurahan Wowanggu, Kecamatan Wua-wua</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu28">
+    <odzis:kota rdf:resource="../kota/Kendari"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu28">
+    <odzis:telp>0401-3191950</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu28">
+    <odzis:fax>0401-3191950</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu28">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu29">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu29">
+    <rdfs:label>Pkpu29</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu29">
+    <odzis:nama>Pkpu29</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu29">
+    <odzis:alamatjalan>Jl. Ir. H. Juanda I No. 1A, Kelurahan Lolu Utara, Kecamatan Palu Selatan, Kota Palu 94112</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu29">
+    <odzis:kota rdf:resource="../kota/Palu"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu29">
+    <odzis:telp>0451-455473</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu29">
+    <odzis:fax>0451-455473</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu29">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu30">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu30">
+    <rdfs:label>Pkpu30</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu30">
+    <odzis:nama>Pkpu30</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu30">
+    <odzis:alamatjalan>Jl Pogidon Raya No 110, Gedung RSI Sitti Maryam Lt III, Kelurahan Tuminting, Kecamatan Tuminting</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu30">
+    <odzis:kota rdf:resource="../kota/Manado"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu30">
+    <odzis:telp>0431-3631345</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu30">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu31">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu31">
+    <rdfs:label>Pkpu31</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu31">
+    <odzis:nama>Pkpu31</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu31">
+    <odzis:alamatjalan>Jl. MT. Haryono No 156, Simpang Lampu Merah Balikpapan Baru.</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu31">
+    <odzis:kota rdf:resource="../kota/Balikpapan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu31">
+    <odzis:telp>0542-7039222</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu31">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu32">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu32">
+    <rdfs:label>Pkpu32</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu32">
+    <odzis:nama>Pkpu32</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu32">
+    <odzis:alamatjalan>Klinik Al-Aqsho. Komp. BTN Bukit Manusela Blok B/5-6, Jl. Kebun Cengkeh, Kecamatan Air Kuning, Ambon 97128</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu32">
+    <odzis:kota rdf:resource="../kota/Ambon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu32">
+    <odzis:telp>0911-312658</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu32">
+    <odzis:fax>0911-312658</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu32">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu33">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu33">
+    <rdfs:label>Pkpu33</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu33">
+    <odzis:nama>Pkpu33</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu33">
+    <odzis:alamatjalan>Jl. Cempaka No. 79 Rt. 09/Rw. 02 Tanah Tinggi Ternate</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu33">
+    <odzis:kota rdf:resource="../kota/Ternate"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pkpu33">
+    <odzis:LZISPusat rdf:resource="KP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="UlilAlbab">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="UlilAlbab">
+    <rdfs:label>UlilAlbab</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="UlilAlbab">
+    <odzis:nama>UlilAlbab</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="UlilAlbab">
+    <odzis:alamatjalan>Jl. Gagak Hitam 117A</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="UlilAlbab">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="UlilAlbab">
+    <odzis:telp>061-8448478</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="UlilAlbab">
+    <odzis:website rdf:resource="http://www.ulilalbab.org"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanFajarIslam">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanFajarIslam">
+    <rdfs:label>YayasanFajarIslam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanFajarIslam">
+    <odzis:nama>YayasanFajarIslam</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanFajarIslam">
+    <odzis:alamatjalan>Jalan Mutiara No.32 Sumur Batu, Kemayoran</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanFajarIslam">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanFajarIslam">
+    <odzis:telp>021-4263882</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanFajarIslam">
+    <odzis:website rdf:resource="http://www.fajarislam.org"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ar-rahman">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ar-rahman">
+    <rdfs:label>Ar-rahman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ar-rahman">
+    <odzis:nama>Ar-rahman</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ar-rahman">
+    <odzis:alamatjalan>Komplek Bumi Malaka Asri III, Jl. Matahari Raya  No. 2, Duren Sawit</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ar-rahman">
+    <odzis:kota rdf:resource="../kota/Jakarta_timur"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ar-rahman">
+    <odzis:telp>021-86602955</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ar-rahman">
+    <odzis:website rdf:resource="http://e-arrahman.com"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa">
+    <rdfs:label>Pppa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa">
+    <odzis:nama>Pppa</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa">
+    <odzis:alamatjalan>Kawasan Bisnis CBD Ciledug, Blok A3, No.21 Jl. HOS. Cokroaminoto, Karang Tengah, Cilledug</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa">
+    <odzis:kota rdf:resource="../kota/Tangerang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa">
+    <odzis:telp>021-73453000</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa">
+    <odzis:fax>021-73444875</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa">
+    <odzis:website rdf:resource="http://www.pppa.or.id"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa1">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa1">
+    <rdfs:label>Pppa1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa1">
+    <odzis:nama>Pppa1</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa1">
+    <odzis:alamatjalan>Ruko Bangbarung Grande Blok K-6 Jl. Pandu Raya No. 27 Bantarjati</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa1">
+    <odzis:kota rdf:resource="../kota/Bogor."/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa1">
+    <odzis:telp>0251-8322 355</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa1">
+    <odzis:fax>0251-835 4515</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa1">
+    <odzis:LZISPusat rdf:resource="PP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa2">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa2">
+    <rdfs:label>Pppa2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa2">
+    <odzis:nama>Pppa2</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa2">
+    <odzis:alamatjalan>Jl. Gajah Raya No. 111B</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa2">
+    <odzis:kota rdf:resource="../kota/Semarang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa2">
+    <odzis:telp>024-3304 4345</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa2">
+    <odzis:LZISPusat rdf:resource="PP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa3">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa3">
+    <rdfs:label>Pppa3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa3">
+    <odzis:nama>Pppa3</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa3">
+    <odzis:alamatjalan>Jl. Bend. Sigura-gura Barat Raya 16E Sumber Sari Kec. Lowokwaru</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa3">
+    <odzis:kota rdf:resource="../kota/Malang."/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa3">
+    <odzis:telp>0341-553 644</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa3">
+    <odzis:fax>0341-553 645</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa3">
+    <odzis:LZISPusat rdf:resource="PP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa4">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa4">
+    <rdfs:label>Pppa4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa4">
+    <odzis:nama>Pppa4</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa4">
+    <odzis:alamatjalan>Jl. Kasuari No. 1 Demangan, Catur Tunggal Depok</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa4">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa4">
+    <odzis:telp>0274-544 020</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pppa4">
+    <odzis:LZISPusat rdf:resource="PP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatProvinsiDiy">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatProvinsiDiy">
+    <rdfs:label>BadanAmilZakatProvinsiDiy</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatProvinsiDiy">
+    <odzis:nama>BadanAmilZakatProvinsiDiy</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatProvinsiDiy">
+    <odzis:alamatjalan>Jl. Kapas No. 3 Semaki, Yogyakarta</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatProvinsiDiy">
+    <odzis:kota rdf:resource="../kota/Yogyakarta"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmulZakatKotaYogyakarta">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmulZakatKotaYogyakarta">
+    <rdfs:label>BadanAmulZakatKotaYogyakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmulZakatKotaYogyakarta">
+    <odzis:nama>BadanAmulZakatKotaYogyakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmulZakatKotaYogyakarta">
+    <odzis:alamatjalan>Komplek BalaiKota Yogyakarta</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmulZakatKotaYogyakarta">
+    <odzis:kota rdf:resource="../kota/Yogyakarta"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Bantul">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Bantul">
+    <rdfs:label>BadanAmilZakatKab.Bantul</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Bantul">
+    <odzis:nama>BadanAmilZakatKab.Bantul</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Bantul">
+    <odzis:alamatjalan>Jl. DR. Wahidin Sudirohusodo No. 16 Bantul</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Bantul">
+    <odzis:kota rdf:resource="../kota/Bantul"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Kulonprogo">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Kulonprogo">
+    <rdfs:label>BadanAmilZakatKab.Kulonprogo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Kulonprogo">
+    <odzis:nama>BadanAmilZakatKab.Kulonprogo</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Kulonprogo">
+    <odzis:alamatjalan>Komplek Kantor Kabupaten Kulonprogo</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Kulonprogo">
+    <odzis:kota rdf:resource="../kota/Kulonprogo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Gunungkidul">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Gunungkidul">
+    <rdfs:label>BadanAmilZakatKab.Gunungkidul</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Gunungkidul">
+    <odzis:nama>BadanAmilZakatKab.Gunungkidul</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Gunungkidul">
+    <odzis:alamatjalan>Komplek Kantor Kabupaten Gunungkidul</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Gunungkidul">
+    <odzis:kota rdf:resource="../kota/Gunung_kidul"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Sleman">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Sleman">
+    <rdfs:label>BadanAmilZakatKab.Sleman</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Sleman">
+    <odzis:nama>BadanAmilZakatKab.Sleman</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Sleman">
+    <odzis:alamatjalan>Komplek Kantor Kabupaten Sleman</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatKab_Sleman">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalHidayatullah">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalHidayatullah">
+    <rdfs:label>BaitulMaalHidayatullah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalHidayatullah">
+    <odzis:nama>BaitulMaalHidayatullah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalHidayatullah">
+    <odzis:alamatjalan>Balong, Donoharjo, Ngaglik, Sleman</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalHidayatullah">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisUii">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisUii">
+    <rdfs:label>LazisUii</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisUii">
+    <odzis:nama>LazisUii</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisUii">
+    <odzis:alamatjalan>Jl. Cik Di Tiro No. 1</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisUii">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisMuhammadiyah">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisMuhammadiyah">
+    <rdfs:label>LazisMuhammadiyah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisMuhammadiyah">
+    <odzis:nama>LazisMuhammadiyah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisMuhammadiyah">
+    <odzis:alamatjalan>Jl. KH. Ahmad Dahlan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisMuhammadiyah">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisPerkasa">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisPerkasa">
+    <rdfs:label>LazisPerkasa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisPerkasa">
+    <odzis:nama>LazisPerkasa</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisPerkasa">
+    <odzis:alamatjalan>Jl. Kusumanegara</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisPerkasa">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisRumahZakatTajQuro">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisRumahZakatTajQuro">
+    <rdfs:label>LazisRumahZakatTajQuro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisRumahZakatTajQuro">
+    <odzis:nama>LazisRumahZakatTajQuro</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisRumahZakatTajQuro">
+    <odzis:alamatjalan>Sihono, Panggang</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisRumahZakatTajQuro">
+    <odzis:kota rdf:resource="../kota/Gunung_kidul"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisTazkiya">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisTazkiya">
+    <rdfs:label>LazisTazkiya</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisTazkiya">
+    <odzis:nama>LazisTazkiya</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisTazkiya">
+    <odzis:alamatjalan>Gunungkidul</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisTazkiya">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LumbungZakatIndonesia">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LumbungZakatIndonesia">
+    <rdfs:label>LumbungZakatIndonesia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LumbungZakatIndonesia">
+    <odzis:nama>LumbungZakatIndonesia</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LumbungZakatIndonesia">
+    <odzis:alamatjalan>Tempel, Sleman</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LumbungZakatIndonesia">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisSyuhada">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisSyuhada">
+    <rdfs:label>LazisSyuhada</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisSyuhada">
+    <odzis:nama>LazisSyuhada</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisSyuhada">
+    <odzis:alamatjalan>Komplek Masjid Syuhada</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisSyuhada">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisAmratani">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisAmratani">
+    <rdfs:label>LazisAmratani</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisAmratani">
+    <odzis:nama>LazisAmratani</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisAmratani">
+    <odzis:alamatjalan>Jl. Palagan Tentara Pelajar</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisAmratani">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisBinaUmat">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisBinaUmat">
+    <rdfs:label>LazisBinaUmat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisBinaUmat">
+    <odzis:nama>LazisBinaUmat</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisBinaUmat">
+    <odzis:alamatjalan>Jl. Timoho</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisBinaUmat">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisDompetShalahudin">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisDompetShalahudin">
+    <rdfs:label>LazisDompetShalahudin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisDompetShalahudin">
+    <odzis:nama>LazisDompetShalahudin</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisDompetShalahudin">
+    <odzis:alamatjalan>Masjid Komplek UGM</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisDompetShalahudin">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisAl_falah">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisAl_falah">
+    <rdfs:label>LazisAl'falah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisAl_falah">
+    <odzis:nama>LazisAl'falah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisAl_falah">
+    <odzis:alamatjalan>Jl. Monjali, Sinduadi, Malti</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisAl_falah">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisPortalInfaq">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisPortalInfaq">
+    <rdfs:label>LazisPortalInfaq</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisPortalInfaq">
+    <odzis:nama>LazisPortalInfaq</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisPortalInfaq">
+    <odzis:alamatjalan>Jl. Bantul, Bantul</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisPortalInfaq">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisDompetDhuafaRepublika">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisDompetDhuafaRepublika">
+    <rdfs:label>LazisDompetDhuafaRepublika</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisDompetDhuafaRepublika">
+    <odzis:nama>LazisDompetDhuafaRepublika</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisDompetDhuafaRepublika">
+    <odzis:alamatjalan>Jl. Veteran Yogyakarta</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisDompetDhuafaRepublika">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazDpu-Dt">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazDpu-Dt">
+    <rdfs:label>LazDpu-Dt</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazDpu-Dt">
+    <odzis:nama>LazDpu-Dt</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazDpu-Dt">
+    <odzis:alamatjalan>Jl. Ny. Ahmad Dahlan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazDpu-Dt">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalAl_khautsar">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalAl_khautsar">
+    <rdfs:label>BaitulMaalAl'khautsar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalAl_khautsar">
+    <odzis:nama>BaitulMaalAl'khautsar</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalAl_khautsar">
+    <odzis:alamatjalan>Jl. Tentara Pelajar Palagan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalAl_khautsar">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisDewanDakwahIslamiyah">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisDewanDakwahIslamiyah">
+    <rdfs:label>LazisDewanDakwahIslamiyah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisDewanDakwahIslamiyah">
+    <odzis:nama>LazisDewanDakwahIslamiyah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisDewanDakwahIslamiyah">
+    <odzis:alamatjalan>Jl. Timoho</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisDewanDakwahIslamiyah">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakatMuhammadiyah">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakatMuhammadiyah">
+    <rdfs:label>RumahZakatMuhammadiyah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakatMuhammadiyah">
+    <odzis:nama>RumahZakatMuhammadiyah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakatMuhammadiyah">
+    <odzis:alamatjalan>Jl. Gedongkuning</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakatMuhammadiyah">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisNu2">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisNu2">
+    <rdfs:label>LazisNu2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisNu2">
+    <odzis:nama>LazisNu2</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisNu2">
+    <odzis:alamatjalan>Jl. Bantul</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisNu2">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisNu2">
+    <odzis:LZISPusat rdf:resource="AZIS_N"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="UpzEsq">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="UpzEsq">
+    <rdfs:label>UpzEsq</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="UpzEsq">
+    <odzis:nama>UpzEsq</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="UpzEsq">
+    <odzis:alamatjalan>Komplek LPP Jl. Solo</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="UpzEsq">
+    <odzis:kota rdf:resource="../kota/Sleman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatNasional">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatNasional">
+    <rdfs:label>BadanAmilZakatNasional</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatNasional">
+    <odzis:nama>BadanAmilZakatNasional</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatNasional">
+    <odzis:alamatjalan>Jl. Kebon Sirih Raya No.57</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatNasional">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatNasional">
+    <odzis:telp>213904555</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatNasional">
+    <odzis:fax>213913777</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatNasional">
+    <odzis:website rdf:resource="http://www.baznas.or.id"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Al-azharPeduliUmat">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Al-azharPeduliUmat">
+    <rdfs:label>Al-azharPeduliUmat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="Al-azharPeduliUmat">
+    <odzis:nama>Al-azharPeduliUmat</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="Al-azharPeduliUmat">
+    <odzis:alamatjalan>Komplek Masjid Agung Al-Azhar Jl. Sisingamangaraja, Kebayoran Baru</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="Al-azharPeduliUmat">
+    <odzis:kota rdf:resource="../kota/Jakarta_selatan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Al-azharPeduliUmat">
+    <odzis:telp>021-722 1504</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="Al-azharPeduliUmat">
+    <odzis:fax>021-726 5241</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="Al-azharPeduliUmat">
+    <odzis:website rdf:resource="http://www.alazharpeduli.com"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="SwadayaUmmah">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="SwadayaUmmah">
+    <rdfs:label>SwadayaUmmah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="SwadayaUmmah">
+    <odzis:nama>SwadayaUmmah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="SwadayaUmmah">
+    <odzis:alamatjalan>Gedung Bank Zakat Jl. HR Soebrantas No. 21</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="SwadayaUmmah">
+    <odzis:kota rdf:resource="../kota/Panam"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="SwadayaUmmah">
+    <odzis:telp>0761-589100</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="SwadayaUmmah">
+    <odzis:fax>0761-589200</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="SwadayaUmmah">
+    <odzis:website rdf:resource="http://www.swadayaummah.or.id"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalHidayatullah1">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalHidayatullah1">
+    <rdfs:label>BaitulMaalHidayatullah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalHidayatullah1">
+    <odzis:nama>BaitulMaalHidayatullah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalHidayatullah1">
+    <odzis:alamatjalan>Jl. H. Samali No. 79B Pejaten Barat Pasar Minggu</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalHidayatullah1">
+    <odzis:kota rdf:resource="../kota/Jakarta_selatan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalHidayatullah1">
+    <odzis:telp>021-797 5770</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalHidayatullah1">
+    <odzis:fax>021-797 5614</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalHidayatullah1">
+    <odzis:website rdf:resource="http://www.bmh.or.id"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="InfakPeduliMasyarakatIslami">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="InfakPeduliMasyarakatIslami">
+    <rdfs:label>InfakPeduliMasyarakatIslami</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="InfakPeduliMasyarakatIslami">
+    <odzis:nama>InfakPeduliMasyarakatIslami</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="InfakPeduliMasyarakatIslami">
+    <odzis:alamatjalan>Jl. Raya Cimanglid, No. 61 Ds. Sukamantri Kecamatan Tamansari</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="InfakPeduliMasyarakatIslami">
+    <odzis:kota rdf:resource="../kota/Bogor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="InfakPeduliMasyarakatIslami">
+    <odzis:telp>0251 8388 006</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="InfakPeduliMasyarakatIslami">
+    <odzis:fax>0251 8389 788</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="InfakPeduliMasyarakatIslami">
+    <odzis:website rdf:resource="http://www.zakatinfak.com"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanDanaSosialAl-falah">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanDanaSosialAl-falah">
+    <rdfs:label>YayasanDanaSosialAl-falah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanDanaSosialAl-falah">
+    <odzis:nama>YayasanDanaSosialAl-falah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanDanaSosialAl-falah">
+    <odzis:alamatjalan>Jl. Kertajaya 8C/17</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanDanaSosialAl-falah">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanDanaSosialAl-falah">
+    <odzis:telp>031-505 6650</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanDanaSosialAl-falah">
+    <odzis:fax>031-505 6656</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanDanaSosialAl-falah">
+    <odzis:website rdf:resource="http://www.ydsf.org/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfGresik">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfGresik">
+    <rdfs:label>YdsfGresik</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfGresik">
+    <odzis:nama>YdsfGresik</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfGresik">
+    <odzis:alamatjalan>Jl. Panglima Sudirman 8</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfGresik">
+    <odzis:kota rdf:resource="../kota/Gresik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfGresik">
+    <odzis:telp>031-398 0435</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfGresik">
+    <odzis:LZISPusat rdf:resource="ayasan_Dana_Sosial_Al-Fala"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfGresik">
+    <odzis:website rdf:resource="http://ydsfgresik.com/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfSidoarjo">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfSidoarjo">
+    <rdfs:label>YdsfSidoarjo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfSidoarjo">
+    <odzis:nama>YdsfSidoarjo</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfSidoarjo">
+    <odzis:alamatjalan>Graha Anggrek Mas Regency A-2</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfSidoarjo">
+    <odzis:kota rdf:resource="../kota/Sidoarjo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfSidoarjo">
+    <odzis:telp>031-807 0602</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfSidoarjo">
+    <odzis:LZISPusat rdf:resource="ayasan_Dana_Sosial_Al-Fala"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfMalang">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfMalang">
+    <rdfs:label>YdsfMalang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfMalang">
+    <odzis:nama>YdsfMalang</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfMalang">
+    <odzis:alamatjalan>Jl. Kahuripan 12 Kota</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfMalang">
+    <odzis:kota rdf:resource="../kota/Malang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfMalang">
+    <odzis:telp>0341 - 7054156</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfMalang">
+    <odzis:LZISPusat rdf:resource="ayasan_Dana_Sosial_Al-Fala"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfMalang">
+    <odzis:website rdf:resource="http://www.ydsf-malang.or.id/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfJakarta">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfJakarta">
+    <rdfs:label>YdsfJakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfJakarta">
+    <odzis:nama>YdsfJakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfJakarta">
+    <odzis:alamatjalan>Jl. Terusan HR Rasuna Said No. 25, Mampang Prapatan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfJakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_selatan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfJakarta">
+    <odzis:telp>(021) 526 6962</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfJakarta">
+    <odzis:fax>(021) 526 6963</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfJakarta">
+    <odzis:LZISPusat rdf:resource="ayasan_Dana_Sosial_Al-Fala"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YdsfJakarta">
+    <odzis:website rdf:resource="http://ydsfjakarta.org/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="AmanahTafakul">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="AmanahTafakul">
+    <rdfs:label>AmanahTafakul</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="AmanahTafakul">
+    <odzis:nama>AmanahTafakul</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="AmanahTafakul">
+    <odzis:alamatjalan>Jl. Mampang Prapatan Raya No. 100</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="AmanahTafakul">
+    <odzis:kota rdf:resource="../kota/Jakarta_selatan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="AmanahTafakul">
+    <odzis:telp>(021) 7991234</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="AmanahTafakul">
+    <odzis:fax>(021) 79193662</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalMuamalat">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalMuamalat">
+    <rdfs:label>BaitulMaalMuamalat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalMuamalat">
+    <odzis:nama>BaitulMaalMuamalat</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalMuamalat">
+    <odzis:alamatjalan>Ged. Dana Pensiun Telkom Lt. II Jl. Letjend S. Parman Kav. 56</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalMuamalat">
+    <odzis:kota rdf:resource="../kota/Jakarta_barat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalMuamalat">
+    <odzis:telp>(021) 5326744</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalMuamalat">
+    <odzis:fax>(021) 5326731</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalMuamalat">
+    <odzis:website rdf:resource="http://www.baitulmaal.net"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaituzakkahPertamina">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaituzakkahPertamina">
+    <rdfs:label>BaituzakkahPertamina</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaituzakkahPertamina">
+    <odzis:nama>BaituzakkahPertamina</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaituzakkahPertamina">
+    <odzis:alamatjalan>Jl. Medan Merdeka Timur No. 11</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaituzakkahPertamina">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaituzakkahPertamina">
+    <odzis:telp>(021) 38503166</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaituzakkahPertamina">
+    <odzis:fax>(021) 3862515</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="BamuisBankBni">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BamuisBankBni">
+    <rdfs:label>BamuisBankBni</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BamuisBankBni">
+    <odzis:nama>BamuisBankBni</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BamuisBankBni">
+    <odzis:alamatjalan>Jl. Pejompongan Raya 23</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BamuisBankBni">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BamuisBankBni">
+    <odzis:telp>021) 5743573</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="BamuisBankBni">
+    <odzis:fax>(021) 5743964</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="BamuisBankBni">
+    <odzis:website rdf:resource="http://www.bamuisbni.com"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatDkiJakarta">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatDkiJakarta">
+    <rdfs:label>BadanAmilZakatDkiJakarta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatDkiJakarta">
+    <odzis:nama>BadanAmilZakatDkiJakarta</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatDkiJakarta">
+    <odzis:alamatjalan>Gedung Prasada Sasana Karya Jl. Suryo Pranoto No.08</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatDkiJakarta">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatDkiJakarta">
+    <odzis:telp>(021) 3901367</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatDkiJakarta">
+    <odzis:fax>021-63866761</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanAmilZakatDkiJakarta">
+    <odzis:website rdf:resource="http://www.bazisdki.go.id"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalPupukKujang">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalPupukKujang">
+    <rdfs:label>BaitulMaalPupukKujang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalPupukKujang">
+    <odzis:nama>BaitulMaalPupukKujang</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalPupukKujang">
+    <odzis:alamatjalan>Jl. Jend. Ahmad Yani No. 39</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalPupukKujang">
+    <odzis:kota rdf:resource="../kota/Cikampek"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalPupukKujang">
+    <odzis:telp>0264-316141</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalPupukKujang">
+    <odzis:fax>0264-314235</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalPupukKaltim">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalPupukKaltim">
+    <rdfs:label>BaitulMaalPupukKaltim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalPupukKaltim">
+    <odzis:nama>BaitulMaalPupukKaltim</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalPupukKaltim">
+    <odzis:alamatjalan>Lantai Dasar Masjid Baiturrahman Jl. Tulip 01 PC VI PT Pupuk Kaltim Timur</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalPupukKaltim">
+    <odzis:kota rdf:resource="../kota/Bontang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalPupukKaltim">
+    <odzis:telp>0548-41202</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="BaitulMaalPupukKaltim">
+    <odzis:fax>0548-20185</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanPengelolaZakatInfakSedekahBankMandiri">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanPengelolaZakatInfakSedekahBankMandiri">
+    <rdfs:label>BadanPengelolaZakatInfakSedekahBankMandiri</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanPengelolaZakatInfakSedekahBankMandiri">
+    <odzis:nama>BadanPengelolaZakatInfakSedekahBankMandiri</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanPengelolaZakatInfakSedekahBankMandiri">
+    <odzis:alamatjalan>Plasa MANDIRI Gatot Subroto Kav. 36-38</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanPengelolaZakatInfakSedekahBankMandiri">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanPengelolaZakatInfakSedekahBankMandiri">
+    <odzis:telp>021-5265045</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanPengelolaZakatInfakSedekahBankMandiri">
+    <odzis:fax>021-52964066</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="BadanPengelolaZakatInfakSedekahBankMandiri">
+    <odzis:website rdf:resource="http://www.bpzismandiri.org"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BinaSejahteraMitraUmmat">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BinaSejahteraMitraUmmat">
+    <rdfs:label>BinaSejahteraMitraUmmat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="BinaSejahteraMitraUmmat">
+    <odzis:nama>BinaSejahteraMitraUmmat</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="BinaSejahteraMitraUmmat">
+    <odzis:alamatjalan>Gedung Bank Syariah Mandiri Lt. Dasar Jl. M. H. Tamrin No. 5</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="BinaSejahteraMitraUmmat">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BinaSejahteraMitraUmmat">
+    <odzis:telp>(021) 2300509</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="BinaSejahteraMitraUmmat">
+    <odzis:fax>(021) 39832976</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid">
+    <rdfs:label>DompetPeduliUmmatDaarutTauhid</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid">
+    <odzis:nama>DompetPeduliUmmatDaarutTauhid</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid">
+    <odzis:alamatjalan>Jl. Geger Kalong Girang No. 32</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid">
+    <odzis:kota rdf:resource="../kota/Bandung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid">
+    <odzis:telp>022-70775632</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid">
+    <odzis:fax>022-2021862</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid">
+    <odzis:website rdf:resource="http://www.dpu-online.com"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <rdfs:label>DompetPeduliUmmatDaarutTauhid2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <odzis:nama>DompetPeduliUmmatDaarutTauhid2</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <odzis:alamatjalan>Jl. Ir. H. R. Juanda No. 50 Ciputat</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <odzis:kota rdf:resource="../kota/Jakarta_selatan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <odzis:telp>(021) 7401460</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <odzis:fax>(021) 7401351</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <odzis:LZISPusat rdf:resource="ompet_Peduli_Ummat_Daarut_Tauhi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid2">
+    <odzis:website rdf:resource="http://www.dtjakarta.or.id/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid3">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid3">
+    <rdfs:label>DompetPeduliUmmatDaarutTauhid3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid3">
+    <odzis:nama>DompetPeduliUmmatDaarutTauhid3</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid3">
+    <odzis:alamatjalan>Jl. Sutisna Senjaya Belakang No.129</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid3">
+    <odzis:kota rdf:resource="../kota/Tasikmalaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid3">
+    <odzis:telp>(0265) 338535</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid3">
+    <odzis:fax>0265-7042525</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid3">
+    <odzis:LZISPusat rdf:resource="ompet_Peduli_Ummat_Daarut_Tauhi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid3">
+    <odzis:website rdf:resource="http://www.priangantimur.dpu-online.com/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid4">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid4">
+    <rdfs:label>DompetPeduliUmmatDaarutTauhid4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid4">
+    <odzis:nama>DompetPeduliUmmatDaarutTauhid4</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid4">
+    <odzis:alamatjalan>Jl. Jabaru IV No.7, Rt.04/05, Kelurahan Pasir Kuda Kecamatan Ciomas</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid4">
+    <odzis:kota rdf:resource="../kota/Bogor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid4">
+    <odzis:telp>(0251) 8631126</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid4">
+    <odzis:fax>(0251) 8631126</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid4">
+    <odzis:LZISPusat rdf:resource="ompet_Peduli_Ummat_Daarut_Tauhi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <rdfs:label>DompetPeduliUmmatDaarutTauhid5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <odzis:nama>DompetPeduliUmmatDaarutTauhid5</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <odzis:alamatjalan>Jl. KH. Agus Salim No. 56 A Notoprajan, Ngampilan</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <odzis:kota rdf:resource="../kota/Yogyakarta"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <odzis:telp>(0274) 6560086</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <odzis:fax>(0274) 566171</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <odzis:LZISPusat rdf:resource="ompet_Peduli_Ummat_Daarut_Tauhi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid5">
+    <odzis:website rdf:resource="http://www.dpudt-jogja.org"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid6">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid6">
+    <rdfs:label>DompetPeduliUmmatDaarutTauhid6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid6">
+    <odzis:nama>DompetPeduliUmmatDaarutTauhid6</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid6">
+    <odzis:alamatjalan>Jl. Dr. Wachidin No. Family House G-8 Kecamatan Candi Sari</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid6">
+    <odzis:kota rdf:resource="../kota/Semarang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid6">
+    <odzis:telp>(024) 844993</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid6">
+    <odzis:LZISPusat rdf:resource="ompet_Peduli_Ummat_Daarut_Tauhi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid6">
+    <odzis:website rdf:resource="http://www.dpudt-semarang.com/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid7">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid7">
+    <rdfs:label>DompetPeduliUmmatDaarutTauhid7</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid7">
+    <odzis:nama>DompetPeduliUmmatDaarutTauhid7</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid7">
+    <odzis:alamatjalan>Jl. Diponegoro No.170</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid7">
+    <odzis:kota rdf:resource="../kota/Bandar_lampung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid7">
+    <odzis:telp>(0721) 488309</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid7">
+    <odzis:fax>(0721) 486964</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid7">
+    <odzis:LZISPusat rdf:resource="ompet_Peduli_Ummat_Daarut_Tauhi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid8">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid8">
+    <rdfs:label>DompetPeduliUmmatDaarutTauhid8</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid8">
+    <odzis:nama>DompetPeduliUmmatDaarutTauhid8</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid8">
+    <odzis:alamatjalan>Jl. Seduduk Putih No. 005 Rt. 17/7</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid8">
+    <odzis:kota rdf:resource="../kota/Palembang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid8">
+    <odzis:telp>(0711) 739 0009</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid8">
+    <odzis:fax>(0711) 812763</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetPeduliUmmatDaarutTauhid8">
+    <odzis:LZISPusat rdf:resource="ompet_Peduli_Ummat_Daarut_Tauhi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDewanDakwahIndonesia">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDewanDakwahIndonesia">
+    <rdfs:label>LembagaAmilZakatDewanDakwahIndonesia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDewanDakwahIndonesia">
+    <odzis:nama>LembagaAmilZakatDewanDakwahIndonesia</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDewanDakwahIndonesia">
+    <odzis:alamatjalan>Jl. Kramat Raya 45</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDewanDakwahIndonesia">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDewanDakwahIndonesia">
+    <odzis:telp>(021) 31901233</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDewanDakwahIndonesia">
+    <odzis:fax>(021) 3903291</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDewanDakwahIndonesia">
+    <odzis:website rdf:resource="http://www.lazisdewandakwah.org"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatPersaudaraanHajiIndonesia">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatPersaudaraanHajiIndonesia">
+    <rdfs:label>LembagaAmilZakatPersaudaraanHajiIndonesia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatPersaudaraanHajiIndonesia">
+    <odzis:nama>LembagaAmilZakatPersaudaraanHajiIndonesia</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatPersaudaraanHajiIndonesia">
+    <odzis:alamatjalan>Jl. Tegalan No. 1 Matram</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatPersaudaraanHajiIndonesia">
+    <odzis:kota rdf:resource="../kota/Jakarta_timur"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatPersaudaraanHajiIndonesia">
+    <odzis:telp>021-8576645</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatPersaudaraanHajiIndonesia">
+    <odzis:fax>021-8576645</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDanInfaqMalang">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDanInfaqMalang">
+    <rdfs:label>LembagaAmilZakatDanInfaqMalang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDanInfaqMalang">
+    <odzis:nama>LembagaAmilZakatDanInfaqMalang</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDanInfaqMalang">
+    <odzis:alamatjalan>Jl. Bogowonto No. 45</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDanInfaqMalang">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDanInfaqMalang">
+    <odzis:telp>031-5621212</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatDanInfaqMalang">
+    <odzis:fax>031-5681829</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatAlHijrah">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatAlHijrah">
+    <rdfs:label>LembagaAmilZakatAlHijrah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatAlHijrah">
+    <odzis:nama>LembagaAmilZakatAlHijrah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatAlHijrah">
+    <odzis:alamatjalan>Jl. Pasundan 18 Kec. Medan Petisah</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatAlHijrah">
+    <odzis:kota rdf:resource="../kota/Medan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatAlHijrah">
+    <odzis:telp>061-8224668</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatAlHijrah">
+    <odzis:fax>061-77842767</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="PusatZakatUmmat">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PusatZakatUmmat">
+    <rdfs:label>PusatZakatUmmat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="PusatZakatUmmat">
+    <odzis:nama>PusatZakatUmmat</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="PusatZakatUmmat">
+    <odzis:alamatjalan>Jl. Perintis Kemerdekaan No. 2</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="PusatZakatUmmat">
+    <odzis:kota rdf:resource="../kota/Bandung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PusatZakatUmmat">
+    <odzis:telp>(022) 4220704</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="PusatZakatUmmat">
+    <odzis:fax>022-4220702</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatYaumilPtBadakLng">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatYaumilPtBadakLng">
+    <rdfs:label>LembagaAmilZakatYaumilPtBadakLng</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatYaumilPtBadakLng">
+    <odzis:nama>LembagaAmilZakatYaumilPtBadakLng</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatYaumilPtBadakLng">
+    <odzis:alamatjalan>Masjid Al Kautsar Komp. PT. Badak LNG</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatYaumilPtBadakLng">
+    <odzis:kota rdf:resource="../kota/Bontang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatYaumilPtBadakLng">
+    <odzis:telp>0548-5108555</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaAmilZakatYaumilPtBadakLng">
+    <odzis:fax>0548-552189</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisGaruda">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisGaruda">
+    <rdfs:label>LazisGaruda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisGaruda">
+    <odzis:nama>LazisGaruda</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisGaruda">
+    <odzis:alamatjalan>SBU Garuda Sentra Medika, Jl. Angkasa Blok B 15 No. 1 Kemayoran</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisGaruda">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisGaruda">
+    <odzis:telp>021-4243413</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisGaruda">
+    <odzis:fax>021-4243227</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisGaruda">
+    <odzis:website rdf:resource="http://www.Lazisgarudaindonesia.or.id"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisNu">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisNu">
+    <rdfs:label>LazisNu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisNu">
+    <odzis:nama>LazisNu</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisNu">
+    <odzis:alamatjalan>Jl. Kramat Raya No. 164</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisNu">
+    <odzis:kota rdf:resource="../kota/Jakarta_pusat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisNu">
+    <odzis:telp>021-3102913</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="LazisNu">
+    <odzis:fax>021-3102913</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaManajemenInfaq">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaManajemenInfaq">
+    <rdfs:label>LembagaManajemenInfaq</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaManajemenInfaq">
+    <odzis:nama>LembagaManajemenInfaq</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaManajemenInfaq">
+    <odzis:alamatjalan>Komplek Ruko Taman Intan Nginden Jl. Nginden Intan Raya N0 12</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaManajemenInfaq">
+    <odzis:kota rdf:resource="../kota/Surabaya"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaManajemenInfaq">
+    <odzis:telp>031-5621212</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaManajemenInfaq">
+    <odzis:fax>031-5920299</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="LembagaManajemenInfaq">
+    <odzis:website rdf:resource="http://www.lmi-amilzakat.com"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PortalInfaq">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PortalInfaq">
+    <rdfs:label>PortalInfaq</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="PortalInfaq">
+    <odzis:nama>PortalInfaq</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="PortalInfaq">
+    <odzis:alamatjalan>Jl. Radio IV No. 8 A Kebayoran Baru</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="PortalInfaq">
+    <odzis:kota rdf:resource="../kota/Jakarta_selatan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PortalInfaq">
+    <odzis:telp>(021) 72786073</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="PortalInfaq">
+    <odzis:fax>(021) 72786074</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanBaitulMaalBri">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanBaitulMaalBri">
+    <rdfs:label>YayasanBaitulMaalBri</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanBaitulMaalBri">
+    <odzis:nama>YayasanBaitulMaalBri</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanBaitulMaalBri">
+    <odzis:alamatjalan>Gedung Olah Raga BRI Lt. 2 Jl. Jend Sudirman Kav. 44-46</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanBaitulMaalBri">
+    <odzis:kota rdf:resource="../kota/Jakarta_barat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanBaitulMaalBri">
+    <odzis:telp>(021) 57932809</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanBaitulMaalBri">
+    <odzis:fax>(021) 5752724/26</odzis:fax>
+  </rdf:Description>
+  <rdf:Description rdf:about="YayasanBaitulMaalBri">
+    <odzis:website rdf:resource="http://www.ybm-bri.or.id"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetSosialUmmulQuro">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetSosialUmmulQuro">
+    <rdfs:label>DompetSosialUmmulQuro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetSosialUmmulQuro">
+    <odzis:nama>DompetSosialUmmulQuro</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetSosialUmmulQuro">
+    <odzis:alamatjalan>Jl. Dederuk 30</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetSosialUmmulQuro">
+    <odzis:kota rdf:resource="../kota/Bandung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetSosialUmmulQuro">
+    <odzis:telp>022-2500116</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="DompetSosialUmmulQuro">
+    <odzis:fax>022-2500116</odzis:fax>
+  </rdf:Description>
+</rdf:RDF>

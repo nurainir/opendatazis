@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/lzis/">
+  <rdf:Description rdf:about="RumahZakat18">
+    <rdf:type rdf:resource="../odzis#LembagaZIS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat18">
+    <rdfs:label>RumahZakat18</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat18">
+    <odzis:nama>RumahZakat18</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat18">
+    <odzis:alamatjalan>Jl. Pandawa Raya Blok IB, Komplek Indraprasta, Kel. Bantar Jati, Kec. Bogor Utara</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat18">
+    <odzis:kota rdf:resource="../kota#Bogor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat18">
+    <odzis:telp>0251-8378945</odzis:telp>
+  </rdf:Description>
+  <rdf:Description rdf:about="RumahZakat18">
+    <odzis:LZISPusat rdf:resource="../lzis#umah_Zaka"/>
+  </rdf:Description>
+</rdf:RDF>

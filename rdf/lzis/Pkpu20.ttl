@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<Pkpu20>	a	odzis:LembagaZIS ;
+		rdfs:label	"Pkpu20" ;
+		odzis:nama	"Pkpu20" ;
+		odzis:alamatjalan	"Jl. Letjenpol Soemarto Gg. Tampomas RT 03/RW 1 No. 149 Purwokerto." ;
+		odzis:kota	 <http://opendatazis.com/kota#Purwokerto> ;
+		odzis:telp	"0281-7958080" ;
+		odzis:LZISPusat	 <http://opendatazis.com/lzis#KP> ;
+ .
+

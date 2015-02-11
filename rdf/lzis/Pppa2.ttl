@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix odzis: <http://opendatazis.com/odzis#> .
+<Pppa2>	a	odzis:LembagaZIS ;
+		rdfs:label	"Pppa2" ;
+		odzis:nama	"Pppa2" ;
+		odzis:alamatjalan	"Jl. Gajah Raya No. 111B" ;
+		odzis:kota	 <http://opendatazis.com/kota#Semarang> ;
+		odzis:telp	"024-3304 4345" ;
+		odzis:LZISPusat	 <http://opendatazis.com/lzis#PP> ;
+ .
+

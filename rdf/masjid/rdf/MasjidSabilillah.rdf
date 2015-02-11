@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:lgdo="http://linkedgeodata.org/ontology/" xmlns:odzis="http://opendatazis.com/odzis#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://opendatazis.com/masjid/">
+  <rdf:Description rdf:about="MasjidSabilillah">
+    <rdf:type rdf:resource="../odzis#Masjid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSabilillah">
+    <rdfs:label>MasjidSabilillah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSabilillah">
+    <odzis:nama>MasjidSabilillah</odzis:nama>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSabilillah">
+    <odzis:alamatjalan>Jl. Jend A Yani 15</odzis:alamatjalan>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSabilillah">
+    <odzis:kota rdf:resource="../kota/Malang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MasjidSabilillah">
+    <odzis:website rdf:resource="http://www.sabilillahmalang.org/"/>
+  </rdf:Description>
+</rdf:RDF>
